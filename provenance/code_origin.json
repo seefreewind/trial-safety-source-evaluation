@@ -1,0 +1,44 @@
+[
+  {
+    "original": "src/build_full_cohort_source_comparability_matrix.py",
+    "distributed": "scripts/original/build_full_cohort_source_comparability_matrix.py",
+    "sha256": "c6581623c17f268815dea87a5292c37f106939be4717625521a8cc5bca8230d4",
+    "modification": "None; module paths are rebound by the runner before calling original functions."
+  },
+  {
+    "original": "src/build_manual_adjudication_packets.py",
+    "distributed": "scripts/original/build_manual_adjudication_packets.py",
+    "sha256": "5570923e858ab28c62edb8fac725bf13e86789a097d75360af04091ce4827ddb",
+    "modification": "None; module paths are rebound by the runner before calling original functions."
+  },
+  {
+    "original": "src/build_three_layer_analysis_tables.py",
+    "distributed": "scripts/original/build_three_layer_analysis_tables.py",
+    "sha256": "8c662231bdc75eb4c47009b090d4be55279671bf6e9f19df8c49a47263e3688e",
+    "modification": "None; module paths are rebound by the runner before calling original functions."
+  },
+  {
+    "original": "src/build_source_flow_status.py",
+    "distributed": "scripts/original/build_source_flow_status.py",
+    "sha256": "7a68493350241f1f56127547eba20f7107cea2bcb0cb548069f79da66deff216",
+    "modification": "None; module paths are rebound by the runner before calling original functions."
+  },
+  {
+    "original": "src/build_manuscript_figures_tables.py",
+    "distributed": "scripts/original/build_manuscript_figures_tables.py",
+    "sha256": "dbb309bd6b73c494f6900a1d8fe8b11ab4c985f7714e2cbdb726bf782038868b",
+    "modification": "None; module paths are rebound by the runner before calling original functions."
+  },
+  {
+    "original": "manuscript/CT-26-0272_FINAL_R2_QC/audit_r2.py",
+    "distributed": "scripts/revision_original/audit_r2.py",
+    "sha256": "780c4e5c454bc17c88a2fa3981996f2ff0a61d85b6b968319a4ab2e6bf0423cc",
+    "modification": "Unchanged audit history, not run against copyrighted full texts in public package."
+  },
+  {
+    "original": "manuscript/CT-26-0272_FINAL_R2_QC/finalize_r2.py",
+    "distributed": "scripts/revision_original/finalize_r2.py",
+    "sha256": "402e3d6c27adbe326183ca5955479fcffa0a4ed70a4af03b2d5fb6ca1b5f2037",
+    "modification": "Unchanged audit history, not run against copyrighted full texts in public package."
+  }
+]

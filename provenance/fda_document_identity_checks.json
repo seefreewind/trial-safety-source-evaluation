@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/761139Orig1s000MultidisciplineR.pdf",
+    "status": "FAILED",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761158Orig1s000MultidisciplineR.pdf",
+    "status": "FAILED",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/761137Orig1s000MultidisciplineR.pdf",
+    "status": "FAILED",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761115Orig1s000MultidisciplineR.pdf",
+    "status": "FAILED",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

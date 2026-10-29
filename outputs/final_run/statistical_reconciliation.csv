@@ -1,0 +1,23 @@
+metric,reported,recomputed,matches
+Included trials,23,23,True
+Publication extraction,23,23,True
+Registry extraction,19,19,True
+FDA structured extraction,6,6,True
+Other trials without FDA core extraction,17,17,True
+Trial-concept-source groups with related extracted values,53,53,True
+Historical groups contributing retained records,17,17,True
+Automatically generated source-row pairings,269,269,True
+Retained source-row records,28,28,True
+Originally designated primary,21,21,True
+Originally designated sensitivity,7,7,True
+Reclassified original primary records,1,1,True
+Six FDA-extracted: Registry values,5,5,True
+Six FDA-extracted: Randomized controlled,2,2,True
+Six FDA-extracted: Median coverage,6.5,6.5,True
+Six FDA-extracted: Minimum coverage,2,2,True
+Six FDA-extracted: Maximum coverage,7,7,True
+Other seventeen: Registry values,14,14,True
+Other seventeen: Randomized controlled,9,9,True
+Other seventeen: Median coverage,5,5,True
+Other seventeen: Minimum coverage,3,3,True
+Other seventeen: Maximum coverage,7,7,True

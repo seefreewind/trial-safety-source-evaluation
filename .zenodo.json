@@ -1,0 +1,38 @@
+{
+  "title": "Interpreting safety outcomes across public sources in pivotal antibody-drug conjugate trials: data and code",
+  "upload_type": "software",
+  "description": "Archived aggregate extraction data, source-audit annotations, portable Python descriptive reanalysis and execution outputs for a 23-trial case study of safety reporting across publications, ClinicalTrials.gov and regulatory reviews. The package includes 28 retained source-row records. Computation checks reproduce results from extracted inputs and existing annotations; they are not independent source extraction or human adjudication. Copyrighted primary-source full texts and reviewer correspondence are excluded.",
+  "creators": [
+    {
+      "name": "Lin, Da",
+      "affiliation": "Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China"
+    },
+    {
+      "name": "Zhang, Yu",
+      "affiliation": "Department of Ophthalmology, The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China"
+    }
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-10-29",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "clinical trials",
+    "safety reporting",
+    "adverse events",
+    "ClinicalTrials.gov",
+    "regulatory reviews",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/seefreewind/trial-safety-source-evaluation",
+      "relation": "isSupplementTo"
+    },
+    {
+      "identifier": "https://doi.org/10.5281/zenodo.20768718",
+      "relation": "isDerivedFrom"
+    }
+  ],
+  "language": "eng"
+}

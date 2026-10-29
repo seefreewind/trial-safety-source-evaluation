@@ -1,0 +1,482 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00927498",
+      "orgStudyIdInfo": {
+        "id": "ALFA 0701"
+      },
+      "organization": {
+        "fullName": "Acute Leukemia French Association",
+        "class": "OTHER"
+      },
+      "briefTitle": "A Randomized Study of Gemtuzumab Ozogamicin (GO) With Daunorubicine and Cytarabine in Untreated Acute Myeloid Leukemia (AML) Aged of 50-70 Years Old",
+      "officialTitle": "A Phase III Multicentric Randomized Study of the Combination of Repeated Doses of Gemtuzumab Ozogamicin (GO) With Daunorubicin and Cytarabine Versus Daunorubicin and Cytarabine in Untreated Patients With Acute Myeloid Leukemia (AML) Aged of 50-70 Years Old."
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2013-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2007-12"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2011-07",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2013-07",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2009-04-29",
+      "studyFirstSubmitQcDate": "2009-06-24",
+      "studyFirstPostDateStruct": {
+        "date": "2009-06-25",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2013-07-10",
+      "lastUpdatePostDateStruct": {
+        "date": "2013-07-11",
+        "type": "ESTIMATED"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Acute Leukemia French Association",
+        "class": "OTHER"
+      },
+      "collaborators": [
+        {
+          "name": "Versailles Hospital",
+          "class": "OTHER"
+        }
+      ]
+    },
+    "descriptionModule": {
+      "briefSummary": "The main objective of this study is to compare conventional chemotherapy: daunorubicin and the Aracytine and this chemotherapy in combination with the monoclonal antibody used Mylotarg in divided doses.",
+      "detailedDescription": "Patients with a morphologically proven diagnosis AML and both the two following criteria:\n\n* Age \\> 50 years and £ 70 years.\n* Not previously treated for their disease.\n\nRandomization will be centralized by phone :\n\nArm A chemotherapy with daunorubicin and Aracytine or Arm B Daunorubicin and Aracytine and Mylotarg."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Acute Myeloid Leukemia"
+      ],
+      "keywords": [
+        "Acute myeloid Leukemia",
+        "patient aged 50 to 70 years"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "RANDOMIZED",
+        "interventionModel": "PARALLEL",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 280,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Arm A Daunorubicin and Cytarabine",
+          "type": "ACTIVE_COMPARATOR",
+          "description": "Daunorubicin(DNR) induction : 60 mg/m2/day IV (30 min), Days 1,2,3 Daunorubicin (DNR)first consolidation : 60 mg/m2 day 1. Daunorubicin (DNR)second consolidation : 60 mg/m2 day 1 and day 2.\n\nCytarabine induction :200 mg/m2/day by continuous infusion, Days 1 to 7. Cytarabine (AraC)first and second consolidation: 1g/m2/12h days 1 to 4.",
+          "interventionNames": [
+            "Drug: conventional chemotherapy (AraC + Daunorubicin),"
+          ]
+        },
+        {
+          "label": "Arm B Daunorubicin and Cytarabine and Mylotarg",
+          "type": "EXPERIMENTAL",
+          "description": "Daunorubicin(DNR) induction : 60 mg/m2/day IV (30 min), Days 1,2,3 Daunorubicin (DNR)first consolidation : 60 mg/m2 day 1. Daunorubicin (DNR)second consolidation : 60 mg/m2 day 1 and day 2.\n\nCytarabine induction :200 mg/m2/day by continuous infusion, Days 1 to 7. Cytarabine (AraC)first and second consolidation: 1g/m2/12h days 1 to 4.\n\nMylotarg® (GO)induction : 3 mg/m2 IV (2 hours) Days 1, 4, 7. Mylotarg® (GO) First consolidation and Second Consolidation:3 mg/m2 day 1.",
+          "interventionNames": [
+            "Drug: Mylotarg associated with conventional chemotherapy (AraC + Daunorubicin),"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "conventional chemotherapy (AraC + Daunorubicin),",
+          "description": "Daunorubicin(DNR) induction : 60 mg/m2/day IV (30 min), Days 1,2,3 Daunorubicin (DNR)first consolidation : 60 mg/m2 day 1. Daunorubicin (DNR)second consolidation : 60 mg/m2 day 1 and day 2.\n\nCytarabine induction :200 mg/m2/day by continuous infusion, Days 1 to 7. Cytarabine (AraC)first and second consolidation: 1g/m2/12h days 1 to 4.",
+          "armGroupLabels": [
+            "Arm A Daunorubicin and Cytarabine"
+          ]
+        },
+        {
+          "type": "DRUG",
+          "name": "Mylotarg associated with conventional chemotherapy (AraC + Daunorubicin),",
+          "description": "Daunorubicin(DNR) induction : 60 mg/m2/day IV (30 min), Days 1,2,3 Daunorubicin (DNR)first consolidation : 60 mg/m2 day 1. Daunorubicin (DNR)second consolidation : 60 mg/m2 day 1 and day 2.\n\nCytarabine induction :200 mg/m2/day by continuous infusion, Days 1 to 7. Cytarabine (AraC)first and second consolidation: 1g/m2/12h days 1 to 4.\n\nMylotarg® (GO)induction : 3 mg/m2 IV (2 hours) Days 1, 4, 7. Mylotarg® (GO) First consolidation and Second Consolidation:3 mg/m2 day 1.",
+          "armGroupLabels": [
+            "Arm B Daunorubicin and Cytarabine and Mylotarg"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Event Free Survival (EFS)",
+          "timeFrame": "Relapse or death measured from randomization"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "CR rate",
+          "timeFrame": "CR after induction"
+        },
+        {
+          "measure": "Cumulative incidence of relapse",
+          "timeFrame": "Relapse from CR"
+        },
+        {
+          "measure": "Overall Survival",
+          "timeFrame": "Survival from randomization"
+        },
+        {
+          "measure": "Safety of the combination Mylotarg+chemotherapy",
+          "timeFrame": "Duration of study"
+        },
+        {
+          "measure": "Possible predictors of response to Mylotarg: with respect to MDR (multi drug resistance) status, cytogenetics risk groups and mutational status (FLT3, MLL, CEBPa, NPM)",
+          "timeFrame": "Duration of study"
+        },
+        {
+          "measure": "Relationship between minimal residual disease measured on the expression of WT1 gene and relapse of AML.",
+          "timeFrame": "Duration of study"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with a morphologically proven diagnosis AML and both the two following criteria: Age \\> 50 years and £ 70 years. Not previously treated for their disease.\n* ECOG performance status 0 to 3\n* Negative serology HIV, HBV and HBC (except post vaccination)\n* Serum creatinin inf 2.5N; AST and ALT inf 2.5N; total bilirubin inf 2N\n* Cardiac function determined by radionucleide or echography within normal limits.\n* Negative serum pregnancy test within one week before treatment for women of child bearing potential.\n* Signed informed consent.\n\nExclusion Criteria:\n\n* M3-AML\n* AML following previously know myeloproliferative syndrome.\n* Known central nervous system involvement.\n* Uncontrolled infection\n* Other active malignancy",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "50 Years",
+      "maximumAge": "70 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Castaigne Sylvie, Professor",
+          "affiliation": "Versailles Hospital",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "CH",
+          "city": "Argenteuil",
+          "zip": "95107",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.94788,
+            "lon": 2.24744
+          }
+        },
+        {
+          "facility": "Hopital Avicenne",
+          "city": "Bobigny",
+          "zip": "93309",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.90982,
+            "lon": 2.45012
+          }
+        },
+        {
+          "facility": "CH",
+          "city": "Caen",
+          "zip": "14033",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.18585,
+            "lon": -0.35912
+          }
+        },
+        {
+          "facility": "Hopital Percy",
+          "city": "Clamart",
+          "zip": "92141",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.80299,
+            "lon": 2.26692
+          }
+        },
+        {
+          "facility": "CHU",
+          "city": "Créteil",
+          "zip": "94010",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.79266,
+            "lon": 2.46569
+          }
+        },
+        {
+          "facility": "CHU",
+          "city": "Dijon",
+          "zip": "21034",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.31344,
+            "lon": 5.01391
+          }
+        },
+        {
+          "facility": "CH",
+          "city": "Lens",
+          "zip": "62307",
+          "country": "France",
+          "geoPoint": {
+            "lat": 50.43302,
+            "lon": 2.82791
+          }
+        },
+        {
+          "facility": "CHU",
+          "city": "Lille",
+          "zip": "59037",
+          "country": "France",
+          "geoPoint": {
+            "lat": 50.63391,
+            "lon": 3.05512
+          }
+        },
+        {
+          "facility": "CH",
+          "city": "Limoges",
+          "zip": "87042",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.83362,
+            "lon": 1.24759
+          }
+        },
+        {
+          "facility": "Hopital Edouard Herriot",
+          "city": "Lyon",
+          "zip": "69437",
+          "country": "France",
+          "geoPoint": {
+            "lat": 45.74906,
+            "lon": 4.84789
+          }
+        },
+        {
+          "facility": "CH",
+          "city": "Meaux",
+          "zip": "77104",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.96014,
+            "lon": 2.87885
+          }
+        },
+        {
+          "facility": "Hopital Pitie-Salpetriere",
+          "city": "Paris",
+          "zip": "75651",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Hopital Saint-Louis",
+          "city": "Paris",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "CH",
+          "city": "Roubaix",
+          "zip": "59100",
+          "country": "France",
+          "geoPoint": {
+            "lat": 50.69421,
+            "lon": 3.17456
+          }
+        },
+        {
+          "facility": "CHU",
+          "city": "Rouen",
+          "zip": "76038",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.44313,
+            "lon": 1.09932
+          }
+        },
+        {
+          "facility": "CNLCC",
+          "city": "Saint-Cloud",
+          "zip": "92210",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.84598,
+            "lon": 2.20289
+          }
+        },
+        {
+          "facility": "CH",
+          "city": "Valenciennes",
+          "zip": "59322",
+          "country": "France",
+          "geoPoint": {
+            "lat": 50.35909,
+            "lon": 3.52506
+          }
+        },
+        {
+          "facility": "Hospital Central",
+          "city": "Versailles",
+          "zip": "78157",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.80359,
+            "lon": 2.13424
+          }
+        },
+        {
+          "facility": "IGR",
+          "city": "Villejuif",
+          "zip": "94805",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.7939,
+            "lon": 2.35992
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "33858190",
+          "type": "DERIVED",
+          "citation": "Muresan B, Mamolo C, Cappelleri JC, Mokgokong R, Palaka A, Soikkeli F, Heeg B. Comparing cure rates for gemtuzumab ozogamicin plus standard chemotherapy vs standard chemotherapy alone in acute myeloid leukemia patients. Future Oncol. 2021 Aug;17(22):2883-2892. doi: 10.2217/fon-2020-1287. Epub 2021 Apr 16."
+        },
+        {
+          "pmid": "24659740",
+          "type": "DERIVED",
+          "citation": "Renneville A, Abdelali RB, Chevret S, Nibourel O, Cheok M, Pautas C, Dulery R, Boyer T, Cayuela JM, Hayette S, Raffoux E, Farhat H, Boissel N, Terre C, Dombret H, Castaigne S, Preudhomme C. Clinical impact of gene mutations and lesions detected by SNP-array karyotyping in acute myeloid leukemia patients in the context of gemtuzumab ozogamicin treatment: results of the ALFA-0701 trial. Oncotarget. 2014 Feb 28;5(4):916-32. doi: 10.18632/oncotarget.1536."
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-06-17"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D015470",
+          "term": "Leukemia, Myeloid, Acute"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D007951",
+          "term": "Leukemia, Myeloid"
+        },
+        {
+          "id": "D007938",
+          "term": "Leukemia"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D003630",
+          "term": "Daunorubicin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D018943",
+          "term": "Anthracyclines"
+        },
+        {
+          "id": "D009279",
+          "term": "Naphthacenes"
+        },
+        {
+          "id": "D011084",
+          "term": "Polycyclic Aromatic Hydrocarbons"
+        },
+        {
+          "id": "D006841",
+          "term": "Hydrocarbons, Aromatic"
+        },
+        {
+          "id": "D006844",
+          "term": "Hydrocarbons, Cyclic"
+        },
+        {
+          "id": "D006838",
+          "term": "Hydrocarbons"
+        },
+        {
+          "id": "D009930",
+          "term": "Organic Chemicals"
+        },
+        {
+          "id": "D011083",
+          "term": "Polycyclic Compounds"
+        },
+        {
+          "id": "D000617",
+          "term": "Aminoglycosides"
+        },
+        {
+          "id": "D006027",
+          "term": "Glycosides"
+        },
+        {
+          "id": "D002241",
+          "term": "Carbohydrates"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

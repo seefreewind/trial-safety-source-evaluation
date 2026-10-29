@@ -1,0 +1,641 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT03386513",
+      "orgStudyIdInfo": {
+        "id": "IMGN632-0801"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2024-514195-40-00",
+          "type": "CTIS"
+        }
+      ],
+      "organization": {
+        "fullName": "AbbVie",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "Study of IMGN632 in Patients With Untreated BPDCN and Relapsed/Refractory BPDCN",
+      "officialTitle": "A Phase 1/2, Multi-center, Open-label Study of IMGN632 Monotherapy Administered Intravenously in Patients With CD123-positive Acute Myeloid Leukemia and Other CD123-positive Hematologic Malignancies"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-12",
+      "overallStatus": "ACTIVE_NOT_RECRUITING",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2018-01-02",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2023-09-06",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2026-12-30",
+        "type": "ESTIMATED"
+      },
+      "studyFirstSubmitDate": "2017-12-21",
+      "studyFirstSubmitQcDate": "2017-12-28",
+      "studyFirstPostDateStruct": {
+        "date": "2017-12-29",
+        "type": "ACTUAL"
+      },
+      "dispFirstSubmitDate": "2024-08-06",
+      "dispFirstPostDateStruct": {
+        "date": "2023-08-03",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-12-12",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-12-16",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "AbbVie",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This is an open-label, multi-center, Phase 1/2 study to determine the MTD and assess the safety, tolerability, PK, immunogenicity, and anti-leukemia activity of IMGN632 when administered as monotherapy to patients with CD123+ disease.",
+      "detailedDescription": "IMGN632 is administered by IV on Day 1 of each cycle, with cycles repeating every 21 days."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Blastic Plasmacytoid Dendritic Cell Neoplasm",
+        "Myeloproliferative Neoplasm"
+      ],
+      "keywords": [
+        "Antibody Drug Conjugate",
+        "Other Hematologic Malignancies",
+        "Myeloproliferative Neoplasms",
+        "CD123",
+        "MDS",
+        "Relapsed, Refractory",
+        "Acute Lymphocytic Leukaemia",
+        "Blastic Plasmacytoid Dendritic Cell Neoplasm",
+        "Acute Myeloid Leukemia"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE1",
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 179,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Escalation and Expansion",
+          "type": "EXPERIMENTAL",
+          "description": "Escalation: IMGN632 was administered by IV on 2 different schedules for participants with relapsed/refractory AML, ALL, or BPDCN.\n\nExpansion: IMGN632 was administered by IV:\n\n* Cohort 1: Relapsed or refractory BPDCN participants who have received 1-3 prior systemic therapies (incl. tagraxofusp-erzs and/or any other systemic therapy deemed appropriate for the treatment of BPDCN)\n* Cohort 2: Relapsed AML\n* Cohort 3: Relapsed or refractory ALL\n* Cohort 4: Other relapsed or refractory hematologic malignancies\n* Cohort 5: Relapsed or refractory AML at alternate dose or schedule\n* Cohort 6: Pivotal cohort for frontline BPDCN participants who have not received prior systemic therapy and participants with frontline BPDCN who have prior or concomitant hematologic malignancy (PCHM) and have not received prior systemic therapy.",
+          "interventionNames": [
+            "Drug: IMGN632"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "IMGN632",
+          "description": "CD123-targeted ADC",
+          "armGroupLabels": [
+            "Escalation and Expansion"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "To assess the rate of composite CR in BPDCN patients",
+          "description": "CR+clinical CR \\[CRc\\]",
+          "timeFrame": "21-day cycle"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "To assess the duration of CR (DOCR) for patients with CR or CRc",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "Number of participants with treatment-related adverse events as assessed by CTCAE v4.03",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "To assess the rate of CR+CRc+CRh",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "To assess the duration of CR+CRc+CRh",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "To assess ORR: CR+CRc+CRh+CRi+PR",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "To assess the duration of overall response",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "To assess OS",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "To assess the percent of BPDCN patients able to bridge to stem cell transplant in the frontline and relapsed/refractory populations separately",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "To characterize the PK of IMGN632, total antibody, and FGN849 (the active catabolite)",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "To evaluate the potential immunogenicity of IMGN632",
+          "description": "ADA",
+          "timeFrame": "Up to 24 months"
+        },
+        {
+          "measure": "To assess transfusion independence",
+          "description": "Conversion rate to independence of red blood cell (RBC) and platelet transfusion relative to baseline",
+          "timeFrame": "Up to 24 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Disease Characteristics:\n\n   a. Confirmation of CD123 positivity by flow cytometry or IHC. Participants who received prior CD123-targeting agents will be allowed as long as the blasts still have detectable CD123 expression.\n2. Expansion inclusion:\n\n   * Cohort 1 - Participants with relapsed or refractory blastic plasmacytoid dendritic cell neoplasm (BPDCN) with 1-3 prior lines of therapy\n   * Cohort 2 - Participants with relapsed AML\n   * Cohort 3 - Participants with relapsed relapsed or refractory ALL (including any subtypes: B-cell, T-cell, Ph+ and Ph-)\n   * Cohort 4 - Participants with relapsed or refractory other hematologic malignancies not included in the cohorts above (eg, high risk/very high-risk MDS, MPN, CMML, BP-CML).\n   * Cohort 5 - Participants with relapsed relapsed or refractory (to nonintense therapies) CD123+ AML.\n   * Cohort 6 - Participants with frontline de novo BPDCN at screening who have not received prior systemic therapy and participants with frontline BPDCN who have PCHM and have not received prior systemic therapy.\n\nNote: Participants in Cohort 6 may have received local therapy (radiotherapy, surgical excision, photodynamic therapy). Eligible participants must have a recurrence or progression in the field of local therapy OR disease outside the field of local therapy.\n\nExclusion Criteria:\n\n1. Participants who, in the judgment of their treating physician, have appropriate standard of care therapies will be excluded from Cohorts 1 through 5.\n2. Frontline BPDCN participants with central nervous system (CNS) disease will be excluded. A lumbar puncture must be performed during the 28-day screening period, prior to drug administration. Relapsed or refractory BPDCN participants with a known history of CNS disease must have been treated locally, have at least 1 lumbar puncture with no evidence of CNS disease, and must be clinically stable prior to first dose. Concurrent therapy for CNS prophylaxis or continuation of therapy for controlled CNS disease is permitted with the approval of the Sponsor.\n3. Participants with a history of veno-occlusive disease (sinusoidal obstruction syndrome) of the liver.\n4. Participants with a history of Grade 4 capillary leak syndrome, or non-cardiac Grade 4 edema are ineligible, eg, related to tagraxofusp-erzs or other etiology.\n5. Interval from prior cancer therapy: 1. For frontline BPDCN participants with prior local therapy (eg, radiotherapy), participants must not have received treatment within 14 days prior to drug administration on this study. 2. Relapsed or refractory BPDCN participants must not have received any anti-cancer therapy including chemotherapy, immunotherapy, radiotherapy, hormonal, biologic, or any investigational agents within 14 days prior to drug administration on this study. Participants must have recovered to baseline from all acute toxicity from this prior therapy.\n\nNote: the exception that participants who have received a checkpoint inhibitor must not have received that therapy within 28 days prior to drug administration on this study.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "ABBVIE INC.",
+          "affiliation": "AbbVie",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Banner Health MD Anderson Cancer Center",
+          "city": "Gilbert",
+          "state": "Arizona",
+          "zip": "85234",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.35283,
+            "lon": -111.78903
+          }
+        },
+        {
+          "facility": "City of Hope Medical Center",
+          "city": "Duarte",
+          "state": "California",
+          "zip": "91010",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.13945,
+            "lon": -117.97729
+          }
+        },
+        {
+          "facility": "UCLA",
+          "city": "Los Angeles",
+          "state": "California",
+          "zip": "90095",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.05223,
+            "lon": -118.24368
+          }
+        },
+        {
+          "facility": "Stanford",
+          "city": "Stanford",
+          "state": "California",
+          "zip": "94305",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.42411,
+            "lon": -122.16608
+          }
+        },
+        {
+          "facility": "Moffitt Cancer Center",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33612",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "University of Maryland Medical Center",
+          "city": "Baltimore",
+          "state": "Maryland",
+          "zip": "21201",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.29038,
+            "lon": -76.61219
+          }
+        },
+        {
+          "facility": "Dana-Farber Cancer Institute",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02215",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Roswell Park Cancer Institute",
+          "city": "Buffalo",
+          "state": "New York",
+          "zip": "14263",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.88645,
+            "lon": -78.87837
+          }
+        },
+        {
+          "facility": "Memorial Sloan Kettering Cancer Center",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10065",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Novant Health Cancer Institute Hematology",
+          "city": "Charlotte",
+          "state": "North Carolina",
+          "zip": "28204",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.22709,
+            "lon": -80.84313
+          }
+        },
+        {
+          "facility": "Duke Cancer Institute",
+          "city": "Durham",
+          "state": "North Carolina",
+          "zip": "27710",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 35.99403,
+            "lon": -78.89862
+          }
+        },
+        {
+          "facility": "Novant Health Cancer Institute Hematology - Forsyth",
+          "city": "Winston-Salem",
+          "state": "North Carolina",
+          "zip": "27103",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.09986,
+            "lon": -80.24422
+          }
+        },
+        {
+          "facility": "Baylor Scott & White University Medical Center",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75246",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        },
+        {
+          "facility": "MD Anderson Cancer Center",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030-7095",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "Fred Hutchinson Cancer Research Center/Seattle Cancer Care Alliance",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98109",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.60621,
+            "lon": -122.33207
+          }
+        },
+        {
+          "facility": "Recherche Clinique-Hématologie",
+          "city": "Amiens",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.9,
+            "lon": 2.3
+          }
+        },
+        {
+          "facility": "CHU de Besancon, Hopital Jean Minjoz",
+          "city": "Besançon",
+          "zip": "25030",
+          "country": "France",
+          "geoPoint": {
+            "lat": 47.24878,
+            "lon": 6.01815
+          }
+        },
+        {
+          "facility": "Institut Paoli Calmettes (Marseille)",
+          "city": "Marseille",
+          "zip": "13009",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.29695,
+            "lon": 5.38107
+          }
+        },
+        {
+          "facility": "Hôpital St Antoine",
+          "city": "Paris",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "CHU Bordeaux Hôpital Haut-Lévêque",
+          "city": "Pessac",
+          "zip": "33600",
+          "country": "France",
+          "geoPoint": {
+            "lat": 44.80565,
+            "lon": -0.6324
+          }
+        },
+        {
+          "facility": "University Hospital of Cologne",
+          "city": "Cologne",
+          "zip": "50937",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 50.93333,
+            "lon": 6.95
+          }
+        },
+        {
+          "facility": "University Hospital of Leipzig",
+          "city": "Leipzig",
+          "zip": "04103",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.33962,
+            "lon": 12.37129
+          }
+        },
+        {
+          "facility": "IRCCS Azienda Ospedaliero-Universitaria di Bologna Policlinico S. Orsola Malpighi",
+          "city": "Bologna",
+          "zip": "40138",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.49381,
+            "lon": 11.33875
+          }
+        },
+        {
+          "facility": "Instituto Scientifico Romagnolo per lo Studio e la Cura dei Tumori",
+          "city": "Meldola",
+          "zip": "47014",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.12775,
+            "lon": 12.0626
+          }
+        },
+        {
+          "facility": "Instituto Europeo di Oncologia",
+          "city": "Milan",
+          "zip": "20141",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 42.78235,
+            "lon": 12.59836
+          }
+        },
+        {
+          "facility": "Azienda ospedaliera Santa Maria della Misericordia",
+          "city": "Perugia",
+          "zip": "06132",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.1122,
+            "lon": 12.38878
+          }
+        },
+        {
+          "facility": "Hospital Universitari I Politècnic La Fe",
+          "city": "Valencia",
+          "zip": "46026",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Churchill Hospital - Oxford",
+          "city": "Oxford",
+          "zip": "OX3 7LE",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 51.75222,
+            "lon": -1.25596
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "41671533",
+          "type": "DERIVED",
+          "citation": "Pemmaraju N, Marconi G, Montesinos P, Lane AA, Mazzarella L, Sallman DA, Ulrickson ML, Schiller GJ, Erba HP, Wang ES, Walter RB, Deconinck E, Aribi A, Legrand O, Lebon D, Maisano V, Martinelli G, DeAngelo DJ, Derenzini E, Du Y, Lakshmikanthan S, Potluri J, Kantarjian HM, Daver NG. Pivekimab Sunirine in Blastic Plasmacytoid Dendritic Cell Neoplasm. J Clin Oncol. 2026 Apr;44(10):861-873. doi: 10.1200/JCO-25-02083. Epub 2026 Feb 11."
+        },
+        {
+          "pmid": "38423051",
+          "type": "DERIVED",
+          "citation": "Daver NG, Montesinos P, DeAngelo DJ, Wang ES, Papadantonakis N, Todisco E, Sweet KL, Pemmaraju N, Lane AA, Torres-Minana L, Thompson JE, Konopleva MY, Sloss CM, Watkins K, Bedse G, Du Y, Malcolm KE, Zweidler-McKay PA, Kantarjian HM. Pivekimab sunirine (IMGN632), a novel CD123-targeting antibody-drug conjugate, in relapsed or refractory acute myeloid leukaemia: a phase 1/2 study. Lancet Oncol. 2024 Mar;25(3):388-399. doi: 10.1016/S1470-2045(23)00674-5."
+        }
+      ]
+    },
+    "ipdSharingStatementModule": {
+      "ipdSharing": "NO"
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-06-17"
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000099067",
+          "term": "Blastic Plasmacytoid Dendritic Cell Neoplasm"
+        },
+        {
+          "id": "D009196",
+          "term": "Myeloproliferative Disorders"
+        },
+        {
+          "id": "D012008",
+          "term": "Recurrence"
+        },
+        {
+          "id": "D054198",
+          "term": "Precursor Cell Lymphoblastic Leukemia-Lymphoma"
+        },
+        {
+          "id": "D015470",
+          "term": "Leukemia, Myeloid, Acute"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D015620",
+          "term": "Histiocytic Disorders, Malignant"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D007938",
+          "term": "Leukemia"
+        },
+        {
+          "id": "D008223",
+          "term": "Lymphoma"
+        },
+        {
+          "id": "D019337",
+          "term": "Hematologic Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D012878",
+          "term": "Skin Neoplasms"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D012871",
+          "term": "Skin Diseases"
+        },
+        {
+          "id": "D017437",
+          "term": "Skin and Connective Tissue Diseases"
+        },
+        {
+          "id": "D001855",
+          "term": "Bone Marrow Diseases"
+        },
+        {
+          "id": "D020969",
+          "term": "Disease Attributes"
+        },
+        {
+          "id": "D010335",
+          "term": "Pathologic Processes"
+        },
+        {
+          "id": "D013568",
+          "term": "Pathological Conditions, Signs and Symptoms"
+        },
+        {
+          "id": "D007945",
+          "term": "Leukemia, Lymphoid"
+        },
+        {
+          "id": "D008232",
+          "term": "Lymphoproliferative Disorders"
+        },
+        {
+          "id": "D008206",
+          "term": "Lymphatic Diseases"
+        },
+        {
+          "id": "D007160",
+          "term": "Immunoproliferative Disorders"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        },
+        {
+          "id": "D007951",
+          "term": "Leukemia, Myeloid"
+        }
+      ]
+    }
+  },
+  "hasResults": false
+}

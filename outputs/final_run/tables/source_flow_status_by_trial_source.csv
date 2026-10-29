@@ -1,0 +1,70 @@
+trial_id,short_trial_name,source_type,source_flow_state,extraction_state,core_concepts_reported_count,core_safety_rows,source_note
+TRIAL001,DESTINY-Breast01,publication,source_retrieved,structured_value_extracted,7,14,Publication-anchored cohort; local main article is available.
+TRIAL001,DESTINY-Breast01,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,10,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL001,DESTINY-Breast01,FDA review,source_retrieved,structured_value_extracted,7,8,FDA review document has structured core safety extraction.
+TRIAL002,DREAMM-2,publication,source_retrieved,structured_value_extracted,6,14,Publication-anchored cohort; local main article is available.
+TRIAL002,DREAMM-2,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,10,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL002,DREAMM-2,FDA review,source_retrieved,structured_value_extracted,7,14,FDA review document has structured core safety extraction.
+TRIAL003,EV-201,publication,source_retrieved,structured_value_extracted,3,5,Publication-anchored cohort; local main article is available.
+TRIAL003,EV-201,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,4,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL003,EV-201,FDA review,source_retrieved,structured_value_extracted,7,13,FDA review document has structured core safety extraction.
+TRIAL004,IMMU-132-01,publication,source_retrieved,structured_value_extracted,4,5,Publication-anchored cohort; local main article is available.
+TRIAL004,IMMU-132-01,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,2,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL004,IMMU-132-01,FDA review,source_retrieved,structured_value_extracted,5,6,FDA review document has structured core safety extraction.
+TRIAL005,ASCENT,publication,source_retrieved,structured_value_extracted,6,8,Publication-anchored cohort; local main article is available.
+TRIAL005,ASCENT,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,4,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL005,ASCENT,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL006,ALFA-0701,publication,source_retrieved,structured_value_extracted,2,8,Publication-anchored cohort; local main article is available.
+TRIAL006,ALFA-0701,ClinicalTrials.gov,source_unavailable_or_not_linked,source_unavailable_or_not_linked,0,0,No local ClinicalTrials.gov JSON was linked.
+TRIAL006,ALFA-0701,FDA review,source_retrieved,structured_value_extracted,1,1,FDA review document has structured core safety extraction.
+TRIAL007,SG035-0003,publication,source_retrieved,structured_value_extracted,5,5,Publication-anchored cohort; local main article is available.
+TRIAL007,SG035-0003,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,2,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL007,SG035-0003,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL008,SG035-0004,publication,source_retrieved,structured_value_extracted,5,6,Publication-anchored cohort; local main article is available.
+TRIAL008,SG035-0004,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,2,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL008,SG035-0004,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL009,EMILIA,publication,source_retrieved,structured_value_extracted,5,12,Publication-anchored cohort; local main article is available.
+TRIAL009,EMILIA,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,6,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL009,EMILIA,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL010,INO-VATE ALL,publication,source_retrieved,structured_value_extracted,1,8,Publication-anchored cohort; local main article is available.
+TRIAL010,INO-VATE ALL,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,4,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL010,INO-VATE ALL,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL011,GO29365,publication,source_retrieved,structured_value_extracted,2,3,Publication-anchored cohort; local main article is available.
+TRIAL011,GO29365,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,22,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL011,GO29365,FDA review,source_retrieved,structured_value_extracted,6,12,FDA review document has structured core safety extraction.
+TRIAL012,LOTIS-2,publication,source_retrieved,structured_value_extracted,5,6,Publication-anchored cohort; local main article is available.
+TRIAL012,LOTIS-2,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,2,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL012,LOTIS-2,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL013,innovaTV 204,publication,source_retrieved,structured_value_extracted,4,4,Publication-anchored cohort; local main article is available.
+TRIAL013,innovaTV 204,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,2,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL013,innovaTV 204,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL014,innovaTV 301,publication,source_retrieved,structured_value_extracted,5,10,Publication-anchored cohort; local main article is available.
+TRIAL014,innovaTV 301,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,4,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL014,innovaTV 301,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL015,SORAYA,publication,source_retrieved,structured_value_extracted,7,7,Publication-anchored cohort; local main article is available.
+TRIAL015,SORAYA,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,2,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL015,SORAYA,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL016,MIRASOL,publication,source_retrieved,structured_value_extracted,2,4,Publication-anchored cohort; local main article is available.
+TRIAL016,MIRASOL,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,4,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL016,MIRASOL,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL017,DREAMM-7,publication,source_retrieved,structured_value_extracted,2,4,Publication-anchored cohort; local main article is available.
+TRIAL017,DREAMM-7,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,4,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL017,DREAMM-7,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL018,DREAMM-8,publication,source_retrieved,structured_value_extracted,2,4,Publication-anchored cohort; local main article is available.
+TRIAL018,DREAMM-8,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,4,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL018,DREAMM-8,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL019,TROPION-Breast01,publication,source_retrieved,structured_value_extracted,3,6,Publication-anchored cohort; local main article is available.
+TRIAL019,TROPION-Breast01,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,4,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL019,TROPION-Breast01,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL020,TROPION-Lung05,publication,source_retrieved,structured_value_extracted,6,6,Publication-anchored cohort; local main article is available.
+TRIAL020,TROPION-Lung05,ClinicalTrials.gov,source_retrieved,structured_value_extracted,2,2,ClinicalTrials.gov JSON and adverse-events module are available.
+TRIAL020,TROPION-Lung05,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL021,LUMINOSITY,publication,source_retrieved,structured_value_extracted,3,5,Publication-anchored cohort; local main article is available.
+TRIAL021,LUMINOSITY,ClinicalTrials.gov,source_unavailable_or_not_linked,source_unavailable_or_not_linked,0,0,No local ClinicalTrials.gov JSON was linked.
+TRIAL021,LUMINOSITY,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL022,TROPION-Breast02,publication,source_retrieved,structured_value_extracted,7,14,Publication-anchored cohort; local main article is available.
+TRIAL022,TROPION-Breast02,ClinicalTrials.gov,source_unavailable_or_not_linked,source_unavailable_or_not_linked,0,0,No local ClinicalTrials.gov JSON was linked.
+TRIAL022,TROPION-Breast02,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."
+TRIAL023,CADENZA,publication,source_retrieved,structured_value_extracted,4,7,Publication-anchored cohort; local main article is available.
+TRIAL023,CADENZA,ClinicalTrials.gov,source_unavailable_or_not_linked,source_unavailable_or_not_linked,0,0,No local ClinicalTrials.gov JSON was linked.
+TRIAL023,CADENZA,FDA review,source_retrieved_no_structured_core_values,source_retrieved_no_structured_core_values,0,0,"FDA P1 documents exist locally for the drug, but no trial-specific structured core safety values were extracted."

@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite this version when using these data and code."
+type: software
+title: "Interpreting safety outcomes across public sources in pivotal antibody-drug conjugate trials: data and code"
+authors:
+  - family-names: Lin
+    given-names: Da
+  - family-names: Zhang
+    given-names: Yu
+version: 1.0.0
+date-released: 2026-10-29
+repository-code: "https://github.com/seefreewind/trial-safety-source-evaluation"
+url: "https://github.com/seefreewind/trial-safety-source-evaluation"
+license: CC-BY-4.0

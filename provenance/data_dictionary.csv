@@ -1,0 +1,313 @@
+file,field,meaning
+data/data/interim/ctgov_core_safety_expansion_seed.csv,observation_id,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,trial_id,Stable trial identifier.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,arm_id,Original seed group identifier; absence remains missing.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,document_id,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,source_type,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,page_or_table_locator,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,ae_original_term,Original source/extraction term.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,ae_standardized_term,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,meddra_pt,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,meddra_soc,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,smq,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,safety_concept,Historical search concept; registry mortality mapping is not fatal AE.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,grade_category,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,seriousness,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,causality,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,number_events,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,number_patients,Original affected-participant count.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,denominator,Original reported analysis denominator.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,percentage,Original extracted percentage; registry values are derived.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,reporting_threshold,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,analysis_population,Original extraction population label; not certified alignment.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,data_cutoff_date,"Original extraction cutoff field, distinct from registry update date."
+data/data/interim/ctgov_core_safety_expansion_seed.csv,extractor,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,review_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_expansion_seed.csv,notes,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,observation_id,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,trial_id,Stable trial identifier.
+data/data/interim/ctgov_core_safety_seed.csv,arm_id,Original seed group identifier; absence remains missing.
+data/data/interim/ctgov_core_safety_seed.csv,document_id,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,source_type,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,page_or_table_locator,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,ae_original_term,Original source/extraction term.
+data/data/interim/ctgov_core_safety_seed.csv,ae_standardized_term,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,meddra_pt,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,meddra_soc,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,smq,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,safety_concept,Historical search concept; registry mortality mapping is not fatal AE.
+data/data/interim/ctgov_core_safety_seed.csv,grade_category,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,seriousness,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,causality,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,number_events,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,number_patients,Original affected-participant count.
+data/data/interim/ctgov_core_safety_seed.csv,denominator,Original reported analysis denominator.
+data/data/interim/ctgov_core_safety_seed.csv,percentage,Original extracted percentage; registry values are derived.
+data/data/interim/ctgov_core_safety_seed.csv,reporting_threshold,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,analysis_population,Original extraction population label; not certified alignment.
+data/data/interim/ctgov_core_safety_seed.csv,data_cutoff_date,"Original extraction cutoff field, distinct from registry update date."
+data/data/interim/ctgov_core_safety_seed.csv,extractor,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,review_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/ctgov_core_safety_seed.csv,notes,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,observation_id,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,trial_id,Stable trial identifier.
+data/data/interim/fda_core_safety_combined_seed.csv,arm_id,Original seed group identifier; absence remains missing.
+data/data/interim/fda_core_safety_combined_seed.csv,document_id,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,source_type,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,page_or_table_locator,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,ae_original_term,Original source/extraction term.
+data/data/interim/fda_core_safety_combined_seed.csv,ae_standardized_term,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,meddra_pt,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,meddra_soc,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,smq,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,safety_concept,Historical search concept; registry mortality mapping is not fatal AE.
+data/data/interim/fda_core_safety_combined_seed.csv,grade_category,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,seriousness,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,causality,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,number_events,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,number_patients,Original affected-participant count.
+data/data/interim/fda_core_safety_combined_seed.csv,denominator,Original reported analysis denominator.
+data/data/interim/fda_core_safety_combined_seed.csv,percentage,Original extracted percentage; registry values are derived.
+data/data/interim/fda_core_safety_combined_seed.csv,reporting_threshold,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,analysis_population,Original extraction population label; not certified alignment.
+data/data/interim/fda_core_safety_combined_seed.csv,data_cutoff_date,"Original extraction cutoff field, distinct from registry update date."
+data/data/interim/fda_core_safety_combined_seed.csv,extractor,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,review_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,notes,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,fda_seed_batch,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/fda_core_safety_combined_seed.csv,canonical_safety_concept,Normalized historical concept used for workload/coverage.
+data/data/interim/publication_core_safety_combined_seed.csv,observation_id,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,trial_id,Stable trial identifier.
+data/data/interim/publication_core_safety_combined_seed.csv,arm_id,Original seed group identifier; absence remains missing.
+data/data/interim/publication_core_safety_combined_seed.csv,document_id,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,source_type,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,page_or_table_locator,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,ae_original_term,Original source/extraction term.
+data/data/interim/publication_core_safety_combined_seed.csv,ae_standardized_term,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,meddra_pt,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,meddra_soc,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,smq,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,safety_concept,Historical search concept; registry mortality mapping is not fatal AE.
+data/data/interim/publication_core_safety_combined_seed.csv,grade_category,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,seriousness,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,causality,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,number_events,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,number_patients,Original affected-participant count.
+data/data/interim/publication_core_safety_combined_seed.csv,denominator,Original reported analysis denominator.
+data/data/interim/publication_core_safety_combined_seed.csv,percentage,Original extracted percentage; registry values are derived.
+data/data/interim/publication_core_safety_combined_seed.csv,reporting_threshold,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,analysis_population,Original extraction population label; not certified alignment.
+data/data/interim/publication_core_safety_combined_seed.csv,data_cutoff_date,"Original extraction cutoff field, distinct from registry update date."
+data/data/interim/publication_core_safety_combined_seed.csv,extractor,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,review_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,notes,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,publication_seed_batch,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/interim/publication_core_safety_combined_seed.csv,canonical_safety_concept,Normalized historical concept used for workload/coverage.
+data/data/processed/full_cohort_source_comparability_matrix.csv,comparison_id,Historical source-row pairing ID; not an independent observation.
+data/data/processed/full_cohort_source_comparability_matrix.csv,trial_id,Stable trial identifier.
+data/data/processed/full_cohort_source_comparability_matrix.csv,arm_id_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,arm_id_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,ae_concept,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,source_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,source_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,source_document_id_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,source_document_id_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,number_patients_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,number_patients_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,denominator_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,denominator_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,percentage_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,percentage_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,absolute_percentage_difference,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,comparability_grade,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,same_trial,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,same_arm,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,same_population,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,same_ae_definition,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,denominator_difference_percent,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,reason,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,analysis_use,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix.csv,review_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,comparison_id,Historical source-row pairing ID; not an independent observation.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,trial_id,Stable trial identifier.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,ae_concept,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,source_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,source_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,observation_id_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,observation_id_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,arm_id_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,arm_id_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,document_id_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,document_id_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,locator_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,locator_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,term_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,term_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,grade_category_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,grade_category_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,seriousness_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,seriousness_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,causality_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,causality_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,number_patients_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,number_patients_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,denominator_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,denominator_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,percentage_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,percentage_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,absolute_percentage_difference,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,analysis_population_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,analysis_population_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,comparability_grade,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,same_arm,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,same_population,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,same_ae_definition,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,denominator_difference_percent,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,reason,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,analysis_use,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,review_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,notes_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/full_cohort_source_comparability_matrix_detail.csv,notes_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,trial_id,Stable trial identifier.
+data/data/processed/trial_master_expansion_candidates.csv,drug_id,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,approval_id,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,nct_number,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,acronym,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,phase,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,randomized,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,controlled,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,blinded,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,single_arm,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,indication,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,experimental_regimen,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,comparator,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,safety_population,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,data_cutoff_date,"Original extraction cutoff field, distinct from registry update date."
+data/data/processed/trial_master_expansion_candidates.csv,median_followup,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,ctcae_version,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,publication_doi,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,supplement_available,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,verification_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/data/processed/trial_master_expansion_candidates.csv,notes,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,comparison_id,Historical source-row pairing ID; not an independent observation.
+data/tables/analysis_ready_comparison_set_confirmed.csv,trial_id,Stable trial identifier.
+data/tables/analysis_ready_comparison_set_confirmed.csv,ae_concept,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,source_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,source_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,arm_id_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,arm_id_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,denominator_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,denominator_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,percentage_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,percentage_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,absolute_percentage_difference,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,analysis_tier,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,analysis_use,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,grade_basis,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,review_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/analysis_ready_comparison_set_confirmed.csv,source_confirmation_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,comparison_id,Historical source-row pairing ID; not an independent observation.
+data/tables/confirmed_pair_structured_audit_packet.csv,trial_id,Stable trial identifier.
+data/tables/confirmed_pair_structured_audit_packet.csv,ae_concept,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,source_pair,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,analysis_tier_current,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,grade_basis_current,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,arm_id_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,arm_id_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,term_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,term_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,locator_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,locator_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,number_patients_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,number_patients_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,denominator_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,denominator_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,percentage_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,percentage_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,absolute_percentage_difference,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,analysis_population_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,analysis_population_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,visual_audit_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,structured_audit_concept_mapping,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,structured_audit_arm_match,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,structured_audit_denominator_check,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,structured_audit_source_confirmation,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,structured_audit_visual_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/confirmed_pair_structured_audit_packet.csv,final_current_analysis_tier,"Historical primary/sensitivity label preserved, not current validation."
+data/tables/confirmed_pair_structured_audit_packet.csv,audit_notes,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/final_analysis_audit_index.csv,comparison_id,Historical source-row pairing ID; not an independent observation.
+data/tables/final_analysis_audit_index.csv,trial_id,Stable trial identifier.
+data/tables/final_analysis_audit_index.csv,ae_concept,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/final_analysis_audit_index.csv,analysis_tier,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/final_analysis_audit_index.csv,source_pair,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/final_analysis_audit_index.csv,percentage_1,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/final_analysis_audit_index.csv,percentage_2,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/final_analysis_audit_index.csv,absolute_percentage_difference,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/final_analysis_audit_index.csv,pair_confirmation_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/final_analysis_audit_index.csv,source_1_visual_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/final_analysis_audit_index.csv,source_2_visual_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/final_analysis_audit_index.csv,source_1_visual_note,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/final_analysis_audit_index.csv,source_2_visual_note,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/final_analysis_audit_index.csv,final_audit_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/five_state_source_reporting_status.csv,trial_id,Stable trial identifier.
+data/tables/five_state_source_reporting_status.csv,short_trial_name,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/five_state_source_reporting_status.csv,safety_concept,Historical search concept; registry mortality mapping is not fatal AE.
+data/tables/five_state_source_reporting_status.csv,source_pair,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/five_state_source_reporting_status.csv,five_state_status,"Historical algorithmic screening state, not revised A-E audit."
+data/tables/five_state_source_reporting_status.csv,generated_comparison_count,Candidate pair count contributing to a historical group.
+data/tables/five_state_source_reporting_status.csv,grade_A_or_B_count,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/five_state_source_reporting_status.csv,confirmed_analysis_ready_count,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/five_state_source_reporting_status.csv,grade_C_count,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,trial_id,Stable trial identifier.
+data/tables/full_cohort_expansion_source_status.csv,approval_id,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,drug_id,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,nct_number,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,acronym,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,verification_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,ctgov_ae_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,ctgov_event_group_count,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,ctgov_serious_event_term_count,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,ctgov_other_event_term_count,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,fda_p1_present_count_for_drug,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,fda_p1_missing_count_for_drug,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,fda_p1_missing_urls_for_drug,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/full_cohort_expansion_source_status.csv,recommended_next_step,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/primary_trial_reference_list.csv,reference_number,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/primary_trial_reference_list.csv,trial_id,Stable trial identifier.
+data/tables/primary_trial_reference_list.csv,short_trial_name,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/primary_trial_reference_list.csv,nct_number,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/primary_trial_reference_list.csv,pmid,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/primary_trial_reference_list.csv,doi,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/primary_trial_reference_list.csv,citation,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/primary_trial_reference_list.csv,pubmed_url,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/primary_trial_reference_list.csv,local_main_article_files,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/primary_trial_reference_list.csv,reference_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,trial_id,Stable trial identifier.
+data/tables/source_citation_inventory.csv,short_trial_name,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,nct_number,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,structured_publication_document_ids,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,structured_fda_document_ids,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,structured_ctgov_document_ids,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,candidate_publication_reference_count,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,candidate_result_reference_count,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,local_main_article_files,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,local_main_article_pmids,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,matched_main_article_reference_count,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,candidate_publication_pmids,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,candidate_publication_dois,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,candidate_publication_citations,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,ctgov_titles,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,ctgov_result_dates,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,ctgov_local_json,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,confirmed_publication_local_files,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,confirmed_fda_local_files,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/source_citation_inventory.csv,citation_inventory_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/table1_included_trial_characteristics.csv,trial_id,Stable trial identifier.
+data/tables/table1_included_trial_characteristics.csv,short_trial_name,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/table1_included_trial_characteristics.csv,nct_number,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/table1_included_trial_characteristics.csv,phase,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/table1_included_trial_characteristics.csv,design,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/table1_included_trial_characteristics.csv,publication_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/table1_included_trial_characteristics.csv,ctgov_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/table1_included_trial_characteristics.csv,fda_review_status,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.
+data/tables/table1_included_trial_characteristics.csv,core_concepts_reported_any_source_count,Verbatim original field. Interpretation is defined by the corresponding unchanged builder; do not infer source-context validation from presence.

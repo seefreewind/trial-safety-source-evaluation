@@ -1,0 +1,24 @@
+trial_id,approval_id,drug_id,nct_number,acronym,verification_status,ctgov_ae_status,ctgov_event_group_count,ctgov_serious_event_term_count,ctgov_other_event_term_count,fda_p1_present_count_for_drug,fda_p1_missing_count_for_drug,fda_p1_missing_urls_for_drug,recommended_next_step
+TRIAL001,APP001,ADC007,NCT03248492,DESTINY-Breast01,pilot_verified,has_ae_module,5,97,115,3,0,,publication_locator_and_fda_toc_expansion
+TRIAL002,APP002,ADC009,NCT03525678,DREAMM-2,pilot_verified,has_ae_module,5,130,80,2,0,,publication_locator_and_fda_toc_expansion
+TRIAL003,APP003,ADC006,NCT03219333,EV-201,pilot_verified,has_ae_module,2,105,80,6,0,,publication_locator_and_fda_toc_expansion
+TRIAL004,APP004,ADC008,NCT01631552,IMMU-132-01,pilot_verified,has_ae_module,1,133,60,3,0,,publication_locator_and_fda_toc_expansion
+TRIAL005,APP005,ADC008,NCT02574455,ASCENT,pilot_verified,has_ae_module,2,83,62,3,0,,publication_locator_and_fda_toc_expansion
+TRIAL006,APP006,ADC001,NCT00927498,ALFA-0701,pilot_verified,no_ae_module,0,0,0,5,0,,publication_locator_and_fda_toc_expansion
+TRIAL007,APP007,ADC002,NCT00848926,SG035-0003,needs_manual_verification,has_ae_module,1,37,45,8,0,,publication_locator_and_fda_toc_expansion
+TRIAL008,APP007,ADC002,NCT00866047,SG035-0004,needs_manual_verification,has_ae_module,1,52,66,8,0,,publication_locator_and_fda_toc_expansion
+TRIAL009,APP008,ADC003,NCT00829166,EMILIA,needs_manual_verification,has_ae_module,3,169,70,8,0,,publication_locator_and_fda_toc_expansion
+TRIAL010,APP009,ADC004,NCT01564784,INO-VATE ALL,needs_manual_verification,has_ae_module,2,127,65,3,0,,publication_locator_and_fda_toc_expansion
+TRIAL011,APP010,ADC005,NCT02257567,GO29365,needs_manual_verification,has_ae_module,11,164,254,6,0,,publication_locator_and_fda_toc_expansion
+TRIAL012,APP011,ADC010,NCT03589469,LOTIS-2,needs_manual_verification,has_ae_module,1,58,44,3,0,,publication_locator_and_fda_toc_expansion
+TRIAL013,APP012,ADC011,NCT03438396,innovaTV 204,needs_manual_verification,has_ae_module,1,46,278,5,0,,publication_locator_and_fda_toc_expansion
+TRIAL014,APP013,ADC011,NCT04697628,innovaTV 301,needs_manual_verification,has_ae_module,2,135,40,5,0,,publication_locator_and_fda_toc_expansion
+TRIAL015,APP014,ADC012,NCT04296890,SORAYA,needs_manual_verification,has_ae_module,1,37,43,4,1,https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/761310Orig1s000ltr.pdf,publication_locator_and_fda_toc_expansion
+TRIAL016,APP015,ADC012,NCT04209855,MIRASOL,needs_manual_verification,has_ae_module,2,100,53,4,1,https://www.accessdata.fda.gov/drugsatfda_docs/appletter/2022/761310Orig1s000ltr.pdf,publication_locator_and_fda_toc_expansion
+TRIAL017,APP016,ADC009,NCT04246047,DREAMM-7,needs_manual_verification,has_ae_module,2,163,60,2,0,,publication_locator_and_fda_toc_expansion
+TRIAL018,APP016,ADC009,NCT04484623,DREAMM-8,needs_manual_verification,has_ae_module,2,150,59,2,0,,publication_locator_and_fda_toc_expansion
+TRIAL019,APP017,ADC013,NCT05104866,TROPION-Breast01,needs_manual_verification,has_ae_module,2,100,46,10,0,,publication_locator_and_fda_toc_expansion
+TRIAL020,APP018,ADC013,NCT04484142,TROPION-Lung05,needs_manual_verification,has_ae_module,1,33,40,10,0,,publication_locator_and_fda_toc_expansion
+TRIAL021,APP019,ADC014,NCT03539536,LUMINOSITY,needs_manual_verification,no_ae_module,0,0,0,8,0,,publication_locator_and_fda_toc_expansion
+TRIAL022,APP020,ADC013,NCT05374512,TROPION-Breast02,official_page_checked,no_ae_module,0,0,0,10,0,,publication_locator_and_fda_toc_expansion
+TRIAL023,APP021,ADC015,NCT03386513,CADENZA,official_page_checked,no_ae_module,0,0,0,2,0,,publication_locator_and_fda_toc_expansion

@@ -1,0 +1,4 @@
+source_pair,comparison_count,grade_A_count,grade_B_count,grade_C_count,auto_comparable_AB_count,auto_comparability_yield_percent,confirmed_analysis_ready_count,confirmed_comparability_yield_percent,trial_count,safety_concept_count
+ClinicalTrials.gov vs FDA review,89,0,0,89,0,0.0,3,3.4,5,2
+ClinicalTrials.gov vs publication,114,0,0,114,0,0.0,4,3.5,15,2
+FDA review vs publication,66,18,0,48,18,27.3,21,31.8,6,7

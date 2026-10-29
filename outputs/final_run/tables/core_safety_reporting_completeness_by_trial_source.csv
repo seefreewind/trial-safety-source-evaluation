@@ -1,0 +1,70 @@
+trial_id,short_trial_name,source_type,source_available,core_concepts_reported_count,core_concepts_reported_percent,reports_any_adverse_event,reports_grade_3_or_higher_adverse_event,reports_serious_adverse_event,reports_fatal_adverse_event,reports_adverse_event_leading_to_discontinuation,reports_dose_interruption,reports_dose_reduction,core_safety_rows,rows_with_denominator,rows_with_percentage,rows_with_analysis_population,rows_with_data_cutoff,rows_with_causality,denominator_completeness_percent,percentage_completeness_percent,analysis_population_completeness_percent,data_cutoff_completeness_percent,causality_completeness_percent
+TRIAL001,DESTINY-Breast01,publication,yes,7,100.0,yes,yes,yes,yes,yes,yes,yes,14,14,14,14,0,14,100.0,100.0,100.0,0.0,100.0
+TRIAL001,DESTINY-Breast01,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,10,10,10,10,0,10,100.0,100.0,100.0,0.0,100.0
+TRIAL001,DESTINY-Breast01,FDA review,yes,7,100.0,yes,yes,yes,yes,yes,yes,yes,8,8,8,8,0,8,100.0,100.0,100.0,0.0,100.0
+TRIAL002,DREAMM-2,publication,yes,6,85.7,yes,no,yes,yes,yes,yes,yes,14,14,14,14,0,14,100.0,100.0,100.0,0.0,100.0
+TRIAL002,DREAMM-2,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,10,10,10,10,0,10,100.0,100.0,100.0,0.0,100.0
+TRIAL002,DREAMM-2,FDA review,yes,7,100.0,yes,yes,yes,yes,yes,yes,yes,14,14,14,14,0,14,100.0,100.0,100.0,0.0,100.0
+TRIAL003,EV-201,publication,yes,3,42.9,yes,yes,no,yes,no,no,no,5,5,5,5,0,5,100.0,100.0,100.0,0.0,100.0
+TRIAL003,EV-201,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,4,4,4,4,0,4,100.0,100.0,100.0,0.0,100.0
+TRIAL003,EV-201,FDA review,yes,7,100.0,yes,yes,yes,yes,yes,yes,yes,13,13,13,13,0,13,100.0,100.0,100.0,0.0,100.0
+TRIAL004,IMMU-132-01,publication,yes,4,57.1,yes,yes,no,yes,yes,no,no,5,5,5,5,0,5,100.0,100.0,100.0,0.0,100.0
+TRIAL004,IMMU-132-01,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,2,2,2,2,0,2,100.0,100.0,100.0,0.0,100.0
+TRIAL004,IMMU-132-01,FDA review,yes,5,71.4,yes,yes,yes,no,yes,no,yes,6,6,6,6,0,6,100.0,100.0,100.0,0.0,100.0
+TRIAL005,ASCENT,publication,yes,6,85.7,yes,yes,yes,yes,yes,no,yes,8,8,8,8,0,8,100.0,100.0,100.0,0.0,100.0
+TRIAL005,ASCENT,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,4,4,4,4,0,4,100.0,100.0,100.0,0.0,100.0
+TRIAL005,ASCENT,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL006,ALFA-0701,publication,yes,2,28.6,no,yes,no,yes,no,no,no,8,8,8,8,0,8,100.0,100.0,100.0,0.0,100.0
+TRIAL006,ALFA-0701,ClinicalTrials.gov,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL006,ALFA-0701,FDA review,yes,1,14.3,no,no,no,yes,no,no,no,1,1,1,1,0,1,100.0,100.0,100.0,0.0,100.0
+TRIAL007,SG035-0003,publication,yes,5,71.4,no,yes,no,yes,yes,yes,yes,5,5,5,5,0,5,100.0,100.0,100.0,0.0,100.0
+TRIAL007,SG035-0003,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,2,1,1,2,0,2,50.0,50.0,100.0,0.0,100.0
+TRIAL007,SG035-0003,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL008,SG035-0004,publication,yes,5,71.4,no,yes,no,yes,yes,yes,yes,6,6,6,6,0,6,100.0,100.0,100.0,0.0,100.0
+TRIAL008,SG035-0004,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,2,1,1,2,0,2,50.0,50.0,100.0,0.0,100.0
+TRIAL008,SG035-0004,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL009,EMILIA,publication,yes,5,71.4,no,yes,yes,yes,yes,no,yes,12,12,12,12,0,12,100.0,100.0,100.0,0.0,100.0
+TRIAL009,EMILIA,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,6,3,3,6,0,6,50.0,50.0,100.0,0.0,100.0
+TRIAL009,EMILIA,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL010,INO-VATE ALL,publication,yes,1,14.3,yes,no,no,no,no,no,no,8,8,8,8,0,8,100.0,100.0,100.0,0.0,100.0
+TRIAL010,INO-VATE ALL,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,4,2,2,4,0,4,50.0,50.0,100.0,0.0,100.0
+TRIAL010,INO-VATE ALL,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL011,GO29365,publication,yes,2,28.6,no,no,no,yes,no,no,yes,3,3,3,3,0,3,100.0,100.0,100.0,0.0,100.0
+TRIAL011,GO29365,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,22,22,22,22,0,22,100.0,100.0,100.0,0.0,100.0
+TRIAL011,GO29365,FDA review,yes,6,85.7,no,yes,yes,yes,yes,yes,yes,12,12,12,12,0,12,100.0,100.0,100.0,0.0,100.0
+TRIAL012,LOTIS-2,publication,yes,5,71.4,yes,yes,yes,yes,yes,no,no,6,6,6,6,0,6,100.0,100.0,100.0,0.0,100.0
+TRIAL012,LOTIS-2,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,2,2,2,2,0,2,100.0,100.0,100.0,0.0,100.0
+TRIAL012,LOTIS-2,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL013,innovaTV 204,publication,yes,4,57.1,yes,yes,yes,no,yes,no,no,4,4,4,4,0,4,100.0,100.0,100.0,0.0,100.0
+TRIAL013,innovaTV 204,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,2,2,2,2,0,2,100.0,100.0,100.0,0.0,100.0
+TRIAL013,innovaTV 204,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL014,innovaTV 301,publication,yes,5,71.4,yes,yes,yes,yes,yes,no,no,10,10,10,10,0,10,100.0,100.0,100.0,0.0,100.0
+TRIAL014,innovaTV 301,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,4,4,4,4,0,4,100.0,100.0,100.0,0.0,100.0
+TRIAL014,innovaTV 301,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL015,SORAYA,publication,yes,7,100.0,yes,yes,yes,yes,yes,yes,yes,7,7,7,7,0,7,100.0,100.0,100.0,0.0,100.0
+TRIAL015,SORAYA,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,2,2,2,2,0,2,100.0,100.0,100.0,0.0,100.0
+TRIAL015,SORAYA,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL016,MIRASOL,publication,yes,2,28.6,no,no,no,no,no,yes,yes,4,4,4,4,0,4,100.0,100.0,100.0,0.0,100.0
+TRIAL016,MIRASOL,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,4,4,4,4,0,4,100.0,100.0,100.0,0.0,100.0
+TRIAL016,MIRASOL,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL017,DREAMM-7,publication,yes,2,28.6,yes,yes,no,no,no,no,no,4,4,4,4,0,4,100.0,100.0,100.0,0.0,100.0
+TRIAL017,DREAMM-7,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,4,4,4,4,0,4,100.0,100.0,100.0,0.0,100.0
+TRIAL017,DREAMM-7,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL018,DREAMM-8,publication,yes,2,28.6,yes,yes,no,no,no,no,no,4,4,4,4,0,4,100.0,100.0,100.0,0.0,100.0
+TRIAL018,DREAMM-8,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,4,4,4,4,0,4,100.0,100.0,100.0,0.0,100.0
+TRIAL018,DREAMM-8,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL019,TROPION-Breast01,publication,yes,3,42.9,yes,yes,yes,no,no,no,no,6,6,6,6,0,6,100.0,100.0,100.0,0.0,100.0
+TRIAL019,TROPION-Breast01,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,4,4,4,4,0,4,100.0,100.0,100.0,0.0,100.0
+TRIAL019,TROPION-Breast01,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL020,TROPION-Lung05,publication,yes,6,85.7,yes,yes,no,yes,yes,yes,yes,6,6,6,6,0,6,100.0,100.0,100.0,0.0,100.0
+TRIAL020,TROPION-Lung05,ClinicalTrials.gov,yes,2,28.6,no,no,yes,yes,no,no,no,2,2,2,2,0,2,100.0,100.0,100.0,0.0,100.0
+TRIAL020,TROPION-Lung05,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL021,LUMINOSITY,publication,yes,3,42.9,yes,yes,no,yes,no,no,no,5,5,5,5,0,5,100.0,100.0,100.0,0.0,100.0
+TRIAL021,LUMINOSITY,ClinicalTrials.gov,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL021,LUMINOSITY,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL022,TROPION-Breast02,publication,yes,7,100.0,yes,yes,yes,yes,yes,yes,yes,14,14,14,14,0,14,100.0,100.0,100.0,0.0,100.0
+TRIAL022,TROPION-Breast02,ClinicalTrials.gov,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL022,TROPION-Breast02,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL023,CADENZA,publication,yes,4,57.1,yes,yes,yes,no,no,yes,no,7,7,7,7,0,7,100.0,100.0,100.0,0.0,100.0
+TRIAL023,CADENZA,ClinicalTrials.gov,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,
+TRIAL023,CADENZA,FDA review,no,0,0.0,no,no,no,no,no,no,no,0,0,0,0,0,0,,,,,

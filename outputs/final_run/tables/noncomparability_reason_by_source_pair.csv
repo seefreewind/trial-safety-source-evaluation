@@ -1,0 +1,13 @@
+noncomparability_category,source_pair,pair_count,trial_count,safety_concept_count
+ae_definition_or_causality_mismatch,ClinicalTrials.gov vs publication,2,2,1
+ae_definition_or_causality_mismatch,FDA review vs publication,19,5,7
+ctgov_mortality_not_fatal_ae,ClinicalTrials.gov vs FDA review,8,4,1
+ctgov_mortality_not_fatal_ae,ClinicalTrials.gov vs publication,10,5,1
+ctgov_time_window_difference,ClinicalTrials.gov vs FDA review,8,4,1
+ctgov_time_window_difference,ClinicalTrials.gov vs publication,5,3,1
+denominator_or_population_mismatch,ClinicalTrials.gov vs FDA review,1,1,1
+denominator_or_population_mismatch,ClinicalTrials.gov vs publication,1,1,1
+denominator_or_population_mismatch,FDA review vs publication,9,3,7
+different_arm_or_dose,ClinicalTrials.gov vs FDA review,72,4,2
+different_arm_or_dose,ClinicalTrials.gov vs publication,96,13,2
+different_arm_or_dose,FDA review vs publication,20,2,6

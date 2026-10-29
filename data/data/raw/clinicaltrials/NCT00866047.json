@@ -1,0 +1,3322 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT00866047",
+      "orgStudyIdInfo": {
+        "id": "SG035-0004"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2008-006035-12",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "Seagen Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Phase 2 Open Label Trial of Brentuximab Vedotin (SGN-35) for Systemic Anaplastic Large Cell Lymphoma",
+      "officialTitle": "A Phase 2 Study of SGN-35 in Treatment of Patients With Relapsed or Refractory Systemic Anaplastic Large Cell Lymphoma (ALCL)"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2016-12",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2009-03"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2010-08",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2016-06",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2009-03-19",
+      "studyFirstSubmitQcDate": "2009-03-19",
+      "studyFirstPostDateStruct": {
+        "date": "2009-03-20",
+        "type": "ESTIMATED"
+      },
+      "resultsFirstSubmitDate": "2011-09-15",
+      "resultsFirstSubmitQcDate": "2011-09-15",
+      "resultsFirstPostDateStruct": {
+        "date": "2011-10-26",
+        "type": "ESTIMATED"
+      },
+      "lastUpdateSubmitDate": "2017-02-02",
+      "lastUpdatePostDateStruct": {
+        "date": "2017-03-22",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "Seagen Inc.",
+        "class": "INDUSTRY"
+      },
+      "collaborators": [
+        {
+          "name": "Millennium Pharmaceuticals, Inc.",
+          "class": "INDUSTRY"
+        }
+      ]
+    },
+    "oversightModule": {
+      "oversightHasDmc": true
+    },
+    "descriptionModule": {
+      "briefSummary": "This is a single-arm, open-label, multicenter, clinical trial to evaluate the efficacy and safety of brentuximab vedotin (SGN-35) as a single agent in patients with relapsed or refractory ALCL."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Lymphoma, Large-Cell, Anaplastic",
+        "Lymphoma, Non-Hodgkin"
+      ],
+      "keywords": [
+        "Antigens, CD30",
+        "Antibody-Drug Conjugate",
+        "Antibodies, Monoclonal",
+        "Lymphoma, Non-Hodgkin",
+        "Lymphoma, Large-Cell, Anaplastic",
+        "monomethyl auristatin E",
+        "Drug Therapy",
+        "Immunotherapy",
+        "Hematologic Diseases",
+        "Lymphoma"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE2"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 58,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Brentuximab vedotin",
+          "type": "EXPERIMENTAL",
+          "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by intravenous (IV) infusion",
+          "interventionNames": [
+            "Drug: brentuximab vedotin"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "brentuximab vedotin",
+          "description": "1.8 mg/kg every 3 weeks by IV infusion",
+          "armGroupLabels": [
+            "Brentuximab vedotin"
+          ],
+          "otherNames": [
+            "SGN-35",
+            "ADCETRIS"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Objective Response Rate by Independent Review Group",
+          "description": "Percentage of participants who achieved a best response of complete remission (CR, disappearance of all evidence of disease) or partial remission (PR, regression of greater than or equal to 50% of measurable disease and no new sites) per Cheson 2007 Revised Response Criteria for Malignant Lymphoma.",
+          "timeFrame": "up to 12 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Complete Remission Rate by Independent Review Group",
+          "description": "Percentage of participants who achieved a best response of CR (disappearance of all evidence of disease) per Cheson 2007 Revised Response Criteria for Malignant Lymphoma.",
+          "timeFrame": "up to 12 months"
+        },
+        {
+          "measure": "Duration of Objective Response by Kaplan-Meier Analysis",
+          "description": "Duration of objective response (CR + PR) by independent review group, defined as time of initial response until disease progression or death.",
+          "timeFrame": "up to approximately 3 years"
+        },
+        {
+          "measure": "Duration of Objective Response in Participants With Complete Remission by Kaplan-Meier Analysis",
+          "description": "Duration of response from start of first objective tumor response (CR or PR) by independent review group to disease progression or death due to any cause in participants with CR.",
+          "timeFrame": "up to approximately 3 years"
+        },
+        {
+          "measure": "Progression-free Survival by Kaplan-Meier Analysis",
+          "description": "Time from start of study treatment to disease progression per independent review group or death due to any cause.",
+          "timeFrame": "up to approximately 3 years"
+        },
+        {
+          "measure": "Overall Survival",
+          "description": "Time from start of study treatment to date of death due to any cause.",
+          "timeFrame": "up to approximately 7 years"
+        },
+        {
+          "measure": "Adverse Events by Severity, Seriousness, and Relationship to Treatment",
+          "description": "Counts of participants who had adverse events or treatment-emergent adverse events (TEAE, defined as newly occurring or worsening after first dose). Serious adverse events are reported from the time of informed consent. National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE version 3.0) were used to assess severity (1=mild, 2=moderate, 3=severe, 4=life threatening/disabling, 5=death). Relatedness to study drug was assessed by the investigator (Yes/No). Participants with multiple occurrences of an adverse event within a category are counted once within the category.",
+          "timeFrame": "up to 12 months"
+        },
+        {
+          "measure": "Hematology Laboratory Abnormalities >/= Grade 3",
+          "description": "Counts of study participants with post-baseline hematology laboratory abnormalities of Grade 3 or greater per NCI CTCAE version 3.0. Participants with multiple occurrences of a laboratory abnormality within a category are counted once in that category.",
+          "timeFrame": "up to 12 months"
+        },
+        {
+          "measure": "Chemistry Laboratory Abnormalities >/= Grade 3",
+          "description": "Counts of study participants with post-baseline chemistry laboratory abnormalities of Grade 3 or greater per NCI CTCAE version 3.0. Participants with multiple occurrences of a laboratory abnormality within a category are counted once in that category.",
+          "timeFrame": "up to 12 months"
+        },
+        {
+          "measure": "Area Under the Curve",
+          "description": "Area under the serum concentration-time curve from time 0 to 21 days following the first dose of brentuximab vedotin",
+          "timeFrame": "3 weeks"
+        },
+        {
+          "measure": "Maximum Serum Concentration",
+          "description": "Maximum serum concentration from 0 to 21 days following the first dose of brentuximab vedotin",
+          "timeFrame": "3 weeks"
+        },
+        {
+          "measure": "Time of Maximum Serum Concentration",
+          "description": "Time of maximum serum concentration from 0 to 21 days following the first dose of brentuximab vedotin",
+          "timeFrame": "3 weeks"
+        }
+      ],
+      "otherOutcomes": [
+        {
+          "measure": "B Symptom Resolution",
+          "description": "Percentage of participants with lymphoma-related symptoms (B symptoms: fever, night sweats, or weight loss \\>10%) at baseline who achieved resolution of all B symptoms at any time during the treatment period.",
+          "timeFrame": "up to 12 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n* Patients with relapsed or refractory systemic ALCL who have previously received front line chemotherapy.\n* Documented anaplastic lymphoma kinase (ALK) status.\n* Histologically-confirmed CD30-positive disease; tissue from the most recent post diagnostic biopsy of relapsed/refractory disease must be available for confirmation of CD30 expression via slides or tumor block.\n* Fluorodeoxyglucose-avid and measurable disease of at least 1.5 cm as documented by both positron emission tomography and spiral computed tomography.\n* Received any previous autologous stem cell transplant at least 12 weeks (3 months) prior.\n* At US sites, patients greater than or equal to 12 years of age may be enrolled. At non-US sites, patients must be greater than or equal to 18 years of age.\n\nExclusion Criteria:\n\n* Previous treatment with brentuximab vedotin.\n* Previously received an allogeneic transplant.\n* Patients with current diagnosis of primary cutaneous ALCL (patients who have transformed to systemic ALCL are eligible).\n* Known cerebral/meningeal disease.",
+      "healthyVolunteers": false,
+      "sex": "ALL",
+      "minimumAge": "12 Years",
+      "stdAges": [
+        "CHILD",
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Dana Kennedy, PharmD",
+          "affiliation": "Seagen Inc.",
+          "role": "STUDY_DIRECTOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "University of Alabama at Birmingham",
+          "city": "Birmingham",
+          "state": "Alabama",
+          "zip": "35294-3300",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.52066,
+            "lon": -86.80249
+          }
+        },
+        {
+          "facility": "Stanford University Medical Center",
+          "city": "Palo Alto",
+          "state": "California",
+          "zip": "94304",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.44188,
+            "lon": -122.14302
+          }
+        },
+        {
+          "facility": "Rocky Mountain Cancer Centers",
+          "city": "Denver",
+          "state": "Colorado",
+          "zip": "80218",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.73915,
+            "lon": -104.9847
+          }
+        },
+        {
+          "facility": "University of Miami Sylvester Comprehensive Cancer Center",
+          "city": "Miami",
+          "state": "Florida",
+          "zip": "33136",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 25.77427,
+            "lon": -80.19366
+          }
+        },
+        {
+          "facility": "Northwestern University",
+          "city": "Chicago",
+          "state": "Illinois",
+          "zip": "60611",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.85003,
+            "lon": -87.65005
+          }
+        },
+        {
+          "facility": "Karmanos Cancer Institute / Wayne State University",
+          "city": "Detroit",
+          "state": "Michigan",
+          "zip": "48201",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.33143,
+            "lon": -83.04575
+          }
+        },
+        {
+          "facility": "Mayo Clinic Rochester",
+          "city": "Rochester",
+          "state": "Minnesota",
+          "zip": "55905",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 44.02163,
+            "lon": -92.4699
+          }
+        },
+        {
+          "facility": "Washington University School of Medicine",
+          "city": "St Louis",
+          "state": "Missouri",
+          "zip": "63110",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.62727,
+            "lon": -90.19789
+          }
+        },
+        {
+          "facility": "Memorial Sloan Kettering Cancer Center",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10021",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Weill Cornell Medical College",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10021",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Nationwide Children's Hospital",
+          "city": "Columbus",
+          "state": "Ohio",
+          "zip": "43205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.96118,
+            "lon": -82.99879
+          }
+        },
+        {
+          "facility": "Oregon Health & Science University",
+          "city": "Portland",
+          "state": "Oregon",
+          "zip": "97239",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 45.52345,
+            "lon": -122.67621
+          }
+        },
+        {
+          "facility": "Baylor Sammons Cancer Center / Texas Oncology",
+          "city": "Dallas",
+          "state": "Texas",
+          "zip": "75246",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.78306,
+            "lon": -96.80667
+          }
+        },
+        {
+          "facility": "MD Anderson Cancer Center / University of Texas",
+          "city": "Houston",
+          "state": "Texas",
+          "zip": "77030-4003",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.76328,
+            "lon": -95.36327
+          }
+        },
+        {
+          "facility": "University of Washington",
+          "city": "Seattle",
+          "state": "Washington",
+          "zip": "98109",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 47.60621,
+            "lon": -122.33207
+          }
+        },
+        {
+          "facility": "UZ Gasthuisberg",
+          "city": "Leuven",
+          "zip": "3000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.87959,
+            "lon": 4.70093
+          }
+        },
+        {
+          "facility": "B.C Cancer Agency",
+          "city": "Vancouver",
+          "state": "British Columbia",
+          "zip": "V5Z 4E6",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 49.24966,
+            "lon": -123.11934
+          }
+        },
+        {
+          "facility": "Princess Margaret Hospital",
+          "city": "Toronto",
+          "state": "Ontario",
+          "zip": "M5G 2M9",
+          "country": "Canada",
+          "geoPoint": {
+            "lat": 43.70643,
+            "lon": -79.39864
+          }
+        },
+        {
+          "facility": "Institut Paoli Calmettes",
+          "city": "Marseille",
+          "zip": "13273",
+          "country": "France",
+          "geoPoint": {
+            "lat": 43.29695,
+            "lon": 5.38107
+          }
+        },
+        {
+          "facility": "Hospital Saint Louis",
+          "city": "Paris",
+          "zip": "75475",
+          "country": "France",
+          "geoPoint": {
+            "lat": 48.85341,
+            "lon": 2.3488
+          }
+        },
+        {
+          "facility": "Centre Henri Becquerel",
+          "city": "Rouen",
+          "zip": "76038",
+          "country": "France",
+          "geoPoint": {
+            "lat": 49.44313,
+            "lon": 1.09932
+          }
+        },
+        {
+          "facility": "Christie Hospital NHS",
+          "city": "Manchester",
+          "zip": "M20 4BX",
+          "country": "United Kingdom",
+          "geoPoint": {
+            "lat": 53.48095,
+            "lon": -2.23743
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "22614995",
+          "type": "RESULT",
+          "citation": "Pro B, Advani R, Brice P, Bartlett NL, Rosenblatt JD, Illidge T, Matous J, Ramchandren R, Fanale M, Connors JM, Yang Y, Sievers EL, Kennedy DA, Shustov A. Brentuximab vedotin (SGN-35) in patients with relapsed or refractory systemic anaplastic large-cell lymphoma: results of a phase II study. J Clin Oncol. 2012 Jun 20;30(18):2190-6. doi: 10.1200/JCO.2011.38.0402. Epub 2012 May 21."
+        },
+        {
+          "pmid": "28974506",
+          "type": "DERIVED",
+          "citation": "Pro B, Advani R, Brice P, Bartlett NL, Rosenblatt JD, Illidge T, Matous J, Ramchandren R, Fanale M, Connors JM, Fenton K, Huebner D, Pinelli JM, Kennedy DA, Shustov A. Five-year results of brentuximab vedotin in patients with relapsed or refractory systemic anaplastic large cell lymphoma. Blood. 2017 Dec 21;130(25):2709-2717. doi: 10.1182/blood-2017-05-780049. Epub 2017 Oct 3."
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "recruitmentDetails": "Enrollment period: Jun 2009 - May 2010",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Brentuximab Vedotin",
+          "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by intravenous (IV) infusion"
+        }
+      ],
+      "periods": [
+        {
+          "title": "Treatment Period",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "58"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "comment": "Number who completed 16 cycles of treatment",
+                  "numSubjects": "10"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "48"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Progressive disease",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "13"
+                }
+              ]
+            },
+            {
+              "type": "Adverse Event",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "16"
+                }
+              ]
+            },
+            {
+              "type": "Physician Decision",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "14"
+                }
+              ]
+            },
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Follow-up Period",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "comment": "All participants were to be followed after treatment",
+                  "numSubjects": "58"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "comment": "Completed survival follow-up due to death \\[25\\] or study completion \\[28\\]",
+                  "numSubjects": "53"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Brentuximab Vedotin",
+          "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "58"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Customized",
+          "paramType": "MEDIAN",
+          "dispersionType": "FULL_RANGE",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "52.0",
+                      "lowerLimit": "14",
+                      "upperLimit": "76"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "25"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "33"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "7"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "48"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Eastern Cooperative Oncology Group Performance Status",
+          "description": "0 = Normal activity\n\n1. = Symptoms but ambulatory\n2. = In bed \\<50% of the time\n3. = In bed \\>50% of the time\n4. = 100% bedridden\n5. = Dead",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "0",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "19"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "1",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "38"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "2",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "3-5",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "ALK Status",
+          "description": "Immunophenotype status with respect to anaplastic lymphoma kinase (ALK) protein",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "classes": [
+            {
+              "title": "Positive",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Negative",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "42"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Objective Response Rate by Independent Review Group",
+          "description": "Percentage of participants who achieved a best response of complete remission (CR, disappearance of all evidence of disease) or partial remission (PR, regression of greater than or equal to 50% of measurable disease and no new sites) per Cheson 2007 Revised Response Criteria for Malignant Lymphoma.",
+          "populationDescription": "Intention to treat",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "percent of participants",
+          "timeFrame": "up to 12 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "58"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "86",
+                      "lowerLimit": "74.6",
+                      "upperLimit": "93.9"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Complete Remission Rate by Independent Review Group",
+          "description": "Percentage of participants who achieved a best response of CR (disappearance of all evidence of disease) per Cheson 2007 Revised Response Criteria for Malignant Lymphoma.",
+          "populationDescription": "Intention to treat",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "percent of participants",
+          "timeFrame": "up to 12 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "58"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "59",
+                      "lowerLimit": "44.9",
+                      "upperLimit": "71.4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Duration of Objective Response by Kaplan-Meier Analysis",
+          "description": "Duration of objective response (CR + PR) by independent review group, defined as time of initial response until disease progression or death.",
+          "populationDescription": "Participants with objective response among the intention to treat population",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "months",
+          "timeFrame": "up to approximately 3 years",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "50"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13.2",
+                      "lowerLimit": "5.7",
+                      "upperLimit": "26.3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Duration of Objective Response in Participants With Complete Remission by Kaplan-Meier Analysis",
+          "description": "Duration of response from start of first objective tumor response (CR or PR) by independent review group to disease progression or death due to any cause in participants with CR.",
+          "populationDescription": "Participants with complete remission among the intention to treat population",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "months",
+          "timeFrame": "up to approximately 3 years",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "26.3",
+                      "lowerLimit": "13.2",
+                      "upperLimit": "NA",
+                      "comment": "Insufficient number of events to estimate upper bound"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Progression-free Survival by Kaplan-Meier Analysis",
+          "description": "Time from start of study treatment to disease progression per independent review group or death due to any cause.",
+          "populationDescription": "Intention to treat",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "months",
+          "timeFrame": "up to approximately 3 years",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "58"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "14.6",
+                      "lowerLimit": "6.9",
+                      "upperLimit": "20.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Overall Survival",
+          "description": "Time from start of study treatment to date of death due to any cause.",
+          "populationDescription": "Intention to treat",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "months",
+          "timeFrame": "up to approximately 7 years",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "58"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "NA",
+                      "lowerLimit": "21.3",
+                      "upperLimit": "NA",
+                      "comment": "Insufficient number of events to estimate median and upper bound"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Adverse Events by Severity, Seriousness, and Relationship to Treatment",
+          "description": "Counts of participants who had adverse events or treatment-emergent adverse events (TEAE, defined as newly occurring or worsening after first dose). Serious adverse events are reported from the time of informed consent. National Cancer Institute Common Terminology Criteria for Adverse Events (NCI CTCAE version 3.0) were used to assess severity (1=mild, 2=moderate, 3=severe, 4=life threatening/disabling, 5=death). Relatedness to study drug was assessed by the investigator (Yes/No). Participants with multiple occurrences of an adverse event within a category are counted once within the category.",
+          "populationDescription": "All participants who received treatment",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "up to 12 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "58"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Any TEAE",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "58"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "TEAE related to study drug",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "53"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "TEAE with CTCAE severity grade >/=3",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "36"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serious adverse event",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "25"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Serious adverse event related to study drug",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "11"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Discontinued treatment due to adverse event",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "16"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Hematology Laboratory Abnormalities >/= Grade 3",
+          "description": "Counts of study participants with post-baseline hematology laboratory abnormalities of Grade 3 or greater per NCI CTCAE version 3.0. Participants with multiple occurrences of a laboratory abnormality within a category are counted once in that category.",
+          "populationDescription": "All participants who received treatment",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "up to 12 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "58"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Any >/= Grade 3 hematology laboratory abnormality",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "17"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Leukocytes (low)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Lymphocytes (low)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "10"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Neutrophils (low)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "7"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Platelets (low)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Chemistry Laboratory Abnormalities >/= Grade 3",
+          "description": "Counts of study participants with post-baseline chemistry laboratory abnormalities of Grade 3 or greater per NCI CTCAE version 3.0. Participants with multiple occurrences of a laboratory abnormality within a category are counted once in that category.",
+          "populationDescription": "All participants who received treatment",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "unitOfMeasure": "participants",
+          "timeFrame": "up to 12 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "58"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "title": "Any >/= Grade 3 chemistry laboratory abnormality",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "13"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Aspartate aminotransferase (high)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Calcium (low)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Glucose (high)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Potassium (low)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Sodium (low)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "1"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Urate (high)",
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "3"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Area Under the Curve",
+          "description": "Area under the serum concentration-time curve from time 0 to 21 days following the first dose of brentuximab vedotin",
+          "populationDescription": "All participants who received treatment",
+          "reportingStatus": "POSTED",
+          "paramType": "GEOMETRIC_MEAN",
+          "dispersionType": "Geometric Coefficient of Variation",
+          "unitOfMeasure": "day * microgram/mL",
+          "timeFrame": "3 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "58"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "98",
+                      "spread": "69"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "OTHER_PRE_SPECIFIED",
+          "title": "B Symptom Resolution",
+          "description": "Percentage of participants with lymphoma-related symptoms (B symptoms: fever, night sweats, or weight loss \\>10%) at baseline who achieved resolution of all B symptoms at any time during the treatment period.",
+          "populationDescription": "Participants with B symptoms at baseline",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "percent of participants",
+          "timeFrame": "up to 12 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "17"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "82",
+                      "lowerLimit": "56.6",
+                      "upperLimit": "96.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Maximum Serum Concentration",
+          "description": "Maximum serum concentration from 0 to 21 days following the first dose of brentuximab vedotin",
+          "populationDescription": "All participants who received treatment",
+          "reportingStatus": "POSTED",
+          "paramType": "GEOMETRIC_MEAN",
+          "dispersionType": "Geometric Coefficient of Variation",
+          "unitOfMeasure": "microgram/mL",
+          "timeFrame": "3 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "58"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "37",
+                      "spread": "20"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Time of Maximum Serum Concentration",
+          "description": "Time of maximum serum concentration from 0 to 21 days following the first dose of brentuximab vedotin",
+          "populationDescription": "All participants who received treatment",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "Full Range",
+          "unitOfMeasure": "days",
+          "timeFrame": "3 weeks",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Brentuximab Vedotin",
+              "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion"
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "58"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "0.02",
+                      "lowerLimit": "0.02",
+                      "upperLimit": "0.02"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Adverse events through 30 days after last dose (up to 12 months)",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Brentuximab Vedotin",
+          "description": "Brentuximab vedotin 1.8 mg/kg every 3 weeks by IV infusion",
+          "seriousNumAffected": 25,
+          "seriousNumAtRisk": 58,
+          "otherNumAffected": 58,
+          "otherNumAtRisk": 58
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Neutropenia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Acute myocardial infarction",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Arrhythmia supraventricular",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Atrial fibrillation",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Atrioventricular block complete",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Bradycardia",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Retinal vein occlusion",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Abdominal pain",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Gastrointestinal haemorrhage",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Asthenia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Generalised oedema",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Sudden death",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Cellulitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Endocarditis staphylococcal",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Gastroenteritis viral",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Klebsiella bacteraemia",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Pneumonia",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Septic shock",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Superinfection bacterial",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Lower limb fracture",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Decreased appetite",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Fluid overload",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Hypercalcaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Tumour lysis syndrome",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Myositis",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Pain in extremity",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Anaplastic large cell lymphoma t- and null-cell types recurrent",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Mycosis fungoides",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Tumour flare",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Encephalopathy",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Haemorrhage intracranial",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Neuralgia",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Peripheral motor neuropathy",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Peripheral sensory neuropathy",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Spinal cord compression",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Syncope",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Mental status changes",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Hydronephrosis",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Renal failure",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Renal failure acute",
+          "organSystem": "Renal and urinary disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Pulmonary embolism",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Pulmonary oedema",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Respiratory failure",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Tracheal disorder",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Rash papular",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Deep vein thrombosis",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Demyelinating polyneuropathy",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 58
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Lymphadenopathy",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Neutropenia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Thrombocytopenia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Abdominal distension",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Abdominal pain",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 12,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 16,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Dyspepsia",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 23,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Oral pain",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Asthenia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Chills",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Fatigue",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 22,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Oedema peripheral",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Pain",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 20,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Bronchitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Folliculitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Upper respiratory tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Excoriation",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Weight decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Decreased appetite",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Dehydration",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Hyperglycaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Hypokalaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Arthralgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Back pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Groin pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Muscle spasms",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Musculoskeletal pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Myalgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Neck pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Pain in extremity",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Tumour flare",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Dizziness",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Paraesthesia",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Peripheral motor neuropathy",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Peripheral sensory neuropathy",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 24,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Anxiety",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Confusional state",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Depression",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Insomnia",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Dyspnoea",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Oropharyngeal pain",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Productive cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Alopecia",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Dermatitis",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Dry skin",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Night sweats",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Pruritus",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Rash",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 14,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Rash pruritic",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Hot flush",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Anaplastic large cell lymphoma t- and null-cell types recurrent",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Hypomagnesaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Nasopharyngitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Sinusitis",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 4,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Tachycardia",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Gastrooesophageal reflux disease",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Haemorrhoids",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Memory impairment",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        },
+        {
+          "term": "Neuralgia",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA (13.0)",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 3,
+              "numAtRisk": 58
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictionType": "LTE60",
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "Chief Medical Officer",
+        "organization": "Seattle Genetics, Inc.",
+        "email": "medinfo@seagen.com",
+        "phone": "855-473-2436"
+      }
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-06-17",
+      "removedCountries": [
+        "Italy"
+      ]
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D017728",
+          "term": "Lymphoma, Large-Cell, Anaplastic"
+        },
+        {
+          "id": "D008228",
+          "term": "Lymphoma, Non-Hodgkin"
+        },
+        {
+          "id": "D006402",
+          "term": "Hematologic Diseases"
+        },
+        {
+          "id": "D008223",
+          "term": "Lymphoma"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D016399",
+          "term": "Lymphoma, T-Cell"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D008232",
+          "term": "Lymphoproliferative Disorders"
+        },
+        {
+          "id": "D008206",
+          "term": "Lymphatic Diseases"
+        },
+        {
+          "id": "D006425",
+          "term": "Hemic and Lymphatic Diseases"
+        },
+        {
+          "id": "D007160",
+          "term": "Immunoproliferative Disorders"
+        },
+        {
+          "id": "D007154",
+          "term": "Immune System Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000079963",
+          "term": "Brentuximab Vedotin"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D009842",
+          "term": "Oligopeptides"
+        },
+        {
+          "id": "D010455",
+          "term": "Peptides"
+        },
+        {
+          "id": "D000602",
+          "term": "Amino Acids, Peptides, and Proteins"
+        },
+        {
+          "id": "D061067",
+          "term": "Antibodies, Monoclonal, Humanized"
+        },
+        {
+          "id": "D000911",
+          "term": "Antibodies, Monoclonal"
+        },
+        {
+          "id": "D000906",
+          "term": "Antibodies"
+        },
+        {
+          "id": "D007136",
+          "term": "Immunoglobulins"
+        },
+        {
+          "id": "D007162",
+          "term": "Immunoproteins"
+        },
+        {
+          "id": "D001798",
+          "term": "Blood Proteins"
+        },
+        {
+          "id": "D011506",
+          "term": "Proteins"
+        },
+        {
+          "id": "D012712",
+          "term": "Serum Globulins"
+        },
+        {
+          "id": "D005916",
+          "term": "Globulins"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

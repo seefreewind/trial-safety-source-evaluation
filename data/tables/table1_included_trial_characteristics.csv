@@ -1,0 +1,24 @@
+trial_id,short_trial_name,nct_number,phase,design,publication_status,ctgov_status,fda_review_status,core_concepts_reported_any_source_count
+TRIAL001,DESTINY-Breast01,NCT03248492,2,single-arm,structured values,structured values,structured values,7
+TRIAL002,DREAMM-2,NCT03525678,2,single-arm,structured values,structured values,structured values,7
+TRIAL003,EV-201,NCT03219333,2,single-arm,structured values,structured values,structured values,7
+TRIAL004,IMMU-132-01,NCT01631552,1/2,single-arm,structured values,structured values,structured values,6
+TRIAL005,ASCENT,NCT02574455,3,"randomized, controlled",structured values,structured values,"retrieved, no structured core values",6
+TRIAL006,ALFA-0701,NCT00927498,3,"randomized, controlled",structured values,not linked/unavailable,structured values,2
+TRIAL007,SG035-0003,NCT00848926,2,single-arm,structured values,structured values,"retrieved, no structured core values",6
+TRIAL008,SG035-0004,NCT00866047,2,single-arm,structured values,structured values,"retrieved, no structured core values",6
+TRIAL009,EMILIA,NCT00829166,3,"randomized, controlled",structured values,structured values,"retrieved, no structured core values",5
+TRIAL010,INO-VATE ALL,NCT01564784,3,"randomized, controlled",structured values,structured values,"retrieved, no structured core values",3
+TRIAL011,GO29365,NCT02257567,1/2,"randomized, controlled",structured values,structured values,structured values,6
+TRIAL012,LOTIS-2,NCT03589469,2,single-arm,structured values,structured values,"retrieved, no structured core values",5
+TRIAL013,innovaTV 204,NCT03438396,2,single-arm,structured values,structured values,"retrieved, no structured core values",5
+TRIAL014,innovaTV 301,NCT04697628,3,"randomized, controlled",structured values,structured values,"retrieved, no structured core values",5
+TRIAL015,SORAYA,NCT04296890,3,single-arm,structured values,structured values,"retrieved, no structured core values",7
+TRIAL016,MIRASOL,NCT04209855,3,"randomized, controlled",structured values,structured values,"retrieved, no structured core values",4
+TRIAL017,DREAMM-7,NCT04246047,3,"randomized, controlled",structured values,structured values,"retrieved, no structured core values",4
+TRIAL018,DREAMM-8,NCT04484623,3,"randomized, controlled",structured values,structured values,"retrieved, no structured core values",4
+TRIAL019,TROPION-Breast01,NCT05104866,3,"randomized, controlled",structured values,structured values,"retrieved, no structured core values",4
+TRIAL020,TROPION-Lung05,NCT04484142,2,single-arm,structured values,structured values,"retrieved, no structured core values",7
+TRIAL021,LUMINOSITY,NCT03539536,2,single-arm,structured values,not linked/unavailable,"retrieved, no structured core values",3
+TRIAL022,TROPION-Breast02,NCT05374512,3,"randomized, controlled",structured values,not linked/unavailable,"retrieved, no structured core values",7
+TRIAL023,CADENZA,NCT03386513,1/2,single-arm,structured values,not linked/unavailable,"retrieved, no structured core values",4

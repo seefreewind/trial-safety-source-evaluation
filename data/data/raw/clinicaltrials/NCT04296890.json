@@ -1,0 +1,2941 @@
+{
+  "protocolSection": {
+    "identificationModule": {
+      "nctId": "NCT04296890",
+      "orgStudyIdInfo": {
+        "id": "IMGN853-0417"
+      },
+      "secondaryIdInfos": [
+        {
+          "id": "2020-000179-19",
+          "type": "EUDRACT_NUMBER"
+        }
+      ],
+      "organization": {
+        "fullName": "ImmunoGen, Inc.",
+        "class": "INDUSTRY"
+      },
+      "briefTitle": "A Study of Mirvetuximab Soravtansine in Platinum-Resistant, Advanced High-Grade Epithelial Ovarian, Primary Peritoneal, or Fallopian Tube Cancers With High Folate Receptor-Alpha Expression",
+      "officialTitle": "SORAYA: A Phase 3, Single Arm Study of Mirvetuximab Soravtansine in Platinum-Resistant, Advanced High-Grade Epithelial Ovarian, Primary Peritoneal, or Fallopian Tube Cancers With High Folate Receptor-Alpha Expression",
+      "acronym": "SORAYA"
+    },
+    "statusModule": {
+      "statusVerifiedDate": "2024-07",
+      "overallStatus": "COMPLETED",
+      "expandedAccessInfo": {
+        "hasExpandedAccess": false
+      },
+      "startDateStruct": {
+        "date": "2020-07-23",
+        "type": "ACTUAL"
+      },
+      "primaryCompletionDateStruct": {
+        "date": "2021-11-16",
+        "type": "ACTUAL"
+      },
+      "completionDateStruct": {
+        "date": "2022-11-16",
+        "type": "ACTUAL"
+      },
+      "studyFirstSubmitDate": "2020-02-27",
+      "studyFirstSubmitQcDate": "2020-03-03",
+      "studyFirstPostDateStruct": {
+        "date": "2020-03-05",
+        "type": "ACTUAL"
+      },
+      "resultsFirstSubmitDate": "2024-04-23",
+      "resultsFirstSubmitQcDate": "2024-07-31",
+      "resultsFirstPostDateStruct": {
+        "date": "2024-08-07",
+        "type": "ACTUAL"
+      },
+      "dispFirstSubmitDate": "2022-09-16",
+      "dispFirstPostDateStruct": {
+        "date": "2024-08-07",
+        "type": "ACTUAL"
+      },
+      "lastUpdateSubmitDate": "2024-07-31",
+      "lastUpdatePostDateStruct": {
+        "date": "2024-08-07",
+        "type": "ACTUAL"
+      }
+    },
+    "sponsorCollaboratorsModule": {
+      "responsibleParty": {
+        "type": "SPONSOR"
+      },
+      "leadSponsor": {
+        "name": "ImmunoGen, Inc.",
+        "class": "INDUSTRY"
+      }
+    },
+    "oversightModule": {
+      "oversightHasDmc": false,
+      "isFdaRegulatedDrug": true,
+      "isFdaRegulatedDevice": false
+    },
+    "descriptionModule": {
+      "briefSummary": "This study is designed to evaluate the efficacy and safety of mirvetuximab soravtansine (MIRV) in participants with platinum-resistant high-grade serous epithelial ovarian cancer, primary peritoneal, or fallopian tube cancer, whose tumors express a high-level of Folate Receptor-Alpha (FRα). Participants will be, in the opinion of the Investigator, appropriate for single-agent therapy for their next line of therapy. All participants will receive single-agent MIRV at 6 mg/kg adjusted ideal body weight administered on Day 1 of every 3-week cycle.",
+      "detailedDescription": "This study is designed to evaluate the efficacy and safety of mirvetuximab soravtansine (MIRV) in participants with platinum-resistant high-grade serous epithelial ovarian cancer, primary peritoneal, or fallopian tube cancer, whose tumors express a high-level of Folate Receptor Alpha (FRα). Participants will be, in the opinion of the Investigator, appropriate for single-agent therapy for their next line of therapy. FRα positivity will be defined by the Ventana FOLR1 (Folate Receptor 1/Folate Receptor Alpha) Assay.\n\nApproximately 110 eligible participants will be enrolled to achieve a total of 105 efficacy evaluable participants. Efficacy evaluable participants include those who have measurable lesions per Response Evaluation Criteria in Solid Tumors, version 1.1 (RECIST v1.1) at baseline and received at least 1 dose of MIRV.\n\nAll participants will receive single-agent MIRV at 6 mg/kg adjusted ideal body weight (AIBW) administered on Day 1 of every 3-week cycle (Q3W).\n\nTumor response will be evaluated by the Investigator using RECIST v1.1. Computerized tomography (CT) or magnetic resonance imaging (MRI) scans will be collected for sensitivity analysis by blinded independent central review (BICR).\n\nParticipants will continue to receive MIRV until disease progression, unacceptable toxicity, withdrawal of consent, death, or until the Sponsor terminates the study (whichever comes first).\n\nTumor assessments, including radiological assessments by CT/MRI scans will be performed at Screening and subsequently every 6 weeks (± 1 week) from Cycle 1 Day 1 (C1D1) for the first 36 weeks then every 12 weeks (± 3 weeks) until disease progression, death, the start of new anticancer therapy, or participant's withdrawal of consent (whichever occurs first).\n\nParticipants who discontinue MIRV for reasons other than progressive disease (PD) will continue with tumor assessments until documentation of PD or the start of a new anticancer therapy, whichever comes first. Prior to Week 36 (from Cycle 1, Day 1), assessments should occur every 6 weeks (± 1 week) as allowed by local requirements but must occur at an interval of no more than 12 weeks. After Week 36, assessment will occur every 12 weeks (± 3 weeks) until documentation of PD or the start of new anticancer therapy.\n\nAll participants who discontinue MIRV will be followed for survival every 3 months (± 1 month) until death, lost to follow-up, withdrawal of consent for survival follow-up, or end of study (EOS) (whichever comes first). Additional survival follow-up calls may occur periodically, if needed."
+    },
+    "conditionsModule": {
+      "conditions": [
+        "Epithelial Ovarian Cancer",
+        "Peritoneal Cancer",
+        "Fallopian Tube Cancer"
+      ],
+      "keywords": [
+        "Platinum resistant",
+        "Folate-receptor alpha expression",
+        "Phase 3",
+        "Antibody-drug conjugate",
+        "mirvetuximab soravtansine",
+        "IMGN853",
+        "Epithelial Ovarian Cancer",
+        "Peritoneal Cancer",
+        "Fallopian Tube Cancer",
+        "MIRV",
+        "FRα"
+      ]
+    },
+    "designModule": {
+      "studyType": "INTERVENTIONAL",
+      "phases": [
+        "PHASE3"
+      ],
+      "designInfo": {
+        "allocation": "NA",
+        "interventionModel": "SINGLE_GROUP",
+        "interventionModelDescription": "All participants will receive single-agent MIRV at 6 mg/kg adjusted ideal body weight (AIBW) administered on Day 1 of every 3-week cycle (Q3W)",
+        "primaryPurpose": "TREATMENT",
+        "maskingInfo": {
+          "masking": "NONE"
+        }
+      },
+      "enrollmentInfo": {
+        "count": 106,
+        "type": "ACTUAL"
+      }
+    },
+    "armsInterventionsModule": {
+      "armGroups": [
+        {
+          "label": "Treatment",
+          "type": "EXPERIMENTAL",
+          "description": "All participants will receive single-agent mirvetuximab soravtansine (MIRV) at 6 mg/kg adjusted ideal body weight (AIBW) administered on Day 1 of every 3-week cycle (Q3W).",
+          "interventionNames": [
+            "Drug: Mirvetuximab Soravtansine"
+          ]
+        }
+      ],
+      "interventions": [
+        {
+          "type": "DRUG",
+          "name": "Mirvetuximab Soravtansine",
+          "description": "Mirvetuximab Soravtansine is an antibody drug conjugate designed to target folate receptor α (FRα). It consists of the humanized anti-FRα mAb M9346A attached via a cleavable disulfide linker to the cytotoxic maytansinoid, DM4.",
+          "armGroupLabels": [
+            "Treatment"
+          ],
+          "otherNames": [
+            "IMGN853",
+            "MIRV"
+          ]
+        }
+      ]
+    },
+    "outcomesModule": {
+      "primaryOutcomes": [
+        {
+          "measure": "Objective Response Rate (ORR): Percentage of Participants With Objective Response as Assessed by the Investigator Using Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1)",
+          "description": "ORR was defined as percentage of participants with a confirmed best overall response (BOR) of complete response (CR) or partial response (PR). CR: Disappearance of all target or non-target lesions. All pathological or non-pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\<10 millimeters (mm). PR: At least 30% decrease in the sum of the longest diameters (SoD) of target lesions, taking as reference the baseline SoD.",
+          "timeFrame": "Up to approximately 15 months"
+        }
+      ],
+      "secondaryOutcomes": [
+        {
+          "measure": "Duration of Response (DOR) as Assessed by the Investigator Using RECIST v1.1",
+          "description": "DOR was defined as the time from the date of the first response (CR or PR), until the date of progressive disease (PD) or death from any cause, whichever occurred first. DOR for participants who had not progressed or died at the time of analysis was censored at the date of their last tumor assessment. PD: At least a 20% increase in the SoD of target lesion, taken as reference the smallest (nadir) SoD since and including baseline. In addition to the relative increase of 20%, the SoD must also demonstrate an absolute increase of at least 5 mm. Unequivocal progression of non-target lesions. Unequivocal progression should not normally trump target lesion status. It must be representative of overall disease status change, not a single lesion increase. DOR was estimated using the Kaplan-Meier method.",
+          "timeFrame": "Up to approximately 15 months"
+        },
+        {
+          "measure": "Percentage of Participants With CA-125 Confirmed Clinical Response Per Gynecologic Cancer Intergroup (GCIG) Criteria",
+          "description": "The GCIG CA-125 response was defined as at least 50% reduction in CA-125 levels from baseline. The response must have been confirmed and maintained for at least 28 days.",
+          "timeFrame": "Up to approximately 15 months"
+        },
+        {
+          "measure": "Progression-Free Survival (PFS) as Assessed by the Investigator Using RECIST v1.1",
+          "description": "PFS was defined as the time from initiation of study drug until the date of PD or death whichever occurred first, estimated using the Kaplan-Meier method. PD: At least a 20% increase in the SoD of target lesion, taken as reference the smallest (nadir) SoD since and including baseline. In addition to the relative increase of 20%, the SoD must also demonstrate an absolute increase of at least 5 mm. Unequivocal progression of non-target lesions and appearance of new lesions. Unequivocal progression should not normally trump target lesion status. It must be representative of overall disease status change, not a single lesion increase.",
+          "timeFrame": "Up to approximately 15 months"
+        },
+        {
+          "measure": "Overall Survival Assessed by the Investigator Using RECIST v1.1",
+          "description": "Overall survival was defined as the time from the date of first dose until the date of death from any cause, estimated using the Kaplan-Meier method.",
+          "timeFrame": "Up to approximately 27 months"
+        },
+        {
+          "measure": "Number of Participants With Treatment-emergent Adverse Events (TEAEs)",
+          "description": "An adverse event (AE) was defined as any untoward medical occurrence that develops or worsens in severity during the conduct of a clinical study and does not necessarily have a causal relationship to study drug. TEAEs were defined as AEs with an onset date on or after the first dose of Study drug, and within 30 days of the last dose of study drug or prior to the start of a new anticancer treatment, whichever occurred first. A summary of all Serious Adverse Events (SAEs) and Other Adverse Events (nonserious) regardless of causality is located in the 'Reported Adverse Events' Section.",
+          "timeFrame": "Up to approximately 27 months"
+        }
+      ]
+    },
+    "eligibilityModule": {
+      "eligibilityCriteria": "Inclusion Criteria:\n\n1. Female participants ≥ 18 years of age\n2. Participants must have a confirmed diagnosis of high-grade serous epithelial ovarian cancer (EOC), primary peritoneal cancer, or fallopian tube cancer\n3. Participants must have platinum-resistant disease:\n\n   1. Participants who have only had 1 line of platinum based therapy must have received at least 4 cycles of platinum, must have had a response (complete response/remission \\[CR\\] or partial response/remission \\[PR\\]) and then progressed between \\> 3 months and ≤ 6 months after the date of the last dose of platinum\n   2. Participants who have received 2 or 3 lines of platinum therapy must have progressed on or within 6 months after the date of the last dose of platinum\n\n   Note: Progression should be calculated from the date of the last administered dose of platinum therapy to the date of the radiographic imaging showing progression\n\n   Note: Participants who are platinum refractory during front-line treatment are excluded (see exclusion criteria)\n4. Participants must have progressed radiographically on or after their most recent line of anticancer therapy.\n5. Participants must be willing to provide an archival tumor tissue block or slides, or undergo procedure to obtain a new biopsy using a low-risk, medically routine procedure for immunohistochemistry (IHC) confirmation of Folate Receptor α (FRα) positivity\n6. Participant's tumor must be positive for FRα expression as defined by the Ventana FOLR1 Assay\n7. Participants must have at least 1 lesion that meets the definition of measurable disease by RECIST v1.1 (radiologically measured by the Investigator)\n8. Participants must have received at least 1 but no more than 3 prior systemic lines of anticancer therapy, including at least 1 line of therapy containing bevacizumab, and for whom single-agent therapy is appropriate as the next line of treatment:\n\n   1. Adjuvant ± neoadjuvant considered 1 line of therapy\n   2. Maintenance therapy (e.g., bevacizumab, poly adenosine diphosphate-ribose polymerase (PARP) inhibitors) will be considered part of the preceding line of therapy (i.e., not counted independently)\n   3. Therapy changed due to toxicity in the absence of progression will be considered part of the same line (i.e., not counted independently)\n   4. Hormonal therapy will be counted as a separate line of therapy unless it was given as maintenance\n9. Participants must have an Eastern Cooperative Oncology Group Performance Status (ECOG PS) of 0 or 1\n10. Participants must have completed prior therapy within the specified times below:\n\n    1. Systemic antineoplastic therapy within 5 half-lives or 4 weeks (whichever is shorter) prior to first dose of MIRV\n    2. Focal radiation completed at least 2 weeks prior to first dose of MIRV\n11. Participants must have stabilized or recovered (Grade 1 or baseline) from all prior therapy-related toxicities (except alopecia)\n12. Participants must have completed any major surgery at least 4 weeks prior to first dose of MIRV and have recovered or stabilized from the side effects of prior surgery\n13. Participants must have adequate hematologic, liver and kidney functions defined as:\n\n    1. Absolute neutrophil count (ANC) ≥ 1.5 x 10\\^9/L (1,500/μL) without G-CSF in the prior 10 days or long-acting WBC growth factors in the prior 20 days\n    2. Platelet count ≥ 100 x 10\\^9/L (100,000/μL) without platelet transfusion in the prior 10 days\n    3. Hemoglobin ≥ 9.0 g/dL without packed red blood cell (PRBC) transfusion in the prior 21 days\n    4. Serum creatinine ≤ 1.5 x upper limit of normal (ULN)\n    5. Aspartate aminotransferase (AST) and alanine aminotransferase (ALT) ≤ 3.0 x ULN\n    6. Serum bilirubin ≤ 1.5 x ULN (patients with documented diagnosis of Gilbert syndrome are eligible if total bilirubin \\< 3.0 x ULN)\n    7. Serum albumin ≥ 2 g/dL\n14. Participants or their legally authorized representative must be willing and able to sign the informed consent form (ICF) and to adhere to the protocol requirements\n15. Women of childbearing potential (WCBP) must agree to use highly effective contraceptive method(s) while on MIRV and for at least 3 months after the last dose\n16. WCBP must have a negative pregnancy test within the 4 days prior to the first dose of MIRV\n\nExclusion Criteria:\n\n1. Male participants\n2. Participants with endometrioid, clear cell, mucinous, or sarcomatous histology, mixed tumors containing any of the above histologies, or low-grade/borderline ovarian tumor\n3. Participants with primary platinum-refractory disease, defined as disease that did not respond to (CR or PR) or has progressed within 3 months of the last dose of first-line platinum-containing chemotherapy\n4. Participants with prior wide-field radiotherapy (RT) affecting at least 20 percent of the bone marrow\n5. Participants with \\> Grade 1 peripheral neuropathy per Common Terminology Criteria for Adverse Events (CTCAE)\n6. Participants with active or chronic corneal disorders, history of corneal transplantation, or active ocular conditions requiring ongoing treatment/monitoring, such as uncontrolled glaucoma, wet age-related macular degeneration requiring intravitreal injections, active diabetic retinopathy with macular edema, macular degeneration, presence of papilledema, and /or monocular vision\n7. Participants with serious concurrent illness or clinically relevant active infection, including, but not limited to the following:\n\n   1. Active hepatitis B or C infection (whether or not on active antiviral therapy)\n   2. Human immunodeficiency virus (HIV) infection\n   3. Active cytomegalovirus infection\n   4. Any other concurrent infectious disease requiring IV antibiotics within 2 weeks prior to the first dose of MIRV\n\n   Note: Testing at screening is not required for the above infections unless clinically indicated\n8. Participants with a history of multiple sclerosis (MS) or other demyelinating disease and/or Lambert-Eaton syndrome (paraneoplastic syndrome)\n9. Participants with clinically significant cardiac disease including, but not limited to, any of the following:\n\n   1. Myocardial infarction ≤ 6 months prior to first dose\n   2. Unstable angina pectoris\n   3. Uncontrolled congestive heart failure (New York Heart Association \\> class II)\n   4. Uncontrolled ≥ Grade 3 hypertension (per CTCAE)\n   5. Uncontrolled cardiac arrhythmias\n10. Participants with a history of hemorrhagic or ischemic stroke within 6 months prior to enrollment\n11. Participants with a history of cirrhotic liver disease (Child-Pugh Class B or C)\n12. Participants with a previous clinical diagnosis of noninfectious interstitial lung disease (ILD), including noninfectious pneumonitis\n13. Participants requiring use of folate-containing supplements (eg, folate deficiency)\n14. Participants with prior hypersensitivity to monoclonal antibodies (mAb)\n15. Women who are pregnant or breastfeeding\n16. Participants who received prior treatment with MIRV or other FRα-targeting agents\n17. Participants with untreated or symptomatic central nervous system (CNS) metastases\n18. Participants with a history of other malignancy within 3 years prior to enrollment.\n\n    Note: Participants with tumors with a negligible risk for metastasis or death (eg, adequately controlled basal-cell carcinoma or squamous-cell carcinoma of the skin, or carcinoma in situ of the cervix or breast) are eligible\n19. Prior known hypersensitivity reactions to study drugs and/or any of their excipients",
+      "healthyVolunteers": false,
+      "sex": "FEMALE",
+      "genderBased": true,
+      "minimumAge": "18 Years",
+      "stdAges": [
+        "ADULT",
+        "OLDER_ADULT"
+      ]
+    },
+    "contactsLocationsModule": {
+      "overallOfficials": [
+        {
+          "name": "Michael Method, MD, MPH, MBA",
+          "affiliation": "ImmunoGen, Inc.",
+          "role": "STUDY_DIRECTOR"
+        },
+        {
+          "name": "Ursula Matulonis, MD",
+          "affiliation": "Dana-Farber Cancer Institute",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        },
+        {
+          "name": "Robert Coleman, MD",
+          "affiliation": "The US Oncology Network",
+          "role": "PRINCIPAL_INVESTIGATOR"
+        }
+      ],
+      "locations": [
+        {
+          "facility": "Arizona Oncology Associates",
+          "city": "Phoenix",
+          "state": "Arizona",
+          "zip": "85016",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.44838,
+            "lon": -112.07404
+          }
+        },
+        {
+          "facility": "City of Hope Medical Center",
+          "city": "Duarte",
+          "state": "California",
+          "zip": "91010",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 34.13945,
+            "lon": -117.97729
+          }
+        },
+        {
+          "facility": "California Cancer Associates (cCARE)",
+          "city": "Fresno",
+          "state": "California",
+          "zip": "93720",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.74773,
+            "lon": -119.77237
+          }
+        },
+        {
+          "facility": "Stanford School of Medicine",
+          "city": "Palo Alto",
+          "state": "California",
+          "zip": "94394",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.44188,
+            "lon": -122.14302
+          }
+        },
+        {
+          "facility": "California Pacific Medical Center Research Institute",
+          "city": "San Francisco",
+          "state": "California",
+          "zip": "94109",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 37.77493,
+            "lon": -122.41942
+          }
+        },
+        {
+          "facility": "Rocky Mountain Cancer Centers",
+          "city": "Littleton",
+          "state": "Colorado",
+          "zip": "80120",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.61332,
+            "lon": -105.01665
+          }
+        },
+        {
+          "facility": "Sarasota Memorial Health Care System",
+          "city": "Sarasota",
+          "state": "Florida",
+          "zip": "34239",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.33643,
+            "lon": -82.53065
+          }
+        },
+        {
+          "facility": "Florida Cancer Specialists Panhandle",
+          "city": "Tallahassee",
+          "state": "Florida",
+          "zip": "32308",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.43826,
+            "lon": -84.28073
+          }
+        },
+        {
+          "facility": "University of South Florida",
+          "city": "Tampa",
+          "state": "Florida",
+          "zip": "33606",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 27.94752,
+            "lon": -82.45843
+          }
+        },
+        {
+          "facility": "Florida Cancer Specialists Research",
+          "city": "West Palm Beach",
+          "state": "Florida",
+          "zip": "33401",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.71534,
+            "lon": -80.05337
+          }
+        },
+        {
+          "facility": "Northside Hospital",
+          "city": "Atlanta",
+          "state": "Georgia",
+          "zip": "30342",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 33.749,
+            "lon": -84.38798
+          }
+        },
+        {
+          "facility": "Hinsdale Hospital",
+          "city": "Hinsdale",
+          "state": "Illinois",
+          "zip": "60521",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 41.80086,
+            "lon": -87.93701
+          }
+        },
+        {
+          "facility": "St. Vincent Gynecologic Oncology",
+          "city": "Indianapolis",
+          "state": "Indiana",
+          "zip": "46260",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.76838,
+            "lon": -86.15804
+          }
+        },
+        {
+          "facility": "University of Kansas Cancer Center",
+          "city": "Westwood",
+          "state": "Kansas",
+          "zip": "66205",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.04056,
+            "lon": -94.6169
+          }
+        },
+        {
+          "facility": "Norton Cancer Institute",
+          "city": "Louisville",
+          "state": "Kentucky",
+          "zip": "40207",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 38.25424,
+            "lon": -85.75941
+          }
+        },
+        {
+          "facility": "Women's Cancer Center",
+          "city": "Covington",
+          "state": "Louisiana",
+          "zip": "70433",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.47549,
+            "lon": -90.10042
+          }
+        },
+        {
+          "facility": "Maryland Oncology Hematology, P.A.",
+          "city": "Rockville",
+          "state": "Maryland",
+          "zip": "20850",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.084,
+            "lon": -77.15276
+          }
+        },
+        {
+          "facility": "Massachusetts General Hospital",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02114",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Dana Farber Cancer Institute",
+          "city": "Boston",
+          "state": "Massachusetts",
+          "zip": "02215",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 42.35843,
+            "lon": -71.05977
+          }
+        },
+        {
+          "facility": "Midwest Oncology Associates/Sarah Cannon",
+          "city": "Kansas City",
+          "state": "Missouri",
+          "zip": "64132",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.09973,
+            "lon": -94.57857
+          }
+        },
+        {
+          "facility": "Center of Hope at Renown Medical Center",
+          "city": "Reno",
+          "state": "Nevada",
+          "zip": "89502",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 39.52963,
+            "lon": -119.8138
+          }
+        },
+        {
+          "facility": "Holy Name Medical Center",
+          "city": "Teaneck",
+          "state": "New Jersey",
+          "zip": "07666",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.8976,
+            "lon": -74.01597
+          }
+        },
+        {
+          "facility": "Mount Sinai Health System",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10029",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Memorial Sloan-Kettering Cancer Center",
+          "city": "New York",
+          "state": "New York",
+          "zip": "10065",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 40.71427,
+            "lon": -74.00597
+          }
+        },
+        {
+          "facility": "Sarah Cannon Research Institute / Tennessee Oncology, PLLC",
+          "city": "Nashville",
+          "state": "Tennessee",
+          "zip": "37203",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 36.16589,
+            "lon": -86.78444
+          }
+        },
+        {
+          "facility": "Texas Oncology-Austin Central",
+          "city": "Austin",
+          "state": "Texas",
+          "zip": "78731",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.26715,
+            "lon": -97.74306
+          }
+        },
+        {
+          "facility": "Texas Oncology, P.A. - Fort Worth Cancer Center",
+          "city": "Fort Worth",
+          "state": "Texas",
+          "zip": "76104",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.72541,
+            "lon": -97.32085
+          }
+        },
+        {
+          "facility": "Texas Oncology, P.A. - McAllen",
+          "city": "McAllen",
+          "state": "Texas",
+          "zip": "78503",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 26.20341,
+            "lon": -98.23001
+          }
+        },
+        {
+          "facility": "Texas Oncology, P.A. - Sugar Land",
+          "city": "Sugar Land",
+          "state": "Texas",
+          "zip": "77479",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 29.61968,
+            "lon": -95.63495
+          }
+        },
+        {
+          "facility": "USOR: Texas Oncology - The Woodlands, Gynecologic Oncology",
+          "city": "The Woodlands",
+          "state": "Texas",
+          "zip": "77380",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 30.15799,
+            "lon": -95.48938
+          }
+        },
+        {
+          "facility": "Texas Oncology, P.A. - Tyler",
+          "city": "Tyler",
+          "state": "Texas",
+          "zip": "75702",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 32.35126,
+            "lon": -95.30106
+          }
+        },
+        {
+          "facility": "Kadlec Clinic Hematology and Oncology",
+          "city": "Kennewick",
+          "state": "Washington",
+          "zip": "99336",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 46.21125,
+            "lon": -119.13723
+          }
+        },
+        {
+          "facility": "University of Wisconsin Carbone Cancer Center",
+          "city": "Madison",
+          "state": "Wisconsin",
+          "zip": "53792",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.07305,
+            "lon": -89.40123
+          }
+        },
+        {
+          "facility": "Froedtert and the Medical College of Wisconsin Department of Obstetrics & Gynecology",
+          "city": "Milwaukee",
+          "state": "Wisconsin",
+          "zip": "53226",
+          "country": "United States",
+          "geoPoint": {
+            "lat": 43.0389,
+            "lon": -87.90647
+          }
+        },
+        {
+          "facility": "Royal North Shore Hospital",
+          "city": "St Leonards",
+          "state": "New South Wales",
+          "zip": "2065",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -33.82344,
+            "lon": 151.19836
+          }
+        },
+        {
+          "facility": "ICON Cancer Care",
+          "city": "Auchenflower",
+          "state": "Queensland",
+          "zip": "4066",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -27.47443,
+            "lon": 152.99213
+          }
+        },
+        {
+          "facility": "Peninsula and South Eastern Haematology & Oncology Group",
+          "city": "Frankston",
+          "state": "Victoria",
+          "zip": "3199",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -38.14458,
+            "lon": 145.12291
+          }
+        },
+        {
+          "facility": "St John of God Subiaco Hospital",
+          "city": "Subiaco",
+          "state": "Western Australia",
+          "zip": "6008",
+          "country": "Australia",
+          "geoPoint": {
+            "lat": -31.9485,
+            "lon": 115.8268
+          }
+        },
+        {
+          "facility": "Cliniques Universitaires Saint Luc - lnstitut Roi Albert II",
+          "city": "Brussels",
+          "state": "Brussels Capital",
+          "zip": "1200",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.85045,
+            "lon": 4.34878
+          }
+        },
+        {
+          "facility": "Centre Hopsitalier de l'Ardenne",
+          "city": "Libramont",
+          "state": "Luxembourg",
+          "zip": "6800",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 49.91741,
+            "lon": 5.37318
+          }
+        },
+        {
+          "facility": "UZ Gent",
+          "city": "Ghent",
+          "zip": "9000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 51.05,
+            "lon": 3.71667
+          }
+        },
+        {
+          "facility": "UZ Leuven",
+          "city": "Leuven",
+          "zip": "3000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.87959,
+            "lon": 4.70093
+          }
+        },
+        {
+          "facility": "CHU UCL Namur/Site Sainte Elisabeth",
+          "city": "Namur",
+          "zip": "B5000",
+          "country": "Belgium",
+          "geoPoint": {
+            "lat": 50.4669,
+            "lon": 4.86746
+          }
+        },
+        {
+          "facility": "MHAT \"Serdika\"",
+          "city": "Sofia",
+          "zip": "1632",
+          "country": "Bulgaria",
+          "geoPoint": {
+            "lat": 42.69751,
+            "lon": 23.32415
+          }
+        },
+        {
+          "facility": "Všeobecná fakultní nemocnice v Praze",
+          "city": "Prague",
+          "state": "Prague",
+          "zip": "128 51",
+          "country": "Czechia",
+          "geoPoint": {
+            "lat": 50.08804,
+            "lon": 14.42076
+          }
+        },
+        {
+          "facility": "Universitätsmedizin Mannheim",
+          "city": "Mannheim",
+          "state": "Baden-Wurttemberg",
+          "zip": "68167",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 49.4891,
+            "lon": 8.46694
+          }
+        },
+        {
+          "facility": "UMG Frauenklinik Robert-Koch-Str. 40",
+          "city": "Göttingen",
+          "state": "Lower Saxony",
+          "zip": "37075",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.53443,
+            "lon": 9.93228
+          }
+        },
+        {
+          "facility": "KEM",
+          "city": "Essen",
+          "zip": "45135",
+          "country": "Germany",
+          "geoPoint": {
+            "lat": 51.45657,
+            "lon": 7.01228
+          }
+        },
+        {
+          "facility": "Mater Misericordiae University Hospital",
+          "city": "Dublin",
+          "state": "Leinster",
+          "zip": "7",
+          "country": "Ireland",
+          "geoPoint": {
+            "lat": 53.33306,
+            "lon": -6.24889
+          }
+        },
+        {
+          "facility": "St. James's Hospital",
+          "city": "Dublin",
+          "state": "Leinster",
+          "zip": "8",
+          "country": "Ireland",
+          "geoPoint": {
+            "lat": 53.33306,
+            "lon": -6.24889
+          }
+        },
+        {
+          "facility": "Cork University Hospital",
+          "city": "Cork",
+          "state": "Munster",
+          "zip": "T12 DC4A",
+          "country": "Ireland",
+          "geoPoint": {
+            "lat": 51.89797,
+            "lon": -8.47061
+          }
+        },
+        {
+          "facility": "Bon Secours Hospital",
+          "city": "Cork",
+          "state": "Munster",
+          "zip": "T12 DV56",
+          "country": "Ireland",
+          "geoPoint": {
+            "lat": 51.89797,
+            "lon": -8.47061
+          }
+        },
+        {
+          "facility": "University Hospital Waterford",
+          "city": "Waterford",
+          "state": "Munster",
+          "zip": "X91ER8E",
+          "country": "Ireland",
+          "geoPoint": {
+            "lat": 52.25833,
+            "lon": -7.11194
+          }
+        },
+        {
+          "facility": "Beaumont Hospital",
+          "city": "Dublin",
+          "zip": "9",
+          "country": "Ireland",
+          "geoPoint": {
+            "lat": 53.33306,
+            "lon": -6.24889
+          }
+        },
+        {
+          "facility": "Rambam Medical Center",
+          "city": "Haifa",
+          "zip": "PO Box 9601",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.81303,
+            "lon": 34.99928
+          }
+        },
+        {
+          "facility": "Shaare Zedek Medical Center",
+          "city": "Jerusalem",
+          "zip": "91031",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 31.76904,
+            "lon": 35.21633
+          }
+        },
+        {
+          "facility": "Hadassah Ein Kerem Medical center",
+          "city": "Jerusalem",
+          "zip": "POB 12000",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 31.76904,
+            "lon": 35.21633
+          }
+        },
+        {
+          "facility": "Meir Medical Center",
+          "city": "Kfar Saba",
+          "zip": "4428164",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.175,
+            "lon": 34.90694
+          }
+        },
+        {
+          "facility": "Sheba Medical Center",
+          "city": "Ramat Gan",
+          "zip": "5265601",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.08227,
+            "lon": 34.81065
+          }
+        },
+        {
+          "facility": "Kaplan Medical Center",
+          "city": "Rehovot",
+          "zip": "76100",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 31.89421,
+            "lon": 34.81199
+          }
+        },
+        {
+          "facility": "Ziv Medical Center",
+          "city": "Safed",
+          "zip": "13100",
+          "country": "Israel",
+          "geoPoint": {
+            "lat": 32.96465,
+            "lon": 35.496
+          }
+        },
+        {
+          "facility": "Policlinico S. Orsola-Malpighi",
+          "city": "Bologna",
+          "zip": "40138",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.49381,
+            "lon": 11.33875
+          }
+        },
+        {
+          "facility": "Azienda Socio Santaria Territoriale degli Spedali Civili di Brescia",
+          "city": "Brescia",
+          "zip": "25123",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 45.53558,
+            "lon": 10.21472
+          }
+        },
+        {
+          "facility": "Istituto Oncologico Candiolo",
+          "city": "Candiolo",
+          "zip": "10060",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.95858,
+            "lon": 7.59812
+          }
+        },
+        {
+          "facility": "Ospedale Cannizzaro di Catania",
+          "city": "Catania",
+          "zip": "95126",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 37.49223,
+            "lon": 15.07041
+          }
+        },
+        {
+          "facility": "IEO Istituto Europeo di Oncologia",
+          "city": "Milan",
+          "zip": "20141",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 42.78235,
+            "lon": 12.59836
+          }
+        },
+        {
+          "facility": "Azienda Ospedaliera Ospedale Niguarda Ca'Granda",
+          "city": "Milan",
+          "zip": "20162",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 42.78235,
+            "lon": 12.59836
+          }
+        },
+        {
+          "facility": "Fondazione IRCCS Istituto Nazionale dei Tumori",
+          "city": "Naples",
+          "zip": "80131",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 40.85216,
+            "lon": 14.26811
+          }
+        },
+        {
+          "facility": "Istituto Nazionale Tumori- G. Pascale",
+          "city": "Naples",
+          "zip": "87100",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 40.85216,
+            "lon": 14.26811
+          }
+        },
+        {
+          "facility": "Ospedale S.Maria della Misericordia",
+          "city": "Perugia",
+          "zip": "6129",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 43.1122,
+            "lon": 12.38878
+          }
+        },
+        {
+          "facility": "Fondazione Policlinico Universitario A. Gemelli IRCCS",
+          "city": "Roma",
+          "zip": "00168",
+          "country": "Italy",
+          "geoPoint": {
+            "lat": 44.99364,
+            "lon": 11.10642
+          }
+        },
+        {
+          "facility": "Specjalistyczna Przychodnia Lekarska Medicus",
+          "city": "Chorzów",
+          "state": "Silesian Voivodeship",
+          "zip": "41-500",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 50.30582,
+            "lon": 18.9742
+          }
+        },
+        {
+          "facility": "Mazurskim Centrum Onkologiiw Olsztynie",
+          "city": "Olsztyn",
+          "state": "Warmian-Masurian Voivodeship",
+          "zip": "10-228",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 53.78376,
+            "lon": 20.49272
+          }
+        },
+        {
+          "facility": "Instytut Centrum Zdrowia Matki Polki",
+          "city": "Lodz",
+          "state": "Łódź Voivodeship",
+          "zip": "93-338",
+          "country": "Poland",
+          "geoPoint": {
+            "lat": 51.77058,
+            "lon": 19.47395
+          }
+        },
+        {
+          "facility": "Institut Català d'Oncologia Badalona Hospital Universitari Germans Trias i Pujol",
+          "city": "Badalona",
+          "state": "Barcelona",
+          "zip": "08916",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.45004,
+            "lon": 2.24741
+          }
+        },
+        {
+          "facility": "Hospital La Paz",
+          "city": "Madrid",
+          "state": "Castellana",
+          "zip": "28046",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Teresa Herrera - Complejo Hospitalario Universitario A Coruna",
+          "city": "A Coruña",
+          "state": "Galicia",
+          "zip": "15006",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 43.37135,
+            "lon": -8.396
+          }
+        },
+        {
+          "facility": "Hospital Quirón Dexeus",
+          "city": "Barcelona",
+          "zip": "08028",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Vall d'Hebron Institute of Oncology",
+          "city": "Barcelona",
+          "zip": "08035",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "lnstitut Catala d' Oncologia L' Hospitalet",
+          "city": "Barcelona",
+          "zip": "08908",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.38879,
+            "lon": 2.15899
+          }
+        },
+        {
+          "facility": "Hospital Reina Sofia de Cordoba",
+          "city": "Córdoba",
+          "zip": "14004",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.89155,
+            "lon": -4.77275
+          }
+        },
+        {
+          "facility": "Institut Català d'Oncología de Girona",
+          "city": "Girona",
+          "zip": "17007",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.98311,
+            "lon": 2.82493
+          }
+        },
+        {
+          "facility": "Clinica Universidad de Navarra",
+          "city": "Madrid",
+          "zip": "28027",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "MD Anderson Cancer Centre",
+          "city": "Madrid",
+          "zip": "28033",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Clínico Universitario San Carlos",
+          "city": "Madrid",
+          "zip": "28040",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 40.4165,
+            "lon": -3.70256
+          }
+        },
+        {
+          "facility": "Hospital Clinico Universitario Virgen de la Arrixaca",
+          "city": "Murcia",
+          "zip": "30120",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 37.98704,
+            "lon": -1.13004
+          }
+        },
+        {
+          "facility": "Corporació Sanitaria Parc Taulí",
+          "city": "Sabadell",
+          "zip": "08208",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 41.54329,
+            "lon": 2.10942
+          }
+        },
+        {
+          "facility": "Hospital Clinico Universitario de Valencia",
+          "city": "Valencia",
+          "zip": "46010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        },
+        {
+          "facility": "Instituto Valenciano de Oncologia",
+          "city": "Valencia",
+          "zip": "46010",
+          "country": "Spain",
+          "geoPoint": {
+            "lat": 39.47391,
+            "lon": -0.37966
+          }
+        }
+      ]
+    },
+    "referencesModule": {
+      "references": [
+        {
+          "pmid": "38858103",
+          "type": "DERIVED",
+          "citation": "Coleman RL, Lorusso D, Oaknin A, Cecere SC, Denys H, Colombo N, van Gorp T, Konner JA, Romeo Marin M, Harter P, Murphy C, Wang Y, Esteves B, Method M, Matulonis U. Mirvetuximab soravtansine in folate receptor alpha (FRalpha)-high platinum-resistant ovarian cancer: final overall survival and post hoc sequence of therapy subgroup results from the SORAYA trial. Int J Gynecol Cancer. 2024 Aug 5;34(8):1119-1125. doi: 10.1136/ijgc-2024-005401."
+        },
+        {
+          "pmid": "37212825",
+          "type": "DERIVED",
+          "citation": "Dilawari A, Shah M, Ison G, Gittleman H, Fiero MH, Shah A, Hamed SS, Qiu J, Yu J, Manheng W, Ricks TK, Pragani R, Arudchandran A, Patel P, Zaman S, Roy A, Kalavar S, Ghosh S, Pierce WF, Rahman NA, Tang S, Mixter BD, Kluetz PG, Pazdur R, Amiri-Kordestani L. FDA Approval Summary: Mirvetuximab Soravtansine-Gynx for FRalpha-Positive, Platinum-Resistant Ovarian Cancer. Clin Cancer Res. 2023 Oct 2;29(19):3835-3840. doi: 10.1158/1078-0432.CCR-23-0991."
+        },
+        {
+          "pmid": "36716407",
+          "type": "DERIVED",
+          "citation": "Matulonis UA, Lorusso D, Oaknin A, Pignata S, Dean A, Denys H, Colombo N, Van Gorp T, Konner JA, Marin MR, Harter P, Murphy CG, Wang J, Noble E, Esteves B, Method M, Coleman RL. Efficacy and Safety of Mirvetuximab Soravtansine in Patients With Platinum-Resistant Ovarian Cancer With High Folate Receptor Alpha Expression: Results From the SORAYA Study. J Clin Oncol. 2023 May 1;41(13):2436-2445. doi: 10.1200/JCO.22.01900. Epub 2023 Jan 30."
+        }
+      ]
+    }
+  },
+  "resultsSection": {
+    "participantFlowModule": {
+      "preAssignmentDetails": "Participants were enrolled at 39 sites in North America, Europe, and Asia Pacific.",
+      "groups": [
+        {
+          "id": "FG000",
+          "title": "Mirvetuximab Soravtansine",
+          "description": "Participants received single-agent mirvetuximab soravtansine (MIRV) at 6 milligrams (mg)/kilogram (kg) adjusted ideal body weight (AIBW) administered intravenously (IV) on Day 1 of every 3-week cycle (Q3W)."
+        }
+      ],
+      "periods": [
+        {
+          "title": "Overall Study",
+          "milestones": [
+            {
+              "type": "STARTED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "106"
+                }
+              ]
+            },
+            {
+              "type": "INV Efficacy Evaluable Population",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "105"
+                }
+              ]
+            },
+            {
+              "type": "COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "38"
+                }
+              ]
+            },
+            {
+              "type": "NOT COMPLETED",
+              "achievements": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "68"
+                }
+              ]
+            }
+          ],
+          "dropWithdraws": [
+            {
+              "type": "Withdrawal by Subject",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "1"
+                }
+              ]
+            },
+            {
+              "type": "Death",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "62"
+                }
+              ]
+            },
+            {
+              "type": "Lost to Follow-up",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "3"
+                }
+              ]
+            },
+            {
+              "type": "Other than specified",
+              "reasons": [
+                {
+                  "groupId": "FG000",
+                  "numSubjects": "2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "baselineCharacteristicsModule": {
+      "populationDescription": "The Safety population was defined as participants who received at least 1 dose of study drug.",
+      "groups": [
+        {
+          "id": "BG000",
+          "title": "Mirvetuximab Soravtansine",
+          "description": "Participants received single-agent mirvetuximab soravtansine (MIRV) at 6 mg/kg AIBW administered IV on Day 1 of every 3-week cycle (Q3W)."
+        }
+      ],
+      "denoms": [
+        {
+          "units": "Participants",
+          "counts": [
+            {
+              "groupId": "BG000",
+              "value": "106"
+            }
+          ]
+        }
+      ],
+      "measures": [
+        {
+          "title": "Age, Continuous",
+          "paramType": "MEAN",
+          "dispersionType": "STANDARD_DEVIATION",
+          "unitOfMeasure": "years",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "62",
+                      "spread": "10"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Sex: Female, Male",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Female",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "106"
+                    }
+                  ]
+                },
+                {
+                  "title": "Male",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Ethnicity (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Not Hispanic or Latino",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "99"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "5"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Race (NIH/OMB)",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "classes": [
+            {
+              "categories": [
+                {
+                  "title": "American Indian or Alaska Native",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Asian",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                },
+                {
+                  "title": "Native Hawaiian or Other Pacific Islander",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Black or African American",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "White",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "102"
+                    }
+                  ]
+                },
+                {
+                  "title": "More than one race",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "0"
+                    }
+                  ]
+                },
+                {
+                  "title": "Unknown or Not Reported",
+                  "measurements": [
+                    {
+                      "groupId": "BG000",
+                      "value": "2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "outcomeMeasuresModule": {
+      "outcomeMeasures": [
+        {
+          "type": "PRIMARY",
+          "title": "Objective Response Rate (ORR): Percentage of Participants With Objective Response as Assessed by the Investigator Using Response Evaluation Criteria in Solid Tumors Version 1.1 (RECIST v1.1)",
+          "description": "ORR was defined as percentage of participants with a confirmed best overall response (BOR) of complete response (CR) or partial response (PR). CR: Disappearance of all target or non-target lesions. All pathological or non-pathological lymph nodes (whether target or non-target) must have reduction in short axis to \\<10 millimeters (mm). PR: At least 30% decrease in the sum of the longest diameters (SoD) of target lesions, taking as reference the baseline SoD.",
+          "populationDescription": "The investigator (INV) Efficacy Evaluable population was defined as all participants who received at least 1 dose of study drug and who had measurable disease at baseline by investigator assessment per RECIST 1.1.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Up to approximately 15 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mirvetuximab Soravtansine",
+              "description": "Participants received single-agent mirvetuximab soravtansine (MIRV) at 6 mg/kg AIBW administered IV on Day 1 of every 3-week cycle (Q3W)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "32.4",
+                      "lowerLimit": "23.6",
+                      "upperLimit": "42.2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Duration of Response (DOR) as Assessed by the Investigator Using RECIST v1.1",
+          "description": "DOR was defined as the time from the date of the first response (CR or PR), until the date of progressive disease (PD) or death from any cause, whichever occurred first. DOR for participants who had not progressed or died at the time of analysis was censored at the date of their last tumor assessment. PD: At least a 20% increase in the SoD of target lesion, taken as reference the smallest (nadir) SoD since and including baseline. In addition to the relative increase of 20%, the SoD must also demonstrate an absolute increase of at least 5 mm. Unequivocal progression of non-target lesions. Unequivocal progression should not normally trump target lesion status. It must be representative of overall disease status change, not a single lesion increase. DOR was estimated using the Kaplan-Meier method.",
+          "populationDescription": "All participants that showed a CR or PR according to RECIST 1.1 were analyzed.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "months",
+          "timeFrame": "Up to approximately 15 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mirvetuximab Soravtansine",
+              "description": "Participants received single-agent mirvetuximab soravtansine (MIRV) at 6 mg/kg AIBW administered IV on Day 1 of every 3-week cycle (Q3W)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "34"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "6.93",
+                      "lowerLimit": "5.55",
+                      "upperLimit": "9.66"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Percentage of Participants With CA-125 Confirmed Clinical Response Per Gynecologic Cancer Intergroup (GCIG) Criteria",
+          "description": "The GCIG CA-125 response was defined as at least 50% reduction in CA-125 levels from baseline. The response must have been confirmed and maintained for at least 28 days.",
+          "populationDescription": "The CA-125-Evaluable population was defined as all participants who received at least 1 dose of study drug and whose pretreatment sample was ≥2.0 times the upper limit of normal (ULN), within 2 weeks prior to first dose of mirvetuximab soravtansine, and who had at least 1 postbaseline CA-125 evaluation.",
+          "reportingStatus": "POSTED",
+          "paramType": "NUMBER",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "percentage of participants",
+          "timeFrame": "Up to approximately 15 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mirvetuximab Soravtansine",
+              "description": "Participants received single-agent mirvetuximab soravtansine (MIRV) at 6 mg/kg AIBW administered IV on Day 1 of every 3-week cycle (Q3W)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "86"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "46.5",
+                      "lowerLimit": "35.7",
+                      "upperLimit": "57.6"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Progression-Free Survival (PFS) as Assessed by the Investigator Using RECIST v1.1",
+          "description": "PFS was defined as the time from initiation of study drug until the date of PD or death whichever occurred first, estimated using the Kaplan-Meier method. PD: At least a 20% increase in the SoD of target lesion, taken as reference the smallest (nadir) SoD since and including baseline. In addition to the relative increase of 20%, the SoD must also demonstrate an absolute increase of at least 5 mm. Unequivocal progression of non-target lesions and appearance of new lesions. Unequivocal progression should not normally trump target lesion status. It must be representative of overall disease status change, not a single lesion increase.",
+          "populationDescription": "INV Efficacy Evaluable population was defined as all participants who received at least 1 dose of study drug and who had measurable disease at baseline by investigator assessment per RECIST 1.1.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "months",
+          "timeFrame": "Up to approximately 15 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mirvetuximab Soravtansine",
+              "description": "Participants received single-agent mirvetuximab soravtansine (MIRV) at 6 mg/kg AIBW administered IV on Day 1 of every 3-week cycle (Q3W)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "4.27",
+                      "lowerLimit": "3.71",
+                      "upperLimit": "5.22"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Overall Survival Assessed by the Investigator Using RECIST v1.1",
+          "description": "Overall survival was defined as the time from the date of first dose until the date of death from any cause, estimated using the Kaplan-Meier method.",
+          "populationDescription": "INV Efficacy Evaluable population was defined as all participants who received at least 1 dose of study drug and who had measurable disease at baseline by investigator assessment per RECIST 1.1.",
+          "reportingStatus": "POSTED",
+          "paramType": "MEDIAN",
+          "dispersionType": "95% Confidence Interval",
+          "unitOfMeasure": "months",
+          "timeFrame": "Up to approximately 27 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mirvetuximab Soravtansine",
+              "description": "Participants received single-agent mirvetuximab soravtansine (MIRV) at 6 mg/kg AIBW administered IV on Day 1 of every 3-week cycle (Q3W)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "105"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "15.0",
+                      "lowerLimit": "11.5",
+                      "upperLimit": "18.7"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "SECONDARY",
+          "title": "Number of Participants With Treatment-emergent Adverse Events (TEAEs)",
+          "description": "An adverse event (AE) was defined as any untoward medical occurrence that develops or worsens in severity during the conduct of a clinical study and does not necessarily have a causal relationship to study drug. TEAEs were defined as AEs with an onset date on or after the first dose of Study drug, and within 30 days of the last dose of study drug or prior to the start of a new anticancer treatment, whichever occurred first. A summary of all Serious Adverse Events (SAEs) and Other Adverse Events (nonserious) regardless of causality is located in the 'Reported Adverse Events' Section.",
+          "populationDescription": "The Safety population was defined as participants who received at least 1 dose of study drug.",
+          "reportingStatus": "POSTED",
+          "paramType": "COUNT_OF_PARTICIPANTS",
+          "unitOfMeasure": "Participants",
+          "timeFrame": "Up to approximately 27 months",
+          "groups": [
+            {
+              "id": "OG000",
+              "title": "Mirvetuximab Soravtansine",
+              "description": "Participants received single-agent mirvetuximab soravtansine (MIRV) at 6 mg/kg AIBW administered IV on Day 1 of every 3-week cycle (Q3W)."
+            }
+          ],
+          "denoms": [
+            {
+              "units": "Participants",
+              "counts": [
+                {
+                  "groupId": "OG000",
+                  "value": "106"
+                }
+              ]
+            }
+          ],
+          "classes": [
+            {
+              "categories": [
+                {
+                  "measurements": [
+                    {
+                      "groupId": "OG000",
+                      "value": "105"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "adverseEventsModule": {
+      "frequencyThreshold": "5",
+      "timeFrame": "Up to approximately 27 months",
+      "description": "Deaths (all-cause) were assessed from first dose until death (survival follow-up). Serious and nonserious AEs (Safety population) were assessed from first dose and within 30 days of the last dose or prior to the start of a new anticancer treatment, whichever occurred first.",
+      "eventGroups": [
+        {
+          "id": "EG000",
+          "title": "Mirvetuximab Soravtansine",
+          "description": "Participants received single-agent mirvetuximab soravtansine (MIRV) at 6 mg/kg AIBW administered IV on Day 1 of every 3-week cycle (Q3W).",
+          "deathsNumAffected": 62,
+          "deathsNumAtRisk": 106,
+          "seriousNumAffected": 36,
+          "seriousNumAtRisk": 106,
+          "otherNumAffected": 102,
+          "otherNumAtRisk": 106
+        }
+      ],
+      "seriousEvents": [
+        {
+          "term": "Basal cell carcinoma",
+          "organSystem": "Neoplasms benign, malignant and unspecified (incl cysts and polyps)",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Vasculitis",
+          "organSystem": "Vascular disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Administration site extravasation",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Disease progression",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "General physical health deterioration",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Malaise",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Pyrexia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Pleural effusion",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Pneumonitis",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Respiratory failure",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Substance-induced psychotic disorder",
+          "organSystem": "Psychiatric disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Ankle fracture",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Infusion related reaction",
+          "organSystem": "Injury, poisoning and procedural complications",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Atrial fibrillation",
+          "organSystem": "Cardiac disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Brain stem syndrome",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Peripheral sensory neuropathy",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Abdominal pain",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Ascites",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Colitis microscopic",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Intestinal haemorrhage",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Intestinal obstruction",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Intestinal perforation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Large intestinal obstruction",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 2,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Oesophagitis",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Small intestinal obstruction",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 5,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Cholecystitis",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Cholecystitis acute",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Cholestasis",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Hepatitis",
+          "organSystem": "Hepatobiliary disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Clostridium difficile infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Device related infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Peritonitis bacterial",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Severe protein calorie malnutrition",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 1,
+              "numAtRisk": 106
+            }
+          ]
+        }
+      ],
+      "otherEvents": [
+        {
+          "term": "Alanine aminotransferase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 12,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Aspartate aminotransferase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 16,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Blood alkaline phosphatase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 12,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Gamma-glutamyltransferase increased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 13,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Weight decreased",
+          "organSystem": "Investigations",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Dysgeusia",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Headache",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Neuropathy peripheral",
+          "organSystem": "Nervous system disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 19,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Anaemia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 14,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Neutropenia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 16,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Thrombocytopenia",
+          "organSystem": "Blood and lymphatic system disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Asthenia",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 22,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Fatigue",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 32,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Oedema peripheral",
+          "organSystem": "General disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Cataract",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 21,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Dry eye",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 30,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Eye pain",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Keratopathy",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 34,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Photophobia",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 17,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Punctate keratitis",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Vision blurred",
+          "organSystem": "Eye disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 49,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Abdominal distension",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 13,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Abdominal pain",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 26,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Abdominal pain upper",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 13,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Ascites",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Constipation",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 32,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Diarrhoea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 33,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Dyspepsia",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Gastrooesophageal reflux disease",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Nausea",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 41,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Vomiting",
+          "organSystem": "Gastrointestinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 20,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Cough",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 7,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Dyspnoea",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Pneumonitis",
+          "organSystem": "Respiratory, thoracic and mediastinal disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 9,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Erythema",
+          "organSystem": "Skin and subcutaneous tissue disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Arthralgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 17,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Back pain",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 8,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Myalgia",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Pain in extremity",
+          "organSystem": "Musculoskeletal and connective tissue disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 6,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Urinary tract infection",
+          "organSystem": "Infections and infestations",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 10,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Decreased appetite",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 20,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Hypokalaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 106
+            }
+          ]
+        },
+        {
+          "term": "Hypomagnesaemia",
+          "organSystem": "Metabolism and nutrition disorders",
+          "sourceVocabulary": "MedDRA 24.0",
+          "assessmentType": "SYSTEMATIC_ASSESSMENT",
+          "stats": [
+            {
+              "groupId": "EG000",
+              "numAffected": 11,
+              "numAtRisk": 106
+            }
+          ]
+        }
+      ]
+    },
+    "moreInfoModule": {
+      "certainAgreement": {
+        "piSponsorEmployee": false,
+        "restrictiveAgreement": true
+      },
+      "pointOfContact": {
+        "title": "CMO, ImmunoGen",
+        "organization": "ImmunoGen, Inc",
+        "email": "clinicaltrials@immunogen.com",
+        "phone": "781-895-0600"
+      }
+    }
+  },
+  "documentSection": {
+    "largeDocumentModule": {
+      "largeDocs": [
+        {
+          "typeAbbrev": "Prot",
+          "hasProtocol": true,
+          "hasSap": false,
+          "hasIcf": false,
+          "label": "Study Protocol",
+          "date": "2020-08-28",
+          "uploadDate": "2024-04-23T05:28",
+          "filename": "Prot_000.pdf",
+          "size": 1430668
+        },
+        {
+          "typeAbbrev": "SAP",
+          "hasProtocol": false,
+          "hasSap": true,
+          "hasIcf": false,
+          "label": "Statistical Analysis Plan",
+          "date": "2021-11-05",
+          "uploadDate": "2024-04-23T05:29",
+          "filename": "SAP_001.pdf",
+          "size": 773748
+        }
+      ]
+    }
+  },
+  "derivedSection": {
+    "miscInfoModule": {
+      "versionHolder": "2026-06-17",
+      "submissionTracking": {
+        "firstMcpInfo": {
+          "postDateStruct": {
+            "date": "2024-05-17",
+            "type": "ACTUAL"
+          }
+        }
+      }
+    },
+    "conditionBrowseModule": {
+      "meshes": [
+        {
+          "id": "D000077216",
+          "term": "Carcinoma, Ovarian Epithelial"
+        },
+        {
+          "id": "D005185",
+          "term": "Fallopian Tube Neoplasms"
+        }
+      ],
+      "ancestors": [
+        {
+          "id": "D002277",
+          "term": "Carcinoma"
+        },
+        {
+          "id": "D009375",
+          "term": "Neoplasms, Glandular and Epithelial"
+        },
+        {
+          "id": "D009370",
+          "term": "Neoplasms by Histologic Type"
+        },
+        {
+          "id": "D009369",
+          "term": "Neoplasms"
+        },
+        {
+          "id": "D010051",
+          "term": "Ovarian Neoplasms"
+        },
+        {
+          "id": "D004701",
+          "term": "Endocrine Gland Neoplasms"
+        },
+        {
+          "id": "D009371",
+          "term": "Neoplasms by Site"
+        },
+        {
+          "id": "D010049",
+          "term": "Ovarian Diseases"
+        },
+        {
+          "id": "D000291",
+          "term": "Adnexal Diseases"
+        },
+        {
+          "id": "D005831",
+          "term": "Genital Diseases, Female"
+        },
+        {
+          "id": "D052776",
+          "term": "Female Urogenital Diseases"
+        },
+        {
+          "id": "D005261",
+          "term": "Female Urogenital Diseases and Pregnancy Complications"
+        },
+        {
+          "id": "D000091642",
+          "term": "Urogenital Diseases"
+        },
+        {
+          "id": "D005833",
+          "term": "Genital Neoplasms, Female"
+        },
+        {
+          "id": "D014565",
+          "term": "Urogenital Neoplasms"
+        },
+        {
+          "id": "D000091662",
+          "term": "Genital Diseases"
+        },
+        {
+          "id": "D004700",
+          "term": "Endocrine System Diseases"
+        },
+        {
+          "id": "D006058",
+          "term": "Gonadal Disorders"
+        },
+        {
+          "id": "D005184",
+          "term": "Fallopian Tube Diseases"
+        }
+      ]
+    },
+    "interventionBrowseModule": {
+      "meshes": [
+        {
+          "id": "C000607289",
+          "term": "mirvetuximab soravtansine"
+        }
+      ]
+    }
+  },
+  "hasResults": true
+}

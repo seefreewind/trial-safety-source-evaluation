@@ -1,0 +1,2453 @@
+{
+  "trial": "DREAMM-8",
+  "nct_id": "NCT04484623",
+  "verified_on": "2026-10-25",
+  "pre_cutoff_ui_version": 21,
+  "pre_cutoff_api_version": 20,
+  "pre_cutoff_status": {
+    "statusVerifiedDate": "2025-03",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "expandedAccessInfo": {
+      "hasExpandedAccess": true,
+      "nctId": "NCT03763370"
+    },
+    "startDateStruct": {
+      "date": "2020-10-01",
+      "type": "ACTUAL"
+    },
+    "primaryCompletionDateStruct": {
+      "date": "2024-01-29",
+      "type": "ACTUAL"
+    },
+    "completionDateStruct": {
+      "date": "2029-10-25",
+      "type": "ESTIMATED"
+    },
+    "studyFirstSubmitDate": "2020-07-21",
+    "studyFirstSubmitQcDate": "2020-07-21",
+    "studyFirstPostDateStruct": {
+      "date": "2020-07-23",
+      "type": "ACTUAL"
+    },
+    "lastUpdateSubmitDate": "2025-03-11",
+    "lastUpdatePostDateStruct": {
+      "date": "2025-03-18",
+      "type": "ACTUAL"
+    },
+    "resultsFirstSubmitDate": "2025-01-27",
+    "resultsFirstSubmitQcDate": "2025-03-11",
+    "resultsFirstPostDateStruct": {
+      "date": "2025-03-18",
+      "type": "ACTUAL"
+    }
+  },
+  "later_ui_version": 22,
+  "later_api_version": 21,
+  "later_status": {
+    "statusVerifiedDate": "2026-05",
+    "overallStatus": "ACTIVE_NOT_RECRUITING",
+    "expandedAccessInfo": {
+      "hasExpandedAccess": true,
+      "nctId": "NCT03763370"
+    },
+    "startDateStruct": {
+      "date": "2020-10-01",
+      "type": "ACTUAL"
+    },
+    "primaryCompletionDateStruct": {
+      "date": "2024-01-29",
+      "type": "ACTUAL"
+    },
+    "completionDateStruct": {
+      "date": "2029-06-25",
+      "type": "ESTIMATED"
+    },
+    "studyFirstSubmitDate": "2020-07-21",
+    "studyFirstSubmitQcDate": "2020-07-21",
+    "studyFirstPostDateStruct": {
+      "date": "2020-07-23",
+      "type": "ACTUAL"
+    },
+    "lastUpdateSubmitDate": "2026-05-25",
+    "lastUpdatePostDateStruct": {
+      "date": "2026-06-12",
+      "type": "ACTUAL"
+    },
+    "resultsFirstSubmitDate": "2025-01-27",
+    "resultsFirstSubmitQcDate": "2025-03-11",
+    "resultsFirstPostDateStruct": {
+      "date": "2025-03-18",
+      "type": "ACTUAL"
+    }
+  },
+  "pre_cutoff_adverse_events_sha256": "c21cd0fd5e422c6fa683b457bf75c2a874385c1c764d00453d4c2de1c267c073",
+  "archived_adverse_events_sha256": "8cfa4ecf42ef5cb6967b917e4d5262e4440303325132e5a5fd5e1c7effe16807",
+  "later_official_adverse_events_sha256": "c21cd0fd5e422c6fa683b457bf75c2a874385c1c764d00453d4c2de1c267c073",
+  "pre_cutoff_equals_archived_ae_module": false,
+  "pre_cutoff_equals_later_ae_module": true,
+  "ae_leaf_fields_compared": 2529,
+  "ae_differences": [
+    {
+      "path": "/description",
+      "pre_cutoff": "Safety population included all randomized participants who receive at least 1 dose of study intervention (any component).\nData for All-Cause Mortality was collected for the ITT Population (all randomized participants whether or not randomized treatment was administered).\nSerious and Other (Not Including Serious) Adverse Events were collected for the Safety Population (all randomized participants who received at least 1 dose of study intervention [any component]).",
+      "archived": "Safety population included all randomized participants who receive at least 1 dose of study intervention (any component). Data for All-Cause Mortality was collected for the ITT Population (all randomized participants whether or not randomized treatment was administered). Serious and Other (Not Including Serious) Adverse Events were collected for the Safety Population (all randomized participants who received at least 1 dose of study intervention \\[any component\\])."
+    },
+    {
+      "path": "/eventGroups/0/description",
+      "pre_cutoff": "Participants with Relapsed&#x2F;Refractory Multiple Myeloma (RRMM) received intravenous (IV) infusion of 2.5 milligram (mg)&#x2F;kilogram (kg) belantamab mafodotin on Day 1 of Cycle 1 and 1.9 mg&#x2F;kg on Day 1 of Cycle 2 onwards in each 28-day cycle, in combination with oral 4 mg per day Pomalidomide capsule on Days 1 to 21 of each 28-day cycle; and oral 40 mg per day Dexamethasone tablet on Days 1, 8, 15, and 22 of each 28-day cycle until disease progression, death, unacceptable toxicity, withdrawal of consent, initiation of another anti-myeloma therapy or end of study, whichever occurs first.",
+      "archived": "Participants with Relapsed/Refractory Multiple Myeloma (RRMM) received intravenous (IV) infusion of 2.5 milligram (mg)/kilogram (kg) belantamab mafodotin on Day 1 of Cycle 1 and 1.9 mg/kg on Day 1 of Cycle 2 onwards in each 28-day cycle, in combination with oral 4 mg per day Pomalidomide capsule on Days 1 to 21 of each 28-day cycle; and oral 40 mg per day Dexamethasone tablet on Days 1, 8, 15, and 22 of each 28-day cycle until disease progression, death, unacceptable toxicity, withdrawal of consent, initiation of another anti-myeloma therapy or end of study, whichever occurs first."
+    },
+    {
+      "path": "/eventGroups/1/description",
+      "pre_cutoff": "Participants with RRMM received oral 4 mg per day Pomalidomide capsule on Days 1 to 14 of each 21-day cycle, in combination with subcutaneous (SC) injection of 1.3 mg&#x2F;meter^2(m^2) Bortezomib on Days 1, 4, 8, 11, of each 21-day cycle for Cycles 1 through 8, and on Days 1, 8, of each 21-day cycle for Cycles 9+, and oral 20 mg Dexamethasone tablet on Days 1, 2, 4, 5, 8, 9, 11, 12, of each 21-day cycle for Cycles 1 through 8 and then on Days 1, 2, 8, 9, every 3 Weeks (Q3W) from Cycles 9 onwards until disease progression, death, unacceptable toxicity, withdrawal of consent, initiation of another anti-myeloma therapy or end of study, whichever occurs first.",
+      "archived": "Participants with RRMM received oral 4 mg per day Pomalidomide capsule on Days 1 to 14 of each 21-day cycle, in combination with subcutaneous (SC) injection of 1.3 mg/meter\\^2(m\\^2) Bortezomib on Days 1, 4, 8, 11, of each 21-day cycle for Cycles 1 through 8, and on Days 1, 8, of each 21-day cycle for Cycles 9+, and oral 20 mg Dexamethasone tablet on Days 1, 2, 4, 5, 8, 9, 11, 12, of each 21-day cycle for Cycles 1 through 8 and then on Days 1, 2, 8, 9, every 3 Weeks (Q3W) from Cycles 9 onwards until disease progression, death, unacceptable toxicity, withdrawal of consent, initiation of another anti-myeloma therapy or end of study, whichever occurs first."
+    }
+  ],
+  "formatting_difference_checks": [
+    {
+      "path": "/description",
+      "pre_cutoff": "Safety population included all randomized participants who receive at least 1 dose of study intervention (any component).\nData for All-Cause Mortality was collected for the ITT Population (all randomized participants whether or not randomized treatment was administered).\nSerious and Other (Not Including Serious) Adverse Events were collected for the Safety Population (all randomized participants who received at least 1 dose of study intervention [any component]).",
+      "archived": "Safety population included all randomized participants who receive at least 1 dose of study intervention (any component). Data for All-Cause Mortality was collected for the ITT Population (all randomized participants whether or not randomized treatment was administered). Serious and Other (Not Including Serious) Adverse Events were collected for the Safety Population (all randomized participants who received at least 1 dose of study intervention \\[any component\\]).",
+      "matches_after_html_entity_markdown_escape_and_whitespace_normalization": true
+    },
+    {
+      "path": "/eventGroups/0/description",
+      "pre_cutoff": "Participants with Relapsed&#x2F;Refractory Multiple Myeloma (RRMM) received intravenous (IV) infusion of 2.5 milligram (mg)&#x2F;kilogram (kg) belantamab mafodotin on Day 1 of Cycle 1 and 1.9 mg&#x2F;kg on Day 1 of Cycle 2 onwards in each 28-day cycle, in combination with oral 4 mg per day Pomalidomide capsule on Days 1 to 21 of each 28-day cycle; and oral 40 mg per day Dexamethasone tablet on Days 1, 8, 15, and 22 of each 28-day cycle until disease progression, death, unacceptable toxicity, withdrawal of consent, initiation of another anti-myeloma therapy or end of study, whichever occurs first.",
+      "archived": "Participants with Relapsed/Refractory Multiple Myeloma (RRMM) received intravenous (IV) infusion of 2.5 milligram (mg)/kilogram (kg) belantamab mafodotin on Day 1 of Cycle 1 and 1.9 mg/kg on Day 1 of Cycle 2 onwards in each 28-day cycle, in combination with oral 4 mg per day Pomalidomide capsule on Days 1 to 21 of each 28-day cycle; and oral 40 mg per day Dexamethasone tablet on Days 1, 8, 15, and 22 of each 28-day cycle until disease progression, death, unacceptable toxicity, withdrawal of consent, initiation of another anti-myeloma therapy or end of study, whichever occurs first.",
+      "matches_after_html_entity_markdown_escape_and_whitespace_normalization": true
+    },
+    {
+      "path": "/eventGroups/1/description",
+      "pre_cutoff": "Participants with RRMM received oral 4 mg per day Pomalidomide capsule on Days 1 to 14 of each 21-day cycle, in combination with subcutaneous (SC) injection of 1.3 mg&#x2F;meter^2(m^2) Bortezomib on Days 1, 4, 8, 11, of each 21-day cycle for Cycles 1 through 8, and on Days 1, 8, of each 21-day cycle for Cycles 9+, and oral 20 mg Dexamethasone tablet on Days 1, 2, 4, 5, 8, 9, 11, 12, of each 21-day cycle for Cycles 1 through 8 and then on Days 1, 2, 8, 9, every 3 Weeks (Q3W) from Cycles 9 onwards until disease progression, death, unacceptable toxicity, withdrawal of consent, initiation of another anti-myeloma therapy or end of study, whichever occurs first.",
+      "archived": "Participants with RRMM received oral 4 mg per day Pomalidomide capsule on Days 1 to 14 of each 21-day cycle, in combination with subcutaneous (SC) injection of 1.3 mg/meter\\^2(m\\^2) Bortezomib on Days 1, 4, 8, 11, of each 21-day cycle for Cycles 1 through 8, and on Days 1, 8, of each 21-day cycle for Cycles 9+, and oral 20 mg Dexamethasone tablet on Days 1, 2, 4, 5, 8, 9, 11, 12, of each 21-day cycle for Cycles 1 through 8 and then on Days 1, 2, 8, 9, every 3 Weeks (Q3W) from Cycles 9 onwards until disease progression, death, unacceptable toxicity, withdrawal of consent, initiation of another anti-myeloma therapy or end of study, whichever occurs first.",
+      "matches_after_html_entity_markdown_escape_and_whitespace_normalization": true
+    }
+  ],
+  "extracted_seed_checks": [
+    {
+      "row_id": "CTEXP000127",
+      "group": "EG000",
+      "term": "All-cause mortality",
+      "numerator": 48,
+      "denominator": 155,
+      "matches_pre_cutoff": true
+    },
+    {
+      "row_id": "CTEXP000128",
+      "group": "EG000",
+      "term": "Participants affected by serious adverse events",
+      "numerator": 95,
+      "denominator": 150,
+      "matches_pre_cutoff": true
+    },
+    {
+      "row_id": "CTEXP000129",
+      "group": "EG000",
+      "term": "Participants affected by other non-serious adverse events",
+      "numerator": 148,
+      "denominator": 150,
+      "matches_pre_cutoff": true
+    },
+    {
+      "row_id": "CTEXP000130",
+      "group": "EG001",
+      "term": "All-cause mortality",
+      "numerator": 54,
+      "denominator": 147,
+      "matches_pre_cutoff": true
+    },
+    {
+      "row_id": "CTEXP000131",
+      "group": "EG001",
+      "term": "Participants affected by serious adverse events",
+      "numerator": 65,
+      "denominator": 145,
+      "matches_pre_cutoff": true
+    },
+    {
+      "row_id": "CTEXP000132",
+      "group": "EG001",
+      "term": "Participants affected by other non-serious adverse events",
+      "numerator": 130,
+      "denominator": 145,
+      "matches_pre_cutoff": true
+    }
+  ],
+  "archived_ae_semantically_equivalent": true,
+  "all_record_changed_leaf_fields": [
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/100/city",
+      "pre_cutoff": "Palma de Mallorca",
+      "later": "Madrid"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/100/geoPoint/lat",
+      "pre_cutoff": 39.56939,
+      "later": 40.4165
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/100/geoPoint/lon",
+      "pre_cutoff": 2.65024,
+      "later": -3.70256
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/100/zip",
+      "pre_cutoff": "07120",
+      "later": "28027"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/101/city",
+      "pre_cutoff": "PamplonaNavarra",
+      "later": "MOstoles Madrid"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/101/zip",
+      "pre_cutoff": "31008",
+      "later": "28933"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/102/city",
+      "pre_cutoff": "Pozuelo de AlarcOn Madr",
+      "later": "Murcia"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/102/geoPoint/lat",
+      "pre_cutoff": null,
+      "later": 37.98704
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/102/geoPoint/lon",
+      "pre_cutoff": null,
+      "later": -1.13004
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/102/zip",
+      "pre_cutoff": "28223",
+      "later": "30008"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/103/city",
+      "pre_cutoff": "Salamanca",
+      "later": "Palma de Mallorca"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/103/geoPoint/lat",
+      "pre_cutoff": 40.96882,
+      "later": 39.56939
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/103/geoPoint/lon",
+      "pre_cutoff": -5.66388,
+      "later": 2.65024
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/103/zip",
+      "pre_cutoff": "37007",
+      "later": "07120"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/104/city",
+      "pre_cutoff": "Seville",
+      "later": "PamplonaNavarra"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/104/geoPoint/lat",
+      "pre_cutoff": 37.38283,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/104/geoPoint/lon",
+      "pre_cutoff": -5.97317,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/104/zip",
+      "pre_cutoff": "41013",
+      "later": "31008"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/105/city",
+      "pre_cutoff": "Valencia",
+      "later": "Pozuelo de AlarcOn Madr"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/105/geoPoint/lat",
+      "pre_cutoff": 39.47391,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/105/geoPoint/lon",
+      "pre_cutoff": -0.37966,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/105/zip",
+      "pre_cutoff": "46026",
+      "later": "28223"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/106/city",
+      "pre_cutoff": "Ankara",
+      "later": "Salamanca"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/106/country",
+      "pre_cutoff": "Turkey (Türkiye)",
+      "later": "Spain"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/106/geoPoint/lat",
+      "pre_cutoff": 39.91987,
+      "later": 40.96882
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/106/geoPoint/lon",
+      "pre_cutoff": 32.85427,
+      "later": -5.66388
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/106/zip",
+      "pre_cutoff": "06100",
+      "later": "37007"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/107/city",
+      "pre_cutoff": "Ankara",
+      "later": "Seville"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/107/country",
+      "pre_cutoff": "Turkey (Türkiye)",
+      "later": "Spain"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/107/geoPoint/lat",
+      "pre_cutoff": 39.91987,
+      "later": 37.38283
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/107/geoPoint/lon",
+      "pre_cutoff": 32.85427,
+      "later": -5.97317
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/107/zip",
+      "pre_cutoff": "6340",
+      "later": "41013"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/108/city",
+      "pre_cutoff": "Ankara",
+      "later": "Valencia"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/108/country",
+      "pre_cutoff": "Turkey (Türkiye)",
+      "later": "Spain"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/108/geoPoint/lat",
+      "pre_cutoff": 39.91987,
+      "later": 39.47391
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/108/geoPoint/lon",
+      "pre_cutoff": 32.85427,
+      "later": -0.37966
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/108/zip",
+      "pre_cutoff": "6560",
+      "later": "46026"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/109/city",
+      "pre_cutoff": "Izmir",
+      "later": "Ankara"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/109/geoPoint/lat",
+      "pre_cutoff": 38.41273,
+      "later": 39.91987
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/109/geoPoint/lon",
+      "pre_cutoff": 27.13838,
+      "later": 32.85427
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/109/zip",
+      "pre_cutoff": "35100",
+      "later": "06100"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/110/city",
+      "pre_cutoff": "Izmir",
+      "later": "Ankara"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/110/geoPoint/lat",
+      "pre_cutoff": 38.41273,
+      "later": 39.91987
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/110/geoPoint/lon",
+      "pre_cutoff": 27.13838,
+      "later": 32.85427
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/110/zip",
+      "pre_cutoff": "35330",
+      "later": "6340"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/111/city",
+      "pre_cutoff": "Kocaeli",
+      "later": "Ankara"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/111/geoPoint/lat",
+      "pre_cutoff": 39.62497,
+      "later": 39.91987
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/111/geoPoint/lon",
+      "pre_cutoff": 27.51145,
+      "later": 32.85427
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/111/zip",
+      "pre_cutoff": "41400",
+      "later": "6560"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/112/city",
+      "pre_cutoff": "Mersin",
+      "later": "Izmir"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/112/geoPoint/lat",
+      "pre_cutoff": 36.81196,
+      "later": 38.41273
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/112/geoPoint/lon",
+      "pre_cutoff": 34.63886,
+      "later": 27.13838
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/112/zip",
+      "pre_cutoff": "33343",
+      "later": "35100"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/113/city",
+      "pre_cutoff": "Samsun",
+      "later": "Izmir"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/113/geoPoint/lat",
+      "pre_cutoff": 41.27976,
+      "later": 38.41273
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/113/geoPoint/lon",
+      "pre_cutoff": 36.3361,
+      "later": 27.13838
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/113/zip",
+      "pre_cutoff": "55139",
+      "later": "35330"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/114/city",
+      "pre_cutoff": "London",
+      "later": "Kocaeli"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/114/country",
+      "pre_cutoff": "United Kingdom",
+      "later": "Turkey (Türkiye)"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/114/geoPoint/lat",
+      "pre_cutoff": 51.50853,
+      "later": 39.62497
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/114/geoPoint/lon",
+      "pre_cutoff": -0.12574,
+      "later": 27.51145
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/114/zip",
+      "pre_cutoff": "W12 0HS",
+      "later": "41400"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/115/city",
+      "pre_cutoff": "Plymouth",
+      "later": "Mersin"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/115/country",
+      "pre_cutoff": "United Kingdom",
+      "later": "Turkey (Türkiye)"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/115/geoPoint/lat",
+      "pre_cutoff": 50.37153,
+      "later": 36.81196
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/115/geoPoint/lon",
+      "pre_cutoff": -4.14305,
+      "later": 34.63886
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/115/zip",
+      "pre_cutoff": "PL6 8D8",
+      "later": "33343"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/116/city",
+      "pre_cutoff": "Southampton",
+      "later": "Samsun"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/116/country",
+      "pre_cutoff": "United Kingdom",
+      "later": "Turkey (Türkiye)"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/116/geoPoint/lat",
+      "pre_cutoff": 50.90395,
+      "later": 41.27976
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/116/geoPoint/lon",
+      "pre_cutoff": -1.40428,
+      "later": 36.3361
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/116/zip",
+      "pre_cutoff": "SO16 6YD",
+      "later": "55139"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/117/city",
+      "pre_cutoff": "Stoke-on-Trent",
+      "later": "London"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/117/geoPoint/lat",
+      "pre_cutoff": 53.00415,
+      "later": 51.50853
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/117/geoPoint/lon",
+      "pre_cutoff": -2.18538,
+      "later": -0.12574
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/117/zip",
+      "pre_cutoff": "ST4 6QG",
+      "later": "W12 0HS"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/118/city",
+      "pre_cutoff": "Sutton",
+      "later": "Plymouth"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/118/geoPoint/lat",
+      "pre_cutoff": 51.35,
+      "later": 50.37153
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/118/geoPoint/lon",
+      "pre_cutoff": -0.2,
+      "later": -4.14305
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/118/zip",
+      "pre_cutoff": "SM2 5PT",
+      "later": "PL6 8D8"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/119/city",
+      "pre_cutoff": null,
+      "later": "Southampton"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/119/country",
+      "pre_cutoff": null,
+      "later": "United Kingdom"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/119/facility",
+      "pre_cutoff": null,
+      "later": "GSK Investigational Site"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/119/geoPoint/lat",
+      "pre_cutoff": null,
+      "later": 50.90395
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/119/geoPoint/lon",
+      "pre_cutoff": null,
+      "later": -1.40428
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/119/zip",
+      "pre_cutoff": null,
+      "later": "SO16 6YD"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/120/city",
+      "pre_cutoff": null,
+      "later": "Stoke-on-Trent"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/120/country",
+      "pre_cutoff": null,
+      "later": "United Kingdom"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/120/facility",
+      "pre_cutoff": null,
+      "later": "GSK Investigational Site"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/120/geoPoint/lat",
+      "pre_cutoff": null,
+      "later": 53.00415
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/120/geoPoint/lon",
+      "pre_cutoff": null,
+      "later": -2.18538
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/120/zip",
+      "pre_cutoff": null,
+      "later": "ST4 6QG"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/121/city",
+      "pre_cutoff": null,
+      "later": "Sutton"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/121/country",
+      "pre_cutoff": null,
+      "later": "United Kingdom"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/121/facility",
+      "pre_cutoff": null,
+      "later": "GSK Investigational Site"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/121/geoPoint/lat",
+      "pre_cutoff": null,
+      "later": 51.35
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/121/geoPoint/lon",
+      "pre_cutoff": null,
+      "later": -0.2
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/121/zip",
+      "pre_cutoff": null,
+      "later": "SM2 5PT"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/16/city",
+      "pre_cutoff": "Curitiba",
+      "later": "Porto Alegre"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/16/geoPoint/lat",
+      "pre_cutoff": -25.42778,
+      "later": -30.03283
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/16/geoPoint/lon",
+      "pre_cutoff": -49.27306,
+      "later": -51.23019
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/16/state",
+      "pre_cutoff": null,
+      "later": "Rio Grande do Sul"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/16/zip",
+      "pre_cutoff": "01308-050",
+      "later": "90035-903"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/17/city",
+      "pre_cutoff": "Joinville",
+      "later": "Curitiba"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/17/geoPoint/lat",
+      "pre_cutoff": -26.30444,
+      "later": -25.42778
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/17/geoPoint/lon",
+      "pre_cutoff": -48.84556,
+      "later": -49.27306
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/17/zip",
+      "pre_cutoff": "89201-260",
+      "later": "01308-050"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/18/city",
+      "pre_cutoff": "Porto Alegre",
+      "later": "Joinville"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/18/geoPoint/lat",
+      "pre_cutoff": -30.03283,
+      "later": -26.30444
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/18/geoPoint/lon",
+      "pre_cutoff": -51.23019,
+      "later": -48.84556
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/18/zip",
+      "pre_cutoff": "90035-903",
+      "later": "89201-260"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/24/city",
+      "pre_cutoff": "Hangzhou",
+      "later": "Guangzhou"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/24/geoPoint/lat",
+      "pre_cutoff": 30.29365,
+      "later": 23.11667
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/24/geoPoint/lon",
+      "pre_cutoff": 120.16142,
+      "later": 113.25
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/24/zip",
+      "pre_cutoff": "310003",
+      "later": "510060"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/25/city",
+      "pre_cutoff": "Jiangsu",
+      "later": "Hangzhou"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/25/geoPoint/lat",
+      "pre_cutoff": null,
+      "later": 30.29365
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/25/geoPoint/lon",
+      "pre_cutoff": null,
+      "later": 120.16142
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/25/zip",
+      "pre_cutoff": "221004",
+      "later": "310003"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/26/city",
+      "pre_cutoff": "Nanchang",
+      "later": "Jiangsu"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/26/geoPoint/lat",
+      "pre_cutoff": 28.68396,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/26/geoPoint/lon",
+      "pre_cutoff": 115.85306,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/26/zip",
+      "pre_cutoff": "330006",
+      "later": "221004"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/27/city",
+      "pre_cutoff": "Shenyang",
+      "later": "Nanchang"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/27/geoPoint/lat",
+      "pre_cutoff": 41.79222,
+      "later": 28.68396
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/27/geoPoint/lon",
+      "pre_cutoff": 123.43278,
+      "later": 115.85306
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/27/zip",
+      "pre_cutoff": "110004",
+      "later": "330006"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/28/city",
+      "pre_cutoff": "Tianjin",
+      "later": "Shenyang"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/28/geoPoint/lat",
+      "pre_cutoff": 39.14222,
+      "later": 41.79222
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/28/geoPoint/lon",
+      "pre_cutoff": 117.17667,
+      "later": 123.43278
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/28/zip",
+      "pre_cutoff": "300020",
+      "later": "110004"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/29/city",
+      "pre_cutoff": "Brno",
+      "later": "Shenzhen"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/29/country",
+      "pre_cutoff": "Czechia",
+      "later": "China"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/29/geoPoint/lat",
+      "pre_cutoff": 49.19522,
+      "later": 22.54554
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/29/geoPoint/lon",
+      "pre_cutoff": 16.60796,
+      "later": 114.0683
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/29/zip",
+      "pre_cutoff": "62500",
+      "later": "518029"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/30/city",
+      "pre_cutoff": "Hradec Králové",
+      "later": "Tianjin"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/30/country",
+      "pre_cutoff": "Czechia",
+      "later": "China"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/30/geoPoint/lat",
+      "pre_cutoff": 50.20923,
+      "later": 39.14222
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/30/geoPoint/lon",
+      "pre_cutoff": 15.83277,
+      "later": 117.17667
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/30/zip",
+      "pre_cutoff": "50333",
+      "later": "300020"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/31/city",
+      "pre_cutoff": "Prague",
+      "later": "Wuhan"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/31/country",
+      "pre_cutoff": "Czechia",
+      "later": "China"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/31/geoPoint/lat",
+      "pre_cutoff": 50.08804,
+      "later": 30.58333
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/31/geoPoint/lon",
+      "pre_cutoff": 14.42076,
+      "later": 114.26667
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/31/zip",
+      "pre_cutoff": "12808",
+      "later": "430022"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/32/city",
+      "pre_cutoff": "Marseille",
+      "later": "Brno"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/32/country",
+      "pre_cutoff": "France",
+      "later": "Czechia"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/32/geoPoint/lat",
+      "pre_cutoff": 43.29695,
+      "later": 49.19522
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/32/geoPoint/lon",
+      "pre_cutoff": 5.38107,
+      "later": 16.60796
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/32/zip",
+      "pre_cutoff": "13273",
+      "later": "62500"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/33/city",
+      "pre_cutoff": "Toulouse",
+      "later": "Hradec Králové"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/33/country",
+      "pre_cutoff": "France",
+      "later": "Czechia"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/33/geoPoint/lat",
+      "pre_cutoff": 43.60426,
+      "later": 50.20923
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/33/geoPoint/lon",
+      "pre_cutoff": 1.44367,
+      "later": 15.83277
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/33/zip",
+      "pre_cutoff": "31059",
+      "later": "50333"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/34/city",
+      "pre_cutoff": "Vanduvre-lEs-Nancy",
+      "later": "Prague"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/34/country",
+      "pre_cutoff": "France",
+      "later": "Czechia"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/34/geoPoint/lat",
+      "pre_cutoff": null,
+      "later": 50.08804
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/34/geoPoint/lon",
+      "pre_cutoff": null,
+      "later": 14.42076
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/34/zip",
+      "pre_cutoff": "54511",
+      "later": "12808"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/35/city",
+      "pre_cutoff": "Mainz",
+      "later": "Marseille"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/35/country",
+      "pre_cutoff": "Germany",
+      "later": "France"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/35/geoPoint/lat",
+      "pre_cutoff": 49.98185,
+      "later": 43.29695
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/35/geoPoint/lon",
+      "pre_cutoff": 8.28008,
+      "later": 5.38107
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/35/zip",
+      "pre_cutoff": "55131",
+      "later": "13273"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/36/city",
+      "pre_cutoff": "Tübingen",
+      "later": "Toulouse"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/36/country",
+      "pre_cutoff": "Germany",
+      "later": "France"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/36/geoPoint/lat",
+      "pre_cutoff": 48.52266,
+      "later": 43.60426
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/36/geoPoint/lon",
+      "pre_cutoff": 9.05222,
+      "later": 1.44367
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/36/zip",
+      "pre_cutoff": "72076",
+      "later": "31059"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/37/city",
+      "pre_cutoff": "Würzburg",
+      "later": "Vanduvre-lEs-Nancy"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/37/country",
+      "pre_cutoff": "Germany",
+      "later": "France"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/37/geoPoint/lat",
+      "pre_cutoff": 49.79391,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/37/geoPoint/lon",
+      "pre_cutoff": 9.95121,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/37/zip",
+      "pre_cutoff": "97080",
+      "later": "54511"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/38/city",
+      "pre_cutoff": "Athens",
+      "later": "Mainz"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/38/country",
+      "pre_cutoff": "Greece",
+      "later": "Germany"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/38/geoPoint/lat",
+      "pre_cutoff": 37.98376,
+      "later": 49.98185
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/38/geoPoint/lon",
+      "pre_cutoff": 23.72784,
+      "later": 8.28008
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/38/zip",
+      "pre_cutoff": "10676",
+      "later": "55131"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/39/city",
+      "pre_cutoff": "Athens",
+      "later": "Tübingen"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/39/country",
+      "pre_cutoff": "Greece",
+      "later": "Germany"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/39/geoPoint/lat",
+      "pre_cutoff": 37.98376,
+      "later": 48.52266
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/39/geoPoint/lon",
+      "pre_cutoff": 23.72784,
+      "later": 9.05222
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/39/zip",
+      "pre_cutoff": "115 25",
+      "later": "72076"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/40/city",
+      "pre_cutoff": "Athens",
+      "later": "Würzburg"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/40/country",
+      "pre_cutoff": "Greece",
+      "later": "Germany"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/40/geoPoint/lat",
+      "pre_cutoff": 37.98376,
+      "later": 49.79391
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/40/geoPoint/lon",
+      "pre_cutoff": 23.72784,
+      "later": 9.95121
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/40/zip",
+      "pre_cutoff": "115 28",
+      "later": "97080"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/41/city",
+      "pre_cutoff": "Ioannina",
+      "later": "Athens"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/41/geoPoint/lat",
+      "pre_cutoff": 39.66341,
+      "later": 37.98376
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/41/geoPoint/lon",
+      "pre_cutoff": 20.85187,
+      "later": 23.72784
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/41/zip",
+      "pre_cutoff": "45 500",
+      "later": "10676"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/42/city",
+      "pre_cutoff": "Thessaloniki",
+      "later": "Athens"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/42/geoPoint/lat",
+      "pre_cutoff": 40.64072,
+      "later": 37.98376
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/42/geoPoint/lon",
+      "pre_cutoff": 22.93493,
+      "later": 23.72784
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/42/zip",
+      "pre_cutoff": "57010",
+      "later": "115 25"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/43/city",
+      "pre_cutoff": "Haifa",
+      "later": "Athens"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/43/country",
+      "pre_cutoff": "Israel",
+      "later": "Greece"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/43/geoPoint/lat",
+      "pre_cutoff": 32.81303,
+      "later": 37.98376
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/43/geoPoint/lon",
+      "pre_cutoff": 34.99928,
+      "later": 23.72784
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/43/zip",
+      "pre_cutoff": "3109601",
+      "later": "115 28"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/44/city",
+      "pre_cutoff": "Jerusalem",
+      "later": "Ioannina"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/44/country",
+      "pre_cutoff": "Israel",
+      "later": "Greece"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/44/geoPoint/lat",
+      "pre_cutoff": 31.76904,
+      "later": 39.66341
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/44/geoPoint/lon",
+      "pre_cutoff": 35.21633,
+      "later": 20.85187
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/44/zip",
+      "pre_cutoff": "91031",
+      "later": "45 500"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/45/city",
+      "pre_cutoff": "Kfar Saba",
+      "later": "Thessaloniki"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/45/country",
+      "pre_cutoff": "Israel",
+      "later": "Greece"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/45/geoPoint/lat",
+      "pre_cutoff": 32.175,
+      "later": 40.64072
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/45/geoPoint/lon",
+      "pre_cutoff": 34.90694,
+      "later": 22.93493
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/45/zip",
+      "pre_cutoff": "4428164",
+      "later": "57010"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/46/city",
+      "pre_cutoff": "Nahariya",
+      "later": "Haifa"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/46/geoPoint/lat",
+      "pre_cutoff": 33.00892,
+      "later": 32.81303
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/46/geoPoint/lon",
+      "pre_cutoff": 35.09814,
+      "later": 34.99928
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/46/zip",
+      "pre_cutoff": "2633737",
+      "later": "3109601"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/47/city",
+      "pre_cutoff": "Petah Tikva",
+      "later": "Jerusalem"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/47/geoPoint/lat",
+      "pre_cutoff": 32.0888,
+      "later": 31.76904
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/47/geoPoint/lon",
+      "pre_cutoff": 34.88666,
+      "later": 35.21633
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/47/zip",
+      "pre_cutoff": "4941492",
+      "later": "91031"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/48/city",
+      "pre_cutoff": "Tel Aviv",
+      "later": "Kfar Saba"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/48/geoPoint/lat",
+      "pre_cutoff": 32.08088,
+      "later": 32.175
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/48/geoPoint/lon",
+      "pre_cutoff": 34.78057,
+      "later": 34.90694
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/48/zip",
+      "pre_cutoff": "6423906",
+      "later": "4428164"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/49/city",
+      "pre_cutoff": "Bologna",
+      "later": "Nahariya"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/49/country",
+      "pre_cutoff": "Italy",
+      "later": "Israel"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/49/geoPoint/lat",
+      "pre_cutoff": 44.49381,
+      "later": 33.00892
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/49/geoPoint/lon",
+      "pre_cutoff": 11.33875,
+      "later": 35.09814
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/49/zip",
+      "pre_cutoff": "40138",
+      "later": "2633737"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/50/city",
+      "pre_cutoff": "Milan",
+      "later": "Petah Tikva"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/50/country",
+      "pre_cutoff": "Italy",
+      "later": "Israel"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/50/geoPoint/lat",
+      "pre_cutoff": 42.78235,
+      "later": 32.0888
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/50/geoPoint/lon",
+      "pre_cutoff": 12.59836,
+      "later": 34.88666
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/50/zip",
+      "pre_cutoff": "20122",
+      "later": "4941492"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/51/city",
+      "pre_cutoff": "Pavia",
+      "later": "Tel Aviv"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/51/country",
+      "pre_cutoff": "Italy",
+      "later": "Israel"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/51/geoPoint/lat",
+      "pre_cutoff": 45.19205,
+      "later": 32.08088
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/51/geoPoint/lon",
+      "pre_cutoff": 9.15917,
+      "later": 34.78057
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/51/zip",
+      "pre_cutoff": "27100",
+      "later": "6423906"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/52/city",
+      "pre_cutoff": "Roma",
+      "later": "Bologna"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/52/geoPoint/lat",
+      "pre_cutoff": 44.99364,
+      "later": 44.49381
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/52/geoPoint/lon",
+      "pre_cutoff": 11.10642,
+      "later": 11.33875
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/52/zip",
+      "pre_cutoff": "00161",
+      "later": "40138"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/53/city",
+      "pre_cutoff": "Aichi",
+      "later": "Milan"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/53/country",
+      "pre_cutoff": "Japan",
+      "later": "Italy"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/53/geoPoint/lat",
+      "pre_cutoff": 32.51879,
+      "later": 42.78235
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/53/geoPoint/lon",
+      "pre_cutoff": 130.62158,
+      "later": 12.59836
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/53/zip",
+      "pre_cutoff": "467-8602",
+      "later": "20122"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/54/city",
+      "pre_cutoff": "Chiba",
+      "later": "Pavia"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/54/country",
+      "pre_cutoff": "Japan",
+      "later": "Italy"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/54/geoPoint/lat",
+      "pre_cutoff": 35.6,
+      "later": 45.19205
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/54/geoPoint/lon",
+      "pre_cutoff": 140.11667,
+      "later": 9.15917
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/54/zip",
+      "pre_cutoff": "277-8567",
+      "later": "27100"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/55/city",
+      "pre_cutoff": "Chiba",
+      "later": "Roma"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/55/country",
+      "pre_cutoff": "Japan",
+      "later": "Italy"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/55/geoPoint/lat",
+      "pre_cutoff": 35.6,
+      "later": 44.99364
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/55/geoPoint/lon",
+      "pre_cutoff": 140.11667,
+      "later": 11.10642
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/55/zip",
+      "pre_cutoff": "296-8602",
+      "later": "00161"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/56/city",
+      "pre_cutoff": "Ehime",
+      "later": "Aichi"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/56/geoPoint/lat",
+      "pre_cutoff": null,
+      "later": 32.51879
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/56/geoPoint/lon",
+      "pre_cutoff": null,
+      "later": 130.62158
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/56/zip",
+      "pre_cutoff": "790-8524",
+      "later": "467-8602"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/57/city",
+      "pre_cutoff": "Fukushima",
+      "later": "Chiba"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/57/geoPoint/lat",
+      "pre_cutoff": 37.75,
+      "later": 35.6
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/57/geoPoint/lon",
+      "pre_cutoff": 140.46667,
+      "later": 140.11667
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/57/zip",
+      "pre_cutoff": "960-1295",
+      "later": "277-8567"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/58/city",
+      "pre_cutoff": "Gunma",
+      "later": "Chiba"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/58/geoPoint/lat",
+      "pre_cutoff": null,
+      "later": 35.6
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/58/geoPoint/lon",
+      "pre_cutoff": null,
+      "later": 140.11667
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/58/zip",
+      "pre_cutoff": "371-8511",
+      "later": "296-8602"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/59/city",
+      "pre_cutoff": "Gunma",
+      "later": "Ehime"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/59/zip",
+      "pre_cutoff": "377-0280",
+      "later": "790-8524"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/60/city",
+      "pre_cutoff": "Hokkaido",
+      "later": "Fukushima"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/60/geoPoint/lat",
+      "pre_cutoff": null,
+      "later": 37.75
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/60/geoPoint/lon",
+      "pre_cutoff": null,
+      "later": 140.46667
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/60/zip",
+      "pre_cutoff": "060-8648",
+      "later": "960-1295"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/61/city",
+      "pre_cutoff": "Numakunai",
+      "later": "Gunma"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/61/geoPoint/lat",
+      "pre_cutoff": 39.96667,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/61/geoPoint/lon",
+      "pre_cutoff": 141.21667,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/61/zip",
+      "pre_cutoff": "028-3695",
+      "later": "371-8511"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/62/city",
+      "pre_cutoff": "Okayama",
+      "later": "Gunma"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/62/geoPoint/lat",
+      "pre_cutoff": 34.65,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/62/geoPoint/lon",
+      "pre_cutoff": 133.93333,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/62/zip",
+      "pre_cutoff": "701-1192",
+      "later": "377-0280"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/63/city",
+      "pre_cutoff": "Osaka",
+      "later": "Hokkaido"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/63/geoPoint/lat",
+      "pre_cutoff": 34.69379,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/63/geoPoint/lon",
+      "pre_cutoff": 135.50107,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/63/zip",
+      "pre_cutoff": "565-0871",
+      "later": "060-8648"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/64/city",
+      "pre_cutoff": "Tottori",
+      "later": "Numakunai"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/64/geoPoint/lat",
+      "pre_cutoff": 34.24877,
+      "later": 39.96667
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/64/geoPoint/lon",
+      "pre_cutoff": 134.67796,
+      "later": 141.21667
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/64/zip",
+      "pre_cutoff": "683-8504",
+      "later": "028-3695"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/65/city",
+      "pre_cutoff": "Yamagata",
+      "later": "Okayama"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/65/geoPoint/lat",
+      "pre_cutoff": 38.23333,
+      "later": 34.65
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/65/geoPoint/lon",
+      "pre_cutoff": 140.36667,
+      "later": 133.93333
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/65/zip",
+      "pre_cutoff": "990-9585",
+      "later": "701-1192"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/66/city",
+      "pre_cutoff": "Auckland",
+      "later": "Osaka"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/66/country",
+      "pre_cutoff": "New Zealand",
+      "later": "Japan"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/66/geoPoint/lat",
+      "pre_cutoff": -36.84853,
+      "later": 34.69379
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/66/geoPoint/lon",
+      "pre_cutoff": 174.76349,
+      "later": 135.50107
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/66/zip",
+      "pre_cutoff": "2025",
+      "later": "565-0871"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/67/city",
+      "pre_cutoff": "Dunedin",
+      "later": "Tottori"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/67/country",
+      "pre_cutoff": "New Zealand",
+      "later": "Japan"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/67/geoPoint/lat",
+      "pre_cutoff": -45.87416,
+      "later": 34.24877
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/67/geoPoint/lon",
+      "pre_cutoff": 170.50361,
+      "later": 134.67796
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/67/zip",
+      "pre_cutoff": "9016",
+      "later": "683-8504"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/68/city",
+      "pre_cutoff": "Grafton",
+      "later": "Yamagata"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/68/country",
+      "pre_cutoff": "New Zealand",
+      "later": "Japan"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/68/geoPoint/lat",
+      "pre_cutoff": -36.86029,
+      "later": 38.23333
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/68/geoPoint/lon",
+      "pre_cutoff": 174.76566,
+      "later": 140.36667
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/68/zip",
+      "pre_cutoff": "1023",
+      "later": "990-9585"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/69/city",
+      "pre_cutoff": "Hamilton",
+      "later": "Auckland"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/69/geoPoint/lat",
+      "pre_cutoff": -37.78333,
+      "later": -36.84853
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/69/geoPoint/lon",
+      "pre_cutoff": 175.28333,
+      "later": 174.76349
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/69/zip",
+      "pre_cutoff": "3204",
+      "later": "1023"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/70/city",
+      "pre_cutoff": "Takapuna Auckland",
+      "later": "Auckland"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/70/geoPoint/lat",
+      "pre_cutoff": null,
+      "later": -36.84853
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/70/geoPoint/lon",
+      "pre_cutoff": null,
+      "later": 174.76349
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/70/zip",
+      "pre_cutoff": "622",
+      "later": "2025"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/71/city",
+      "pre_cutoff": "Tauranga",
+      "later": "Dunedin"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/71/geoPoint/lat",
+      "pre_cutoff": -37.68611,
+      "later": -45.87416
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/71/geoPoint/lon",
+      "pre_cutoff": 176.16667,
+      "later": 170.50361
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/71/zip",
+      "pre_cutoff": "3143",
+      "later": "9016"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/72/city",
+      "pre_cutoff": "Bydgoszcz",
+      "later": "Hamilton"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/72/country",
+      "pre_cutoff": "Poland",
+      "later": "New Zealand"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/72/geoPoint/lat",
+      "pre_cutoff": 53.1235,
+      "later": -37.78333
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/72/geoPoint/lon",
+      "pre_cutoff": 18.00762,
+      "later": 175.28333
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/72/zip",
+      "pre_cutoff": "85-168",
+      "later": "3204"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/73/city",
+      "pre_cutoff": "Gdansk",
+      "later": "Takapuna Auckland"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/73/country",
+      "pre_cutoff": "Poland",
+      "later": "New Zealand"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/73/geoPoint/lat",
+      "pre_cutoff": 54.35227,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/73/geoPoint/lon",
+      "pre_cutoff": 18.64912,
+      "later": null
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/73/zip",
+      "pre_cutoff": "80-214",
+      "later": "622"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/74/city",
+      "pre_cutoff": "Krakow",
+      "later": "Tauranga"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/74/country",
+      "pre_cutoff": "Poland",
+      "later": "New Zealand"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/74/geoPoint/lat",
+      "pre_cutoff": 50.06143,
+      "later": -37.68611
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/74/geoPoint/lon",
+      "pre_cutoff": 19.93658,
+      "later": 176.16667
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/74/zip",
+      "pre_cutoff": "31-501",
+      "later": "3143"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/75/city",
+      "pre_cutoff": "Lodz",
+      "later": "Bydgoszcz"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/75/geoPoint/lat",
+      "pre_cutoff": 51.77058,
+      "later": 53.1235
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/75/geoPoint/lon",
+      "pre_cutoff": 19.47395,
+      "later": 18.00762
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/75/zip",
+      "pre_cutoff": "93-513",
+      "later": "85-168"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/76/city",
+      "pre_cutoff": "Wroclaw",
+      "later": "Gdansk"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/76/geoPoint/lat",
+      "pre_cutoff": 51.10286,
+      "later": 54.35227
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/76/geoPoint/lon",
+      "pre_cutoff": 17.03006,
+      "later": 18.64912
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/76/zip",
+      "pre_cutoff": "50-367",
+      "later": "80-214"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/77/city",
+      "pre_cutoff": "Moscow",
+      "later": "Krakow"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/77/country",
+      "pre_cutoff": "Russia",
+      "later": "Poland"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/77/geoPoint/lat",
+      "pre_cutoff": 55.75204,
+      "later": 50.06143
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/77/geoPoint/lon",
+      "pre_cutoff": 37.61781,
+      "later": 19.93658
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/77/zip",
+      "pre_cutoff": "125101",
+      "later": "31-501"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/78/city",
+      "pre_cutoff": "Moscow",
+      "later": "Lodz"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/78/country",
+      "pre_cutoff": "Russia",
+      "later": "Poland"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/78/geoPoint/lat",
+      "pre_cutoff": 55.75204,
+      "later": 51.77058
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/78/geoPoint/lon",
+      "pre_cutoff": 37.61781,
+      "later": 19.47395
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/78/zip",
+      "pre_cutoff": "125284",
+      "later": "93-513"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/79/city",
+      "pre_cutoff": "Novosibirsk",
+      "later": "Wroclaw"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/79/country",
+      "pre_cutoff": "Russia",
+      "later": "Poland"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/79/geoPoint/lat",
+      "pre_cutoff": 55.02259,
+      "later": 51.10286
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/79/geoPoint/lon",
+      "pre_cutoff": 82.93175,
+      "later": 17.03006
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/79/zip",
+      "pre_cutoff": "630087",
+      "later": "50-367"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/80/city",
+      "pre_cutoff": "Saint Petersburg",
+      "later": "Moscow"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/80/geoPoint/lat",
+      "pre_cutoff": 59.93863,
+      "later": 55.75204
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/80/geoPoint/lon",
+      "pre_cutoff": 30.31413,
+      "later": 37.61781
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/80/zip",
+      "pre_cutoff": "191024",
+      "later": "125101"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/81/city",
+      "pre_cutoff": "Saint Petersburg",
+      "later": "Moscow"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/81/geoPoint/lat",
+      "pre_cutoff": 59.93863,
+      "later": 55.75204
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/81/geoPoint/lon",
+      "pre_cutoff": 30.31413,
+      "later": 37.61781
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/81/zip",
+      "pre_cutoff": "194291",
+      "later": "125284"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/82/city",
+      "pre_cutoff": "Saint Petersburg",
+      "later": "Novosibirsk"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/82/geoPoint/lat",
+      "pre_cutoff": 59.93863,
+      "later": 55.02259
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/82/geoPoint/lon",
+      "pre_cutoff": 30.31413,
+      "later": 82.93175
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/82/zip",
+      "pre_cutoff": "197341",
+      "later": "630087"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/83/city",
+      "pre_cutoff": "Samara",
+      "later": "Saint Petersburg"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/83/geoPoint/lat",
+      "pre_cutoff": 53.20767,
+      "later": 59.93863
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/83/geoPoint/lon",
+      "pre_cutoff": 50.13553,
+      "later": 30.31413
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/83/zip",
+      "pre_cutoff": "443099",
+      "later": "191024"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/84/city",
+      "pre_cutoff": "Sochi",
+      "later": "Saint Petersburg"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/84/geoPoint/lat",
+      "pre_cutoff": 43.59699,
+      "later": 59.93863
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/84/geoPoint/lon",
+      "pre_cutoff": 39.72477,
+      "later": 30.31413
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/84/zip",
+      "pre_cutoff": "354057",
+      "later": "194291"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/85/city",
+      "pre_cutoff": "Gyeonggi-do",
+      "later": "Saint Petersburg"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/85/country",
+      "pre_cutoff": "South Korea",
+      "later": "Russia"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/85/geoPoint/lat",
+      "pre_cutoff": 37.58944,
+      "later": 59.93863
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/85/geoPoint/lon",
+      "pre_cutoff": 126.76917,
+      "later": 30.31413
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/85/zip",
+      "pre_cutoff": "10408",
+      "later": "197341"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/86/city",
+      "pre_cutoff": "Hwasun",
+      "later": "Samara"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/86/country",
+      "pre_cutoff": "South Korea",
+      "later": "Russia"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/86/geoPoint/lat",
+      "pre_cutoff": 35.06125,
+      "later": 53.20767
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/86/geoPoint/lon",
+      "pre_cutoff": 126.98746,
+      "later": 50.13553
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/86/zip",
+      "pre_cutoff": "58128",
+      "later": "443099"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/87/city",
+      "pre_cutoff": "Inchon",
+      "later": "Sochi"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/87/country",
+      "pre_cutoff": "South Korea",
+      "later": "Russia"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/87/geoPoint/lat",
+      "pre_cutoff": 35.55479,
+      "later": 43.59699
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/87/geoPoint/lon",
+      "pre_cutoff": 126.6251,
+      "later": 39.72477
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/87/zip",
+      "pre_cutoff": "21565",
+      "later": "354057"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/88/city",
+      "pre_cutoff": "Seoul",
+      "later": "Gyeonggi-do"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/88/geoPoint/lat",
+      "pre_cutoff": 37.566,
+      "later": 37.58944
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/88/geoPoint/lon",
+      "pre_cutoff": 126.9784,
+      "later": 126.76917
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/88/zip",
+      "pre_cutoff": "03080",
+      "later": "10408"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/89/city",
+      "pre_cutoff": "Seoul",
+      "later": "Hwasun"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/89/geoPoint/lat",
+      "pre_cutoff": 37.566,
+      "later": 35.06125
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/89/geoPoint/lon",
+      "pre_cutoff": 126.9784,
+      "later": 126.98746
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/89/zip",
+      "pre_cutoff": "03722",
+      "later": "58128"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/90/city",
+      "pre_cutoff": "Seoul",
+      "later": "Inchon"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/90/geoPoint/lat",
+      "pre_cutoff": 37.566,
+      "later": 35.55479
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/90/geoPoint/lon",
+      "pre_cutoff": 126.9784,
+      "later": 126.6251
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/90/zip",
+      "pre_cutoff": "06351",
+      "later": "21565"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/91/zip",
+      "pre_cutoff": "06591",
+      "later": "03080"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/92/city",
+      "pre_cutoff": "Barcelona",
+      "later": "Seoul"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/92/country",
+      "pre_cutoff": "Spain",
+      "later": "South Korea"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/92/geoPoint/lat",
+      "pre_cutoff": 41.38879,
+      "later": 37.566
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/92/geoPoint/lon",
+      "pre_cutoff": 2.15899,
+      "later": 126.9784
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/92/zip",
+      "pre_cutoff": "08036",
+      "later": "03722"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/93/city",
+      "pre_cutoff": "Barcelona",
+      "later": "Seoul"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/93/country",
+      "pre_cutoff": "Spain",
+      "later": "South Korea"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/93/geoPoint/lat",
+      "pre_cutoff": 41.38879,
+      "later": 37.566
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/93/geoPoint/lon",
+      "pre_cutoff": 2.15899,
+      "later": 126.9784
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/93/zip",
+      "pre_cutoff": "8035",
+      "later": "06351"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/94/city",
+      "pre_cutoff": "Gijón",
+      "later": "Seoul"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/94/country",
+      "pre_cutoff": "Spain",
+      "later": "South Korea"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/94/geoPoint/lat",
+      "pre_cutoff": 43.53573,
+      "later": 37.566
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/94/geoPoint/lon",
+      "pre_cutoff": -5.66152,
+      "later": 126.9784
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/94/zip",
+      "pre_cutoff": "33204",
+      "later": "06591"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/95/city",
+      "pre_cutoff": "L'Hospitalet de Llobrega",
+      "later": "Barcelona"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/95/geoPoint/lat",
+      "pre_cutoff": null,
+      "later": 41.38879
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/95/geoPoint/lon",
+      "pre_cutoff": null,
+      "later": 2.15899
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/95/zip",
+      "pre_cutoff": "08908",
+      "later": "08036"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/96/city",
+      "pre_cutoff": "Madrid",
+      "later": "Barcelona"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/96/geoPoint/lat",
+      "pre_cutoff": 40.4165,
+      "later": 41.38879
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/96/geoPoint/lon",
+      "pre_cutoff": -3.70256,
+      "later": 2.15899
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/96/zip",
+      "pre_cutoff": "28006",
+      "later": "8035"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/97/city",
+      "pre_cutoff": "Madrid",
+      "later": "Gijón"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/97/geoPoint/lat",
+      "pre_cutoff": 40.4165,
+      "later": 43.53573
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/97/geoPoint/lon",
+      "pre_cutoff": -3.70256,
+      "later": -5.66152
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/97/zip",
+      "pre_cutoff": "28027",
+      "later": "33204"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/98/city",
+      "pre_cutoff": "MOstoles Madrid",
+      "later": "L'Hospitalet de Llobrega"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/98/zip",
+      "pre_cutoff": "28933",
+      "later": "08908"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/99/city",
+      "pre_cutoff": "Murcia",
+      "later": "Madrid"
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/99/geoPoint/lat",
+      "pre_cutoff": 37.98704,
+      "later": 40.4165
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/99/geoPoint/lon",
+      "pre_cutoff": -1.13004,
+      "later": -3.70256
+    },
+    {
+      "path": "/protocolSection/contactsLocationsModule/locations/99/zip",
+      "pre_cutoff": "30008",
+      "later": "28006"
+    },
+    {
+      "path": "/protocolSection/ipdSharingStatementModule/description",
+      "pre_cutoff": "GSK will assess requests from qualified researchers for anonymized individual patient-level data and related study documents.\nData sharing is subject to certain criteria, conditions, and exceptions.\nFor further information, refer to https:&#x2F;&#x2F;www.gsk-studyregister.com&#x2F;About_GSK_Patient_Level_Data_Sharing_Final_13July2023.pdf.",
+      "later": "GSK will assess requests from qualified researchers for anonymized individual patient-level data and related study documents.\nData sharing is subject to certain criteria, conditions, and exceptions.\nFor further information, refer to https:&#x2F;&#x2F;www.gsk-studyregister.com&#x2F;gsk-patient-level-data-sharing-july2025.pdf"
+    },
+    {
+      "path": "/protocolSection/statusModule/completionDateStruct/date",
+      "pre_cutoff": "2029-10-25",
+      "later": "2029-06-25"
+    },
+    {
+      "path": "/protocolSection/statusModule/lastUpdatePostDateStruct/date",
+      "pre_cutoff": "2025-03-18",
+      "later": "2026-06-12"
+    },
+    {
+      "path": "/protocolSection/statusModule/lastUpdateSubmitDate",
+      "pre_cutoff": "2025-03-11",
+      "later": "2026-05-25"
+    },
+    {
+      "path": "/protocolSection/statusModule/statusVerifiedDate",
+      "pre_cutoff": "2025-03",
+      "later": "2026-05"
+    }
+  ],
+  "event_groups": [
+    {
+      "id": "EG000",
+      "title": "Belantamab Mafodotin+Pomalidomide+Dexamethasone",
+      "description": "Participants with Relapsed&#x2F;Refractory Multiple Myeloma (RRMM) received intravenous (IV) infusion of 2.5 milligram (mg)&#x2F;kilogram (kg) belantamab mafodotin on Day 1 of Cycle 1 and 1.9 mg&#x2F;kg on Day 1 of Cycle 2 onwards in each 28-day cycle, in combination with oral 4 mg per day Pomalidomide capsule on Days 1 to 21 of each 28-day cycle; and oral 40 mg per day Dexamethasone tablet on Days 1, 8, 15, and 22 of each 28-day cycle until disease progression, death, unacceptable toxicity, withdrawal of consent, initiation of another anti-myeloma therapy or end of study, whichever occurs first.",
+      "deathsNumAffected": 48,
+      "deathsNumAtRisk": 155,
+      "seriousNumAffected": 95,
+      "seriousNumAtRisk": 150,
+      "otherNumAffected": 148,
+      "otherNumAtRisk": 150
+    },
+    {
+      "id": "EG001",
+      "title": "Pomalidomide+Bortezomib+Dexamethasone",
+      "description": "Participants with RRMM received oral 4 mg per day Pomalidomide capsule on Days 1 to 14 of each 21-day cycle, in combination with subcutaneous (SC) injection of 1.3 mg&#x2F;meter^2(m^2) Bortezomib on Days 1, 4, 8, 11, of each 21-day cycle for Cycles 1 through 8, and on Days 1, 8, of each 21-day cycle for Cycles 9+, and oral 20 mg Dexamethasone tablet on Days 1, 2, 4, 5, 8, 9, 11, 12, of each 21-day cycle for Cycles 1 through 8 and then on Days 1, 2, 8, 9, every 3 Weeks (Q3W) from Cycles 9 onwards until disease progression, death, unacceptable toxicity, withdrawal of consent, initiation of another anti-myeloma therapy or end of study, whichever occurs first.",
+      "deathsNumAffected": 54,
+      "deathsNumAtRisk": 147,
+      "seriousNumAffected": 65,
+      "seriousNumAtRisk": 145,
+      "otherNumAffected": 130,
+      "otherNumAtRisk": 145
+    }
+  ],
+  "source_urls": [
+    "https://clinicaltrials.gov/api/int/studies/NCT04484623/history/20",
+    "https://clinicaltrials.gov/api/int/studies/NCT04484623/history/21"
+  ],
+  "historical_version_date_semantics": "History-list dates are submission dates; the public-posting date is separately read from statusModule.lastUpdatePostDateStruct. UI version is 1-based; API studyVersion is 0-based."
+}

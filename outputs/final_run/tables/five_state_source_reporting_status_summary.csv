@@ -1,0 +1,6 @@
+five_state_status,stratum_count,stratum_percent
+comparable_and_concordant,14,2.9
+comparable_but_discordant,3,0.6
+not_reported_in_both_sources,157,32.5
+reported_but_non_comparable,36,7.5
+unavailable,273,56.5

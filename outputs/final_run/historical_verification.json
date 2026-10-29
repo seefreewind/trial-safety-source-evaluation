@@ -1,0 +1,47 @@
+{
+  "leaf_fields": 2529,
+  "format_difference_paths": [
+    "/description",
+    "/eventGroups/0/description",
+    "/eventGroups/1/description"
+  ],
+  "extraction_checks": [
+    {
+      "record": "CTEXP000127",
+      "n": 48,
+      "N": 155,
+      "matches": true
+    },
+    {
+      "record": "CTEXP000128",
+      "n": 95,
+      "N": 150,
+      "matches": true
+    },
+    {
+      "record": "CTEXP000129",
+      "n": 148,
+      "N": 150,
+      "matches": true
+    },
+    {
+      "record": "CTEXP000130",
+      "n": 54,
+      "N": 147,
+      "matches": true
+    },
+    {
+      "record": "CTEXP000131",
+      "n": 65,
+      "N": 145,
+      "matches": true
+    },
+    {
+      "record": "CTEXP000132",
+      "n": 130,
+      "N": 145,
+      "matches": true
+    }
+  ],
+  "historical_public_date": "2025-03-18"
+}

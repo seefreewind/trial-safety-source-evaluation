@@ -1,0 +1,17 @@
+{
+  "tests": 70,
+  "all_passed": true,
+  "byte_identical_key_outputs": {
+    "trial_level_summary.csv": true,
+    "record_level_audit.csv": true,
+    "classification_summary.csv": true,
+    "table2_regenerated.csv": true,
+    "statistical_reconciliation.csv": true,
+    "source_coverage_counts.csv": true,
+    "historical_screening_counts.csv": true,
+    "historical_verification.json": true
+  },
+  "sha256_manifest_verified": true,
+  "fresh_virtual_environment_verified": true,
+  "scope": "Relocated archive and different working directory with Python -I in freshly installed project venv; same machine, no independent source re-extraction or adjudication."
+}

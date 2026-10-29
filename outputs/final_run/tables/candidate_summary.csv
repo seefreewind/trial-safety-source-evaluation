@@ -1,0 +1,17 @@
+trial_id,comparison_count,grade_A,grade_B,grade_C,source_pairs,ae_concepts
+TRIAL001,51,0,0,51,ClinicalTrials.gov vs FDA review;ClinicalTrials.gov vs publication;FDA review vs publication,adverse_event_leading_to_discontinuation;any_adverse_event;dose_interruption;dose_reduction;fatal_adverse_event;grade_3_or_higher_adverse_event;serious_adverse_event
+TRIAL002,78,12,0,66,ClinicalTrials.gov vs FDA review;ClinicalTrials.gov vs publication;FDA review vs publication,adverse_event_leading_to_discontinuation;any_adverse_event;dose_interruption;dose_reduction;fatal_adverse_event;serious_adverse_event
+TRIAL003,20,5,0,15,ClinicalTrials.gov vs FDA review;ClinicalTrials.gov vs publication;FDA review vs publication,any_adverse_event;fatal_adverse_event;grade_3_or_higher_adverse_event;serious_adverse_event
+TRIAL004,7,1,0,6,ClinicalTrials.gov vs FDA review;ClinicalTrials.gov vs publication;FDA review vs publication,adverse_event_leading_to_discontinuation;any_adverse_event;fatal_adverse_event;grade_3_or_higher_adverse_event;serious_adverse_event
+TRIAL005,6,0,0,6,ClinicalTrials.gov vs publication,fatal_adverse_event;serious_adverse_event
+TRIAL006,2,0,0,2,FDA review vs publication,fatal_adverse_event
+TRIAL007,1,0,0,1,ClinicalTrials.gov vs publication,fatal_adverse_event
+TRIAL008,2,0,0,2,ClinicalTrials.gov vs publication,fatal_adverse_event
+TRIAL009,12,0,0,12,ClinicalTrials.gov vs publication,fatal_adverse_event;serious_adverse_event
+TRIAL011,72,0,0,72,ClinicalTrials.gov vs FDA review;ClinicalTrials.gov vs publication;FDA review vs publication,dose_reduction;fatal_adverse_event;serious_adverse_event
+TRIAL012,2,0,0,2,ClinicalTrials.gov vs publication,fatal_adverse_event;serious_adverse_event
+TRIAL013,1,0,0,1,ClinicalTrials.gov vs publication,serious_adverse_event
+TRIAL014,8,0,0,8,ClinicalTrials.gov vs publication,fatal_adverse_event;serious_adverse_event
+TRIAL015,2,0,0,2,ClinicalTrials.gov vs publication,fatal_adverse_event;serious_adverse_event
+TRIAL019,4,0,0,4,ClinicalTrials.gov vs publication,serious_adverse_event
+TRIAL020,1,0,0,1,ClinicalTrials.gov vs publication,fatal_adverse_event

@@ -1,0 +1,6 @@
+source_type,extraction_state,trial_source_count
+ClinicalTrials.gov,source_unavailable_or_not_linked,4
+ClinicalTrials.gov,structured_value_extracted,19
+FDA review,source_retrieved_no_structured_core_values,17
+FDA review,structured_value_extracted,6
+publication,structured_value_extracted,23

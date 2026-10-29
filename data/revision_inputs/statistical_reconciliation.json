@@ -1,0 +1,134 @@
+[
+  {
+    "Metric": "Included trials",
+    "Frozen expected": 23,
+    "Recomputed": 23,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Publication extraction",
+    "Frozen expected": 23,
+    "Recomputed": 23,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Registry extraction",
+    "Frozen expected": 19,
+    "Recomputed": 19,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "FDA structured extraction",
+    "Frozen expected": 6,
+    "Recomputed": 6,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Other trials without FDA core extraction",
+    "Frozen expected": 17,
+    "Recomputed": 17,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Trial-concept-source groups with related extracted values",
+    "Frozen expected": 53,
+    "Recomputed": 53,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Historical groups contributing retained records",
+    "Frozen expected": 17,
+    "Recomputed": 17,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Automatically generated source-row pairings",
+    "Frozen expected": 269,
+    "Recomputed": 269,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Retained source-row records",
+    "Frozen expected": 28,
+    "Recomputed": 28,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Originally designated primary",
+    "Frozen expected": 21,
+    "Recomputed": 21,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Originally designated sensitivity",
+    "Frozen expected": 7,
+    "Recomputed": 7,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Reclassified original primary records",
+    "Frozen expected": 1,
+    "Recomputed": 1,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Six FDA-extracted: Registry values",
+    "Frozen expected": 5,
+    "Recomputed": 5,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Six FDA-extracted: Randomized controlled",
+    "Frozen expected": 2,
+    "Recomputed": 2,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Six FDA-extracted: Median coverage",
+    "Frozen expected": 6.5,
+    "Recomputed": 6.5,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Six FDA-extracted: Minimum coverage",
+    "Frozen expected": 2,
+    "Recomputed": 2,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Six FDA-extracted: Maximum coverage",
+    "Frozen expected": 7,
+    "Recomputed": 7,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Other seventeen: Registry values",
+    "Frozen expected": 14,
+    "Recomputed": 14,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Other seventeen: Randomized controlled",
+    "Frozen expected": 9,
+    "Recomputed": 9,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Other seventeen: Median coverage",
+    "Frozen expected": 5,
+    "Recomputed": 5,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Other seventeen: Minimum coverage",
+    "Frozen expected": 3,
+    "Recomputed": 3,
+    "Status": "MATCH"
+  },
+  {
+    "Metric": "Other seventeen: Maximum coverage",
+    "Frozen expected": 7,
+    "Recomputed": 7,
+    "Status": "MATCH"
+  }
+]

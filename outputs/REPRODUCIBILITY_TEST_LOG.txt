@@ -1,0 +1,117 @@
+Wrote data/processed/full_cohort_source_comparability_matrix.csv
+Wrote tables/candidate_summary.csv
+Wrote protocol/legacy_candidate_report.md
+PASS Original candidate generator matches every archived row and field
+PASS Original retained-record builder matches archived packet
+# Three-layer analysis tables 生成报告
+
+- completeness by trial/source: `tables/core_safety_reporting_completeness_by_trial_source.csv`
+- completeness by trial: `tables/core_safety_reporting_completeness_by_trial.csv`
+- comparability yield overall/source/trial/concept: `tables/comparability_yield_*.csv`
+- five-state status: `tables/five_state_source_reporting_status.csv`
+- manuscript summary: `manuscript/three_layer_analysis_tables.en.md`
+
+- 23 个 trial 均进入 Layer 1。
+- 269 个潜在比较进入 Layer 2。
+- confirmed comparability yield: 10.4%。
+PASS Historical screening regenerated row-for-row
+# Source-flow status 拆分报告
+
+- 已生成：`tables/source_flow_status_by_trial_source.csv`
+- 已生成：`tables/source_flow_status_by_trial_source_concept.csv`
+- 已生成：`tables/source_flow_status_summary.csv`
+- publication structured extraction：23/23
+- ClinicalTrials.gov structured extraction：19/23
+- FDA review structured extraction：6/23
+- FDA documents present but no structured trial-specific core values：17/23
+PASS Original trial-characteristics builder matches all fields
+PASS All trial coverage counts match archived counts
+PASS Record FULLCOMP000052 linked to original seed rows
+PASS Record FULLCOMP000055 linked to original seed rows
+PASS Record FULLCOMP000056 linked to original seed rows
+PASS Record FULLCOMP000059 linked to original seed rows
+PASS Record FULLCOMP000060 linked to original seed rows
+PASS Record FULLCOMP000063 linked to original seed rows
+PASS Record FULLCOMP000064 linked to original seed rows
+PASS Record FULLCOMP000067 linked to original seed rows
+PASS Record FULLCOMP000073 linked to original seed rows
+PASS Record FULLCOMP000081 linked to original seed rows
+PASS Record FULLCOMP000111 linked to original seed rows
+PASS Record FULLCOMP000119 linked to original seed rows
+PASS Record FULLCOMP000131 linked to original seed rows
+PASS Record FULLCOMP000132 linked to original seed rows
+PASS Record FULLCOMP000137 linked to original seed rows
+PASS Record FULLCOMP000143 linked to original seed rows
+PASS Record FULLCOMP000144 linked to original seed rows
+PASS Record FULLCOMP000146 linked to original seed rows
+PASS Record FULLCOMP000150 linked to original seed rows
+PASS Record FULLCOMP000259 linked to original seed rows
+PASS Record FULLCOMP000262 linked to original seed rows
+PASS Record FULLCOMP000003 linked to original seed rows
+PASS Record FULLCOMP000005 linked to original seed rows
+PASS Record FULLCOMP000040 linked to original seed rows
+PASS Record FULLCOMP000106 linked to original seed rows
+PASS Record FULLCOMP000114 linked to original seed rows
+PASS Record FULLCOMP000120 linked to original seed rows
+PASS Record FULLCOMP000123 linked to original seed rows
+PASS Ledger count matches rebuilt packet and unique IDs
+PASS Concordant revised category requires equal counts
+PASS No record certified fully context-aligned
+PASS Registry source n/N FULLCOMP000146 side 1
+PASS Registry source n/N FULLCOMP000259 side 2
+PASS Registry source n/N FULLCOMP000262 side 2
+PASS Registry source n/N FULLCOMP000106 side 2
+PASS Registry source n/N FULLCOMP000114 side 2
+PASS Registry source n/N FULLCOMP000120 side 1
+PASS Registry source n/N FULLCOMP000123 side 1
+PASS Original pandas six-versus-seventeen reanalysis agrees
+PASS Statistic Included trials
+PASS Statistic Publication extraction
+PASS Statistic Registry extraction
+PASS Statistic FDA structured extraction
+PASS Statistic Other trials without FDA core extraction
+PASS Statistic Trial-concept-source groups with related extracted values
+PASS Statistic Historical groups contributing retained records
+PASS Statistic Automatically generated source-row pairings
+PASS Statistic Retained source-row records
+PASS Statistic Originally designated primary
+PASS Statistic Originally designated sensitivity
+PASS Statistic Reclassified original primary records
+PASS Statistic Six FDA-extracted: Registry values
+PASS Statistic Six FDA-extracted: Randomized controlled
+PASS Statistic Six FDA-extracted: Median coverage
+PASS Statistic Six FDA-extracted: Minimum coverage
+PASS Statistic Six FDA-extracted: Maximum coverage
+PASS Statistic Other seventeen: Registry values
+PASS Statistic Other seventeen: Randomized controlled
+PASS Statistic Other seventeen: Median coverage
+PASS Statistic Other seventeen: Minimum coverage
+PASS Statistic Other seventeen: Maximum coverage
+PASS Official historical adverse-event modules equal
+PASS Historical version publicly posted before identification cutoff
+PASS Archive differences are text formatting only
+PASS All extracted DREAMM-8 n/N match historical source
+{
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "python_docx": "1.2.0",
+  "numpy": "2.3.5",
+  "matplotlib": "3.11.0",
+  "tests_passed": 70,
+  "tests_total": 70,
+  "all_passed": true,
+  "categories": {
+    "A": 0,
+    "B": 18,
+    "C": 1,
+    "D": 8,
+    "E": 1
+  },
+  "interpretation_status": {
+    "PARTIALLY_VERIFIED": 24,
+    "VERIFIED": 4
+  },
+  "REPRODUCIBILITY_STATUS": "PASS_EXTRACTED_DATA",
+  "END_TO_END_SOURCE_REEXTRACTION": "PARTIAL: existing extraction seeds, original confirmation and manual source-audit annotations are inputs; copyrighted primary-text extraction and independent human adjudication are not repeated.",
+  "randomness": "None in the functions executed. No inferential analysis, bootstrap or training run."
+}

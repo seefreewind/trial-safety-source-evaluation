@@ -1,0 +1,484 @@
+trial_id,short_trial_name,safety_concept,source_pair,five_state_status,generated_comparison_count,grade_A_or_B_count,confirmed_analysis_ready_count,grade_C_count
+TRIAL001,DESTINY-Breast01,any_adverse_event,publication vs FDA review,comparable_and_concordant,2,0,1,2
+TRIAL001,DESTINY-Breast01,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL001,DESTINY-Breast01,any_adverse_event,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL001,DESTINY-Breast01,grade_3_or_higher_adverse_event,publication vs FDA review,reported_but_non_comparable,2,0,0,2
+TRIAL001,DESTINY-Breast01,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL001,DESTINY-Breast01,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL001,DESTINY-Breast01,serious_adverse_event,publication vs FDA review,comparable_but_discordant,2,0,1,2
+TRIAL001,DESTINY-Breast01,serious_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,10,0,0,10
+TRIAL001,DESTINY-Breast01,serious_adverse_event,FDA review vs ClinicalTrials.gov,reported_but_non_comparable,5,0,0,5
+TRIAL001,DESTINY-Breast01,fatal_adverse_event,publication vs FDA review,reported_but_non_comparable,4,0,0,4
+TRIAL001,DESTINY-Breast01,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,10,0,0,10
+TRIAL001,DESTINY-Breast01,fatal_adverse_event,FDA review vs ClinicalTrials.gov,reported_but_non_comparable,10,0,0,10
+TRIAL001,DESTINY-Breast01,adverse_event_leading_to_discontinuation,publication vs FDA review,reported_but_non_comparable,2,0,0,2
+TRIAL001,DESTINY-Breast01,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL001,DESTINY-Breast01,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL001,DESTINY-Breast01,dose_interruption,publication vs FDA review,comparable_and_concordant,2,0,1,2
+TRIAL001,DESTINY-Breast01,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL001,DESTINY-Breast01,dose_interruption,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL001,DESTINY-Breast01,dose_reduction,publication vs FDA review,reported_but_non_comparable,2,0,0,2
+TRIAL001,DESTINY-Breast01,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL001,DESTINY-Breast01,dose_reduction,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL002,DREAMM-2,any_adverse_event,publication vs FDA review,comparable_and_concordant,4,2,2,2
+TRIAL002,DREAMM-2,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL002,DREAMM-2,any_adverse_event,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL002,DREAMM-2,grade_3_or_higher_adverse_event,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL002,DREAMM-2,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL002,DREAMM-2,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL002,DREAMM-2,serious_adverse_event,publication vs FDA review,comparable_and_concordant,4,2,2,2
+TRIAL002,DREAMM-2,serious_adverse_event,publication vs ClinicalTrials.gov,comparable_but_discordant,10,0,2,10
+TRIAL002,DREAMM-2,serious_adverse_event,FDA review vs ClinicalTrials.gov,comparable_but_discordant,10,0,2,10
+TRIAL002,DREAMM-2,fatal_adverse_event,publication vs FDA review,comparable_and_concordant,8,2,2,6
+TRIAL002,DREAMM-2,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,20,0,0,20
+TRIAL002,DREAMM-2,fatal_adverse_event,FDA review vs ClinicalTrials.gov,reported_but_non_comparable,10,0,0,10
+TRIAL002,DREAMM-2,adverse_event_leading_to_discontinuation,publication vs FDA review,comparable_and_concordant,4,2,2,2
+TRIAL002,DREAMM-2,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL002,DREAMM-2,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL002,DREAMM-2,dose_interruption,publication vs FDA review,comparable_and_concordant,4,2,2,2
+TRIAL002,DREAMM-2,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL002,DREAMM-2,dose_interruption,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL002,DREAMM-2,dose_reduction,publication vs FDA review,comparable_and_concordant,4,2,2,2
+TRIAL002,DREAMM-2,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL002,DREAMM-2,dose_reduction,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,any_adverse_event,publication vs FDA review,comparable_and_concordant,4,2,2,2
+TRIAL003,EV-201,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,any_adverse_event,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,grade_3_or_higher_adverse_event,publication vs FDA review,comparable_and_concordant,4,2,2,2
+TRIAL003,EV-201,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,serious_adverse_event,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,serious_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,serious_adverse_event,FDA review vs ClinicalTrials.gov,comparable_and_concordant,4,0,1,4
+TRIAL003,EV-201,fatal_adverse_event,publication vs FDA review,comparable_and_concordant,2,1,1,1
+TRIAL003,EV-201,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,2,0,0,2
+TRIAL003,EV-201,fatal_adverse_event,FDA review vs ClinicalTrials.gov,reported_but_non_comparable,4,0,0,4
+TRIAL003,EV-201,adverse_event_leading_to_discontinuation,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,dose_interruption,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,dose_interruption,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,dose_reduction,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL003,EV-201,dose_reduction,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,any_adverse_event,publication vs FDA review,reported_but_non_comparable,1,0,0,1
+TRIAL004,IMMU-132-01,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,any_adverse_event,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,grade_3_or_higher_adverse_event,publication vs FDA review,reported_but_non_comparable,2,0,0,2
+TRIAL004,IMMU-132-01,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,serious_adverse_event,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,serious_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,serious_adverse_event,FDA review vs ClinicalTrials.gov,reported_but_non_comparable,2,0,0,2
+TRIAL004,IMMU-132-01,fatal_adverse_event,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,1,0,0,1
+TRIAL004,IMMU-132-01,fatal_adverse_event,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,adverse_event_leading_to_discontinuation,publication vs FDA review,comparable_and_concordant,1,1,1,0
+TRIAL004,IMMU-132-01,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,dose_interruption,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,dose_interruption,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,dose_reduction,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL004,IMMU-132-01,dose_reduction,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL005,ASCENT,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL005,ASCENT,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL005,ASCENT,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL005,ASCENT,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL005,ASCENT,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL005,ASCENT,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL005,ASCENT,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL005,ASCENT,serious_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,2,0,0,2
+TRIAL005,ASCENT,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL005,ASCENT,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL005,ASCENT,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,4,0,0,4
+TRIAL005,ASCENT,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL005,ASCENT,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL005,ASCENT,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL005,ASCENT,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL005,ASCENT,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL005,ASCENT,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL005,ASCENT,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL005,ASCENT,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL005,ASCENT,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL005,ASCENT,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,any_adverse_event,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL006,ALFA-0701,any_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,grade_3_or_higher_adverse_event,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL006,ALFA-0701,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,serious_adverse_event,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL006,ALFA-0701,serious_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,fatal_adverse_event,publication vs FDA review,reported_but_non_comparable,2,0,0,2
+TRIAL006,ALFA-0701,fatal_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,adverse_event_leading_to_discontinuation,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL006,ALFA-0701,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,dose_interruption,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL006,ALFA-0701,dose_interruption,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,dose_reduction,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL006,ALFA-0701,dose_reduction,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL006,ALFA-0701,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL007,SG035-0003,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL007,SG035-0003,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL007,SG035-0003,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL007,SG035-0003,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL007,SG035-0003,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL007,SG035-0003,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL007,SG035-0003,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL007,SG035-0003,serious_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL007,SG035-0003,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL007,SG035-0003,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL007,SG035-0003,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,1,0,0,1
+TRIAL007,SG035-0003,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL007,SG035-0003,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL007,SG035-0003,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL007,SG035-0003,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL007,SG035-0003,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL007,SG035-0003,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL007,SG035-0003,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL007,SG035-0003,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL007,SG035-0003,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL007,SG035-0003,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL008,SG035-0004,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL008,SG035-0004,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL008,SG035-0004,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL008,SG035-0004,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL008,SG035-0004,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL008,SG035-0004,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL008,SG035-0004,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL008,SG035-0004,serious_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL008,SG035-0004,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL008,SG035-0004,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL008,SG035-0004,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,2,0,0,2
+TRIAL008,SG035-0004,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL008,SG035-0004,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL008,SG035-0004,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL008,SG035-0004,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL008,SG035-0004,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL008,SG035-0004,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL008,SG035-0004,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL008,SG035-0004,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL008,SG035-0004,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL008,SG035-0004,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL009,EMILIA,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL009,EMILIA,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL009,EMILIA,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL009,EMILIA,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL009,EMILIA,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL009,EMILIA,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL009,EMILIA,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL009,EMILIA,serious_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,6,0,0,6
+TRIAL009,EMILIA,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL009,EMILIA,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL009,EMILIA,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,6,0,0,6
+TRIAL009,EMILIA,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL009,EMILIA,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL009,EMILIA,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL009,EMILIA,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL009,EMILIA,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL009,EMILIA,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL009,EMILIA,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL009,EMILIA,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL009,EMILIA,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL009,EMILIA,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL010,INO-VATE ALL,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL010,INO-VATE ALL,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,serious_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL010,INO-VATE ALL,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,fatal_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL010,INO-VATE ALL,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL010,INO-VATE ALL,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL010,INO-VATE ALL,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL010,INO-VATE ALL,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL010,INO-VATE ALL,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL011,GO29365,any_adverse_event,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,any_adverse_event,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,grade_3_or_higher_adverse_event,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,serious_adverse_event,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,serious_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,serious_adverse_event,FDA review vs ClinicalTrials.gov,reported_but_non_comparable,22,0,0,22
+TRIAL011,GO29365,fatal_adverse_event,publication vs FDA review,reported_but_non_comparable,4,0,0,4
+TRIAL011,GO29365,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,22,0,0,22
+TRIAL011,GO29365,fatal_adverse_event,FDA review vs ClinicalTrials.gov,reported_but_non_comparable,22,0,0,22
+TRIAL011,GO29365,adverse_event_leading_to_discontinuation,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,dose_interruption,publication vs FDA review,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,dose_interruption,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,dose_reduction,publication vs FDA review,reported_but_non_comparable,2,0,0,2
+TRIAL011,GO29365,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL011,GO29365,dose_reduction,FDA review vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL012,LOTIS-2,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL012,LOTIS-2,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL012,LOTIS-2,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,serious_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,1,0,0,1
+TRIAL012,LOTIS-2,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,1,0,0,1
+TRIAL012,LOTIS-2,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL012,LOTIS-2,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL012,LOTIS-2,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL012,LOTIS-2,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL012,LOTIS-2,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL013,innovaTV 204,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL013,innovaTV 204,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,serious_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,1,0,0,1
+TRIAL013,innovaTV 204,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,fatal_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL013,innovaTV 204,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL013,innovaTV 204,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL013,innovaTV 204,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL013,innovaTV 204,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL013,innovaTV 204,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL014,innovaTV 301,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL014,innovaTV 301,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,serious_adverse_event,publication vs ClinicalTrials.gov,comparable_and_concordant,4,0,2,4
+TRIAL014,innovaTV 301,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,4,0,0,4
+TRIAL014,innovaTV 301,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL014,innovaTV 301,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL014,innovaTV 301,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL014,innovaTV 301,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL014,innovaTV 301,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL015,SORAYA,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL015,SORAYA,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL015,SORAYA,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL015,SORAYA,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL015,SORAYA,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL015,SORAYA,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL015,SORAYA,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL015,SORAYA,serious_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,1,0,0,1
+TRIAL015,SORAYA,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL015,SORAYA,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL015,SORAYA,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,1,0,0,1
+TRIAL015,SORAYA,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL015,SORAYA,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL015,SORAYA,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL015,SORAYA,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL015,SORAYA,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL015,SORAYA,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL015,SORAYA,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL015,SORAYA,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL015,SORAYA,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL015,SORAYA,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL016,MIRASOL,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL016,MIRASOL,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL016,MIRASOL,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL016,MIRASOL,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL016,MIRASOL,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL016,MIRASOL,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL016,MIRASOL,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL016,MIRASOL,serious_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL016,MIRASOL,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL016,MIRASOL,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL016,MIRASOL,fatal_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL016,MIRASOL,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL016,MIRASOL,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL016,MIRASOL,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL016,MIRASOL,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL016,MIRASOL,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL016,MIRASOL,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL016,MIRASOL,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL016,MIRASOL,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL016,MIRASOL,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL016,MIRASOL,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL017,DREAMM-7,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL017,DREAMM-7,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,serious_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL017,DREAMM-7,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,fatal_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL017,DREAMM-7,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL017,DREAMM-7,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL017,DREAMM-7,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL017,DREAMM-7,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL017,DREAMM-7,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL018,DREAMM-8,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL018,DREAMM-8,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,serious_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL018,DREAMM-8,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,fatal_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL018,DREAMM-8,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL018,DREAMM-8,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL018,DREAMM-8,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL018,DREAMM-8,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL018,DREAMM-8,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL019,TROPION-Breast01,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL019,TROPION-Breast01,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,serious_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,4,0,0,4
+TRIAL019,TROPION-Breast01,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,fatal_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL019,TROPION-Breast01,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL019,TROPION-Breast01,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL019,TROPION-Breast01,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL019,TROPION-Breast01,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL019,TROPION-Breast01,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,any_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL020,TROPION-Lung05,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL020,TROPION-Lung05,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,serious_adverse_event,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL020,TROPION-Lung05,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,fatal_adverse_event,publication vs ClinicalTrials.gov,reported_but_non_comparable,1,0,0,1
+TRIAL020,TROPION-Lung05,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL020,TROPION-Lung05,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,dose_interruption,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL020,TROPION-Lung05,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL020,TROPION-Lung05,dose_reduction,publication vs ClinicalTrials.gov,not_reported_in_both_sources,0,0,0,0
+TRIAL020,TROPION-Lung05,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,any_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,serious_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,fatal_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,dose_interruption,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,dose_reduction,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL021,LUMINOSITY,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,any_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,serious_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,fatal_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,dose_interruption,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,dose_reduction,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL022,TROPION-Breast02,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,any_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL023,CADENZA,any_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,any_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,grade_3_or_higher_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL023,CADENZA,grade_3_or_higher_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,grade_3_or_higher_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,serious_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL023,CADENZA,serious_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,serious_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,fatal_adverse_event,publication vs FDA review,unavailable,0,0,0,0
+TRIAL023,CADENZA,fatal_adverse_event,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,fatal_adverse_event,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,adverse_event_leading_to_discontinuation,publication vs FDA review,unavailable,0,0,0,0
+TRIAL023,CADENZA,adverse_event_leading_to_discontinuation,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,adverse_event_leading_to_discontinuation,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,dose_interruption,publication vs FDA review,unavailable,0,0,0,0
+TRIAL023,CADENZA,dose_interruption,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,dose_interruption,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,dose_reduction,publication vs FDA review,unavailable,0,0,0,0
+TRIAL023,CADENZA,dose_reduction,publication vs ClinicalTrials.gov,unavailable,0,0,0,0
+TRIAL023,CADENZA,dose_reduction,FDA review vs ClinicalTrials.gov,unavailable,0,0,0,0
